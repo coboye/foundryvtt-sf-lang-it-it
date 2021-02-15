@@ -4,7 +4,7 @@ Hooks.once('init', () => {
 	if(typeof Babele !== 'undefined') {
 		
 		Babele.get().register({
-			module: 'FoundryVTT-sf-it',
+			module: 'foundryvtt-sf-lang-it-it',
 			lang: 'it',
 			dir: 'compendium'
 		});
