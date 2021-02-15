@@ -1,0 +1,300 @@
+{
+	"label": "Eqipaggiamento",
+	"entries": [
+		{
+			"id": "AbadarCorp travel suit, Gold",
+			"name": "Vestito da Viaggio AbadarCorp Oro",
+			"description": "<p>I dirigenti della AbadarCorp hanno sdoganato questi abiti eleganti con corazza leggera per assemblee e incontri diplomatici. Campi di forza autoattivanti e respiratori nascosti proteggono il portatore in condizioni ambientali ostili. I gradi maggiori di vestito da viaggio offrono maggiore protezione, oltre ad essere griffati.</p>"
+		},		
+		{
+			"id": "Knife, Survival",
+			"name": "Coltello da Sopravvivenza",
+			"description": "<p>Queste lame sottili si possono usare in combattimento o per compiti pratici. Il tipico coltello da sopravvivenza ha una lama fissa, a filo singolo, di acciaio al carbonio o ceramica, trattata contro la corrosione. I coltelli tattici hanno ampie lame a doppio filo, spesso con una sezione seghettata presso l'impugnatura, fisse o a serramanico; si pu&ograve; preferire uno stile o l'altro, ma sono identici in termini di prezzo, peso e danni.</p>"
+		},
+		{
+			"id": "Laser Pistol, Azimuth",
+			"name": "Pistola Laser Azimuth",
+			"description": "<p>La pistola laser è probabilmente l'arma più comune fra esploratori, guardie, mercenari e commercianti. È leggera e affidabile, ma infligge una quantità di danni di tutto rispetto.</p>"
+		},
+		{
+			"id": "Battery",
+			"name": "Batteria Standard",
+			"description": "<p>Le batterie alimentano le armi potenziate, ma si possono anche usare per una quantit&agrave; di altri oggetti, come le armature potenziate e altri strumenti tecnologici. Hanno taglia e peso standard, e tutti gli oggetti che ne fanno uso hanno un alloggiamento apposito, a prescindere dalla taglia dell'oggetto. Le armi che impiegano batterie riportano la batteria della maggior capacit&agrave; che possono usare, oltre al numero di cariche consumate per colpo.</p><p><strong>Capacit&agrave;:</strong> 20</p>"
+		},
+		{
+			"id": "Second Skin",
+			"name": "Seconda Pelle",
+			"description": "<p>Questa tuta flessibile aderisce al portatore e si può indossare sotto gli abiti comuni. Se la seconda pelle ha lo stesso colore della carnagione, può essere difficile da individuare. La seconda pelle accetta anche Migliorie, quindi è parecchio gettonata fra celebrità, diplomatici e altri individui che desiderano essere protetti senza che ciò si noti</p>"
+		},
+		{
+			"id": "R2E",
+			"name": "PDM",
+			"description": "<p>Queste vaschette “Pronte da Mangiare” contengono stuzzichini nutrienti e contorni per una giornata, più uno spuntino o un dolce. Ogni PDM include anche utensili usa e getta, un fornello senza fiamma a uso singolo e un pacchetto accessorio con pastiglie per l'alito, tovagliolo, condimenti e bevande liofilizzate. Di solito la data di scadenza è un secolo dalla produzione e la vaschetta è di un materiale durevole e facile da richiudere.</p>"
+		},
+		{
+			"id": "Field Ration (1/Week)",
+			"name": "Razione da Campo (1/Settimana)",
+			"description": "<p>Una razione da campo è composta da cibo già impacchettato, in grado di fornire sostentamento, ma senza sapore e dall'aspetto poco invitante. In genere consiste di blocchi marroni e stopposi di ingredienti precotti, che contengono abbastanza acqua da sopperire al fabbisogno giornaliero. È possibile sopravvivere per settimane solo con queste razioni, ma non è un'esperienza piacevole.</p>"
+		},
+		{
+			"id": "Backpack, Consumer",
+			"name": "Zaino di Consumo",
+			"description": "<p>Quando un personaggio indossa uno zaino di consumo correttamente, considera il suo punteggio di Forza come superiore di 1 ai fini di determinare la sua capacità di trasporto.</p>"
+		},
+		{
+			"id": "Tool Kit",
+			"name": "Kit Attrezzi",
+			"description": "<p>Un kit di attrezzi è un set di attrezzi specializzati e dispositivi che non vale la pena acquistare singolarmente, ma che sono richiesti per un dato incarico o forniscono Bonus di Circostanza a certe Prove di Abilità. I tipi di kit di attrezzi sono: kit da travestimento (richiesto per prove di Camuffare per Cambiare Aspetto), kit da ingegnere (senza di esso, le prove di Ingegneria hanno penalità –2), kit da hackeraggio (richiesto per gran parte delle prove di Computer), strumenti da navigatore (concedono bonus +4 alle prove di Sopravvivenza quando ci si Orienta), strumenti da professionista (fornisce bonus +4 alle prove di Professione per una singola professione), kit per cavalcare (fornisce bonus +4 alle prove di Sopravvivenza per Cavalcare Creature) e kit per trappole (fornisce bonus +4 alle prove di Ingegneria o Misticismo per innescare o disinnescare Trappole).</p>"
+		},
+		{
+			"id": "Medpatch",
+			"name": "Cerotto Medico",
+			"description": "<p>Un cerotto medico è un semplice dispositivo medico onnicomprensivo a uso singolo, da applicare, senza bisogno di avere grandi abilità, su una ferita o una zona da curare, come una sezione del corpo chiaramente malata o avvelenata. Consente di tentare una prova di Medicina senza addestramento con Bonus di Circostanza +10, ma solo per i compiti Primo Soccorso, Stabilità a Lungo Termine, Curare Malattia e Curare Droghe o Veleno.</p>"
+		},
+		{
+			"id": "Pulsecaster pistol",
+			"name": "Pistola a Impulsi",
+			"description": "<p>Versione ridotta della pistola ad arco, la pistola a impulsi spara una scarica a basso voltaggio che stordisce il bersaglio senza infliggere danni gravi.</p>"
+		},
+		{
+			"id": "Lashunta Ringwear I",
+			"name": "Veste ad Anelli Lashunta I",
+			"description": "<p>Sopra e sotto le giunture primarie di queste splendide tute corazzate pesanti sono inserite bande di metallo decorato. Protettori di metallo, strati di cotta di maglia e campi di forza si estendono fra le bande per conferire protezione completa. Durante il processo di forgiatura si aggiungono spesso cristalli colorati ai minerali destinati agli anelli, per creare tute lucenti di tinte diverse.</p>"
+		},
+		{
+			"id": "Lashunta Ringwear II",
+			"name": "Veste ad Anelli Lashunta II",
+			"description": "<p>Sopra e sotto le giunture primarie di queste splendide tute corazzate pesanti sono inserite bande di metallo decorato. Protettori di metallo, strati di cotta di maglia e campi di forza si estendono fra le bande per conferire protezione completa. Durante il processo di forgiatura si aggiungono spesso cristalli colorati ai minerali destinati agli anelli, per creare tute lucenti di tinte diverse.</p>"
+		},
+		{
+			"id": "Lashunta Ringwear III",
+			"name": "Veste ad Anelli Lashunta III",
+			"description": "<p>Sopra e sotto le giunture primarie di queste splendide tute corazzate pesanti sono inserite bande di metallo decorato. Protettori di metallo, strati di cotta di maglia e campi di forza si estendono fra le bande per conferire protezione completa. Durante il processo di forgiatura si aggiungono spesso cristalli colorati ai minerali destinati agli anelli, per creare tute lucenti di tinte diverse.</p>"
+		},
+		{
+			"id": "Lashunta Ringwear VI",
+			"name": "Veste ad Anelli Lashunta VI",
+			"description": "<p>Sopra e sotto le giunture primarie di queste splendide tute corazzate pesanti sono inserite bande di metallo decorato. Protettori di metallo, strati di cotta di maglia e campi di forza si estendono fra le bande per conferire protezione completa. Durante il processo di forgiatura si aggiungono spesso cristalli colorati ai minerali destinati agli anelli, per creare tute lucenti di tinte diverse.</p>"
+		},
+		{
+			"id": "Lashunta Ringwear V",
+			"name": "Veste ad Anelli Lashunta V",
+			"description": "<p>Sopra e sotto le giunture primarie di queste splendide tute corazzate pesanti sono inserite bande di metallo decorato. Protettori di metallo, strati di cotta di maglia e campi di forza si estendono fra le bande per conferire protezione completa. Durante il processo di forgiatura si aggiungono spesso cristalli colorati ai minerali destinati agli anelli, per creare tute lucenti di tinte diverse.</p>"
+		},
+		{
+			"id": "Serum of Healing, Mk 1",
+			"name": "Siero di Guarigione Mk 1",
+			"description": "<p>Questa fiala di siero medico ricompone rapidamente le ossa e ripara altri danni fisici. Se somministrata a una creatura vivente, questa recupera Punti Ferita.</p>"
+		},
+		{
+			"id": "Serum of Healing, Mk 2",
+			"name": "Siero di Guarigione Mk 2",
+			"description": "<p>Questa fiala di siero medico ricompone rapidamente le ossa e ripara altri danni fisici. Se somministrata a una creatura vivente, questa recupera Punti Ferita.</p>"
+		},
+		{
+			"id": "Serum of Healing, Mk 3",
+			"name": "Siero di Guarigione Mk 3",
+			"description": "<p>Questa fiala di siero medico ricompone rapidamente le ossa e ripara altri danni fisici. Se somministrata a una creatura vivente, questa recupera Punti Ferita.</p>"
+		},
+		{
+			"id": "Ceremonial Plate, Troop",
+			"name": "Armatura Cerimoniale da Truppa",
+			"description": "<p>Questa armatura pesante di piastre di metallo scolpite offre buona protezione, ma il suo scopo primario è intimidire i nemici. Spesso usata per guardie d'onore, esercitazioni o parate, l'armatura cerimoniale sfoggia colori accesi o è fatta di metalli splendenti, con elmi elaborati.</p>"
+		},
+		{
+			"id": "Hunting rifle",
+			"name": "Fucile da Caccia",
+			"description": "<p>Questo fucile base è usato perlopiù per caccia e difesa personale. I modelli più avanzati vengono usati in campo militare.</p>"		
+		},
+		{
+			"id": "Rounds, Longarm and Sniper",
+			"name": "Proiettili per Armi Lunghe e di Precisione",
+			"description": "<p>I proiettili sono conservati in caricatori che si possono inserire nell'arma appropriata.</p><p><strong>Cariche/Cartucce</strong><strong>:</strong> 25</p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		},
+		{
+			"id": "",
+			"name": "",
+			"description": "<p></p>"		
+		}
+	]
+}

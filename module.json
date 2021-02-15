@@ -1,0 +1,32 @@
+{
+  "name": "foundryvtt-sf-lang-it-it",
+  "title": "Starfinder Italian Translation",
+  "description": "Add Italian language to Starfinder system for FoundryVTT.",
+  "version": "0.1.0",
+  "minimumCoreVersion" : "0.6.6",
+  "compatibleCoreVersion":"0.7.8",
+
+  "dependencies": [{
+    "name": "babele",
+    "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+    "version": "1.19"
+  }],
+
+  "author": "Coboye",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [
+    "./style.css"
+  ],
+  "packs": [],
+
+  "languages": [{
+  	"lang": "it",
+    "name": "Italian",
+    "path": "it.json"
+  }],
+
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
