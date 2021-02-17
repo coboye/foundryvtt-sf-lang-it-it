@@ -1,0 +1,186 @@
+{
+	"label": "Temi",
+	"entries": [
+		{
+			"id": "Ace Pilot",
+			"name": "Ace Pilot"
+		},
+		{
+			"id": "Athlete",
+			"name": "Athlete"
+		},
+		{
+			"id": "Battle Medic",
+			"name": "Battle Medic"
+		},
+		{
+			"id": "Biotechnician",
+			"name": "Biotechnician"
+		},
+		{
+			"id": "Bounty Hunter",
+			"name": "Bounty Hunter"
+		},
+		{
+			"id": "Bureaucrat",
+			"name": "Bureaucrat"
+		},
+		{
+			"id": "Career Trooper",
+			"name": "Career Trooper"
+		},
+		{
+			"id": "Colonist",
+			"name": "Colonist"
+		},
+		{
+			"id": "Corporate Agent",
+			"name": "Agente Aziendale",
+			"description":"<p>Le aziende controllano buona parte del mondo moderno, dal cibo alle armi schierate sui campi di battaglia. Sei un agente di una di queste imprese, che fa affidamento sulle tue capacit&agrave; come negoziatore e mediatore e sulla tua astuzia per portare avanti i tuoi scopi. Che tu faccia proposte agli agenti di altre imprese per dividere i diritti di sfruttamento minerario di un asteroide o porti la presenza della tua impresa su un mondo appena scoperto, agisci come occhi, orecchie e mani dell'azienda.</p><h2>Conoscenza Specialistica (1&deg;)</h2><p>Sei profondamente integrato nella cultura aziendale, e conosci tutti i decisori pi&ugrave; importanti. Riduci di 5 la CD delle prove di Professione o Cultura per Ricordare Conoscenze relative ad aziende e ai loro dirigenti pi&ugrave; importanti. Per te Diplomazia &egrave; un'abilit&agrave; di classe, ma se &egrave; gi&agrave; un'abilit&agrave; di classe della classe che hai preso al 1&deg; livello ottieni invece bonus +1 alle prove di Diplomazia. Inoltre, alla creazione del personaggio hai modificatore alla caratteristica di Carisma +1.</p><h2>Networking (6&deg;)</h2><p>Se il database della tua azienda non ha l'informazione che cerchi, probabilmente conosci qualcuno che pu&ograve; fornirtela. Ti occorrono solo 10 minuti per effettuare una prova di Diplomazia per Raccogliere Informazioni, a patto che tu sia connesso a un'infosfera locale o abbia un modo per comunicare rapidamente con i tuoi contatti in un Insediamento che &egrave; almeno tecnologicamente nella media. Inoltre, se hai accesso a un'infosfera locale, puoi prendere 20 su una Prova di Abilit&agrave; per Ricordare Conoscenze impiegando la met&agrave; del tempo normale (solitamente 1 minuto).</p><h2>Forzare la Mano (12&deg;)</h2><p>Di solito puoi ottenere ci&ograve; che vuoi facendo il nome dell'azienda per la quale lavori, anche se agire in questo modo non ti fa fare amici. Quando usi con successo Intimidire per Costringere una creatura, il cambiamento nel suo atteggiamento dura il triplo del normale. A discrezione del GM, questa capacit&agrave; potrebbe non funzionare su creature che non hanno mai sentito parlare della tua azienda.</p><h2>Chiudere l'Accordo (18&deg;)</h2><p>Nulla ti emoziona pi&ugrave; che intraprendere un'accesa discussione per fare gli interessi del tuo datore di lavoro. &Egrave; per questo che sei stato assunto, ed &egrave; per questo che viaggi per il cosmo. Fino a due volte al giorno, dopo aver trascorso almeno 10 minuti trattando e negoziando (non conta come riposare per recuperare Punti Stamina) o usando un'infosfera per fare ricerche relativamente a un contratto estremamente vantaggioso per la tua azienda, recuperi 1 Punto Risolutezza.</p>"
+		},
+		{
+			"id": "Cult Hunter",
+			"name": "Cult Hunter"
+		},
+		{
+			"id": "Cultist",
+			"name": "Cultist"
+		},
+		{
+			"id": "Cyberborn",
+			"name": "Cyberborn"
+		},
+		{
+			"id": "Death-Touched",
+			"name": "Death-Touched"
+		},
+		{
+			"id": "Diplomat",
+			"name": "Diplomat"
+		},
+		{
+			"id": "Dragonblood",
+			"name": "Dragonblood"
+		},
+		{
+			"id": "Dream Prophet",
+			"name": "Dream Prophet"
+		},
+		{
+			"id": "Esper",
+			"name": "Esper"
+		},
+		{
+			"id": "Giantblood",
+			"name": "Giantblood"
+		},
+		{
+			"id": "Gladiator",
+			"name": "Gladiator"
+		},
+		{
+			"id": "Grifter",
+			"name": "Grifter"
+		},
+		{
+			"id": "Guard",
+			"name": "Guard"
+		},
+		{
+			"id": "Icon",
+			"name": "Icon"
+		},
+		{
+			"id": "Law Officer",
+			"name": "Law Officer"
+		},
+		{
+			"id": "Mercenary",
+			"name": "Mercenary"
+		},
+		{
+			"id": "Noble Scion",
+			"name": "Noble Scion"
+		},
+		{
+			"id": "Outlaw",
+			"name": "Outlaw"
+		},
+		{
+			"id": "Paranormal Investigator",
+			"name": "Paranormal Investigator"
+		},
+		{
+			"id": "Priest",
+			"name": "Priest"
+		},
+		{
+			"id": "Prisoner",
+			"name": "Prisoner"
+		},
+		{
+			"id": "Quartermaster",
+			"name": "Quartermaster"
+		},
+		{
+			"id": "Roboticist",
+			"name": "Roboticist"
+		},
+		{
+			"id": "Scholar",
+			"name": "Scholar"
+		},
+		{
+			"id": "Sensate",
+			"name": "Sensate"
+		},
+		{
+			"id": "Solar Disciple",
+			"name": "Solar Disciple"
+		},
+		{
+			"id": "Space Pirate",
+			"name": "Space Pirate"
+		},
+		{
+			"id": "Spacefarer",
+			"name": "Spacefarer"
+		},
+		{
+			"id": "Starwalker",
+			"name": "Starwalker"
+		},
+		{
+			"id": "Stormrunner",
+			"name": "Stormrunner"
+		},
+		{
+			"id": "Street Rat",
+			"name": "Street Rat"
+		},
+		{
+			"id": "Tempered Pilgrim",
+			"name": "Tempered Pilgrim"
+		},
+		{
+			"id": "Themeless",
+			"name": "Themeless"
+		},
+		{
+			"id": "Tinker",
+			"name": "Tinker"
+		},
+		{
+			"id": "Wild Warden",
+			"name": "Wild Warden"
+		},
+		{
+			"id": "Xenoarchaeologist",
+			"name": "Xenoarchaeologist"
+		},
+		{
+			"id": "Xenoseeker",
+			"name": "Xenoseeker"
+		}
+	]
+}
