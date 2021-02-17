@@ -1,0 +1,649 @@
+{
+	"label": "Razze",
+	"entries": [
+		{
+			"id": "Aasimar",
+			"name": "Aasimar"
+		},
+		{
+			"id": "Amrantah",
+			"name": "Amrantah"
+		},
+		{
+			"id": "Anassanoi",
+			"name": "Anassanoi"
+		},
+		{
+			"id": "Android",
+			"name": "Androide",
+			"description":"<p>Complesse creazioni tecnologiche costruiti per apparire simili ad umani, gli Androidi, sono stati originariamente una razza servitrice. In seguito, per&ograve;, si sono liberati, creando una loro societ&agrave;. Contrariamente agli altri robot o astronavi con Intelligenza Artificiale, gli Androidi non rispondono solamente secondo i loro programmi, ma hanno una coscienza indipendente e un anima, differenza cruciale che generalmente permette loro di essere accettati pi&ugrave; come esseri che propriet&agrave;.</p><h2>Taglia e Tipo</h2><p>Gli androidi sono Umanoidi di taglia Media con il Sottotipo Androide.</p><h2>Costruito</h2><p>Ai fini di effetti che hanno come bersaglio le creature a seconda del tipo, gli androidi contano sia come Umanoidi che come Costrutti (nel caso di effetti che si applicano a uno soltanto dei due tipi, vale solo quello; nel caso di effetti che possono funzionare su entrambi i tipi vale l'effetto peggiore). Hanno bonus razziale +2 ai TS contro Malattie, effetti di Influenza Mentale, Veleno e Sonno, a meno che tali effetti non influenzino specificamente i Costrutti. Non respirano n&eacute; subiscono i normali effetti ambientali dovuti al vuoto.</p><h2>Vista Eccezionale</h2><p>Gli Androidi posseggono Visione Crepuscolare e Scurovisione In virt&ugrave; di ci&ograve; possono vedere nella luce fioca come se fosse luce normale, e vedono in assenza di luce fino a una distanza di 18 metri, in bianco e nero.</p><h2>Emozioni Sopite</h2><p>Gli androidi sono confusi dalle emozioni e le reprimono. Hanno penalit&agrave; &ndash;2 alle prove di Intuizione, ma la CD delle prove di Intuizione contro di loro aumenta di 2.</p><h2>Spazio per Migliori</h2><p>Gli androidi hanno nel corpo un singolo spazio per Miglioria d'Armatura. Che indossino o meno armature fisiche, possono usare questo spazio per qualsiasi Miglioria d'Armatura installabile su armature leggere.</p>"
+		},
+		{
+			"id": "Android (Companion)",
+			"name": "Android (Companion)"
+		},
+		{
+			"id": "Android (Laborer)",
+			"name": "Android (Laborer)"
+		},
+		{
+			"id": "Astrazoan",
+			"name": "Astrazoani"
+		},
+		{
+			"id": "Bantrid",
+			"name": "Bantrid"
+		},
+		{
+			"id": "Barathu (Early Stage)",
+			"name": "Barathu (Immaturo)"
+		},
+		{
+			"id": "Bear (Uplifted)",
+			"name": "Bear (Uplifted)"
+		},
+		{
+			"id": "Bleachling Gnome",
+			"name": "Bleachling Gnome"
+		},
+		{
+			"id": "Bolida",
+			"name": "Bolida"
+		},
+		{
+			"id": "Borai",
+			"name": "Borai"
+		},
+		{
+			"id": "Brakim",
+			"name": "Brakim"
+		},
+		{
+			"id": "Brenneri",
+			"name": "Brenneri"
+		},
+		{
+			"id": "Cephalume",
+			"name": "Cephalume"
+		},
+		{
+			"id": "Contemplative",
+			"name": "Contemplativo"
+		},
+		{
+			"id": "Copaxi",
+			"name": "Copaxi"
+		},
+		{
+			"id": "Damai",
+			"name": "Damai"
+		},
+		{
+			"id": "Damai (Cerebral)",
+			"name": "Damai (Cerebral)"
+		},
+		{
+			"id": "Damaya Lashunta",
+			"name": "Lashunta Damaya",
+			"description":"Idealizzati da molte razze Umanoidi e dotati di abilità psichiche innate, i lashunta sono sia grandi studiosi che guerrieri illuminati, divisi naturalmente in due sottorazze specializzate con differenti abilità e ruoli sociali.Taglia e TipoI lashunta sono Umanoidi Medi con il sottotipo Sottotipo Lashunta.DimorfismoTutti i lashunta guadagnano +2 in Carisma alla creazione del personaggio.I lashunta damaya sono tipicamente intelligenti ed educati (+2 Intelligenza alla creazione del personaggio) ma piuttosto delicati (–2 Costituzione alla creazione del personaggio).Magia dei LashuntaI lashunta guadagnano le seguenti capacità magiche:A volontà: Frastornare, Mano Psicocinetica.1/gg: Individuazione dei Pensieri.Il livello da incantatore per questi effetti è pari al livello del Lashunta.Telepatia LimitataI lashunta possono comunicare telepaticamente con qualsiasi creatura con cui condividano un linguaggio entro 9 metri. Conversare tramite telepatia con più creature simultaneamente è difficile come ascoltare più persone che parlano allo stesso tempo.StudiosoI Lashunta adorano apprendere e ricevono bonus razziale +2 a due Abilità qualsiasi a loro scelta."
+		},
+		{
+			"id": "Dirindi",
+			"name": "Dirindi"
+		},
+		{
+			"id": "Draelik",
+			"name": "Draelik"
+		},
+		{
+			"id": "Dragonkin",
+			"name": "Draconico"
+		},
+		{
+			"id": "Dromada",
+			"name": "Dromada"
+		},
+		{
+			"id": "Drow",
+			"name": "Drow"
+		},
+		{
+			"id": "Dwarf",
+			"name": "Nano"
+		},
+		{
+			"id": "Dwarf (Quest for Sky)",
+			"name": "Dwarf (Quest for Sky)"
+		},
+		{
+			"id": "Elebrian",
+			"name": "Elebrian"
+		},
+		{
+			"id": "Elf",
+			"name": "Elfo"
+		},
+		{
+			"id": "Elf (Forlorn)",
+			"name": "Elf (Forlorn)"
+		},
+		{
+			"id": "Embri",
+			"name": "Embri"
+		},
+		{
+			"id": "Embri (Emissary)",
+			"name": "Embri (Emissary)"
+		},
+		{
+			"id": "Embri (Preceptor)",
+			"name": "Embri (Preceptor)"
+		},
+		{
+			"id": "Endiffian",
+			"name": "Endiffian"
+		},
+		{
+			"id": "Espraksa",
+			"name": "Espraksa"
+		},
+		{
+			"id": "Ferran",
+			"name": "Ferran"
+		},
+		{
+			"id": "Feychild Gnome",
+			"name": "Feychild Gnome"
+		},
+		{
+			"id": "Formian",
+			"name": "Formian"
+		},
+		{
+			"id": "Ghibrani (Husk)",
+			"name": "Ghibrani (Husk)"
+		},
+		{
+			"id": "Ghibrani (Membrane)",
+			"name": "Ghibrani (Membrane)"
+		},
+		{
+			"id": "Ghoran (Oakling)",
+			"name": "Ghoran (Oakling)"
+		},
+		{
+			"id": "Ghoran (Sapling)",
+			"name": "Ghoran (Sapling)"
+		},
+		{
+			"id": "Ghoran (Willower)",
+			"name": "Ghoran (Willower)"
+		},
+		{
+			"id": "Gnome (Driftborn)",
+			"name": "Gnome (Driftborn)"
+		},
+		{
+			"id": "Gnome (Gneblin, Bleachling)",
+			"name": "Gnome (Gneblin, Bleachling)"
+		},
+		{
+			"id": "Gnome (Gneblin, Driftborn)",
+			"name": "Gnome (Gneblin, Driftborn)"
+		},
+		{
+			"id": "Gnome (Gneblin, Feychild)",
+			"name": "Gnome (Gneblin, Feychild)"
+		},
+		{
+			"id": "Goblin (Space)",
+			"name": "Goblin (Space)"
+		},
+		{
+			"id": "Gosclaw",
+			"name": "Gosclaw"
+		},
+		{
+			"id": "Gray",
+			"name": "Grigio"
+		},
+		{
+			"id": "Haan",
+			"name": "Haan"
+		},
+		{
+			"id": "Half-elf",
+			"name": "Mezzelfo"
+		},
+		{
+			"id": "Half-Elf (Elven-inclined)",
+			"name": "Half-Elf (Elven-inclined)"
+		},
+		{
+			"id": "Half-orc",
+			"name": "Mezzorco"
+		},
+		{
+			"id": "Half-Orc (Apostae)",
+			"name": "Half-Orc (Apostae)"
+		},
+		{
+			"id": "Halfling",
+			"name": "Halfling"
+		},
+		{
+			"id": "Halfling (Stout)",
+			"name": "Halfling (Stout)"
+		},
+		{
+			"id": "Hanakan",
+			"name": "Hanakan"
+		},
+		{
+			"id": "Hobgoblin",
+			"name": "Hobgoblin"
+		},
+		{
+			"id": "Hobgoblin (Hardworlder)",
+			"name": "Hobgoblin (Hardworlder)"
+		},
+		{
+			"id": "Hobgoblin (Warhob)",
+			"name": "Hobgoblin (Warhob)"
+		},
+		{
+			"id": "Hortus",
+			"name": "Hortus"
+		},
+		{
+			"id": "Human",
+			"name": "Umano",
+			"description":"<p>Ambiziosi, creativi ed infinitamente curiosi, gli umani hanno dimostrato pi&ugrave; determinazione ad esplorare il loro sistema e l'universo al di fuori di tutte le altre razze, nel bene e nel male. Hanno aiutato a dare il via a una nuova era di comunicazione interplanetaria e di organizzazione e sono ammirati per la propria passione e tenacia, ma la loro tendenza a sparare prima e poi pensare alle conseguenze li potrebbe rendere inaffidabili agli occhi di quelle razze che sarebbero altrimenti inclini a lavorare con loro.</p><h2>Taglia e Tipo</h2><p>Gli umani sono Umanoidi Medi con il Sottotipo Umano.</p><h2>Talento Bonus</h2><p>Gli umani scelgono un Talento bonus al 1&deg; livello.</p><h2>Esperto</h2><p>Gli umani ottengono un grado di Abilit&agrave; addizionale al 1&deg; livello e ad ogni livello successivo.</p>"
+		},
+		{
+			"id": "Human (Featherlight)",
+			"name": "Human (Featherlight)"
+		},
+		{
+			"id": "Human (Gravity Dweller)",
+			"name": "Human (Gravity Dweller)"
+		},
+		{
+			"id": "Ifrit",
+			"name": "Ifrit"
+		},
+		{
+			"id": "Ijtikri",
+			"name": "Ijtikri"
+		},
+		{
+			"id": "Ijtikri (Battleborn)",
+			"name": "Ijtikri (Battleborn)"
+		},
+		{
+			"id": "Ikeshti",
+			"name": "Ikeshti"
+		},
+		{
+			"id": "Ilthisarian",
+			"name": "Ilthisarian"
+		},
+		{
+			"id": "Imago",
+			"name": "Imago"
+		},
+		{
+			"id": "Instar",
+			"name": "Instar"
+		},
+		{
+			"id": "Izalguun",
+			"name": "Izalguun"
+		},
+		{
+			"id": "Kalo",
+			"name": "Kalo"
+		},
+		{
+			"id": "Kanabo",
+			"name": "Kanabo"
+		},
+		{
+			"id": "Kasatha",
+			"name": "Kasatha",
+			"description":"<p>Originari di un pianeta orbitante attorno a una stella morente molto lontana dai Mondi del Patto, i kasatha dalle quattro braccia hanno la nomea di popolo nobile e misterioso. Sono famosi per i guerrieri anacronistici, l'antica saggezza e le bizzarre tradizioni.</p><h2>Taglia e Tipo</h2><p>I kasatha sono Umanoidi Medi con il Sottotipo Kasatha.</p><h2>Andatura nel Deserto</h2><p>I kasatha possono muoversi attraverso terreni difficili non magici in deserti, colline e montagne alla loro velocit&agrave; normale.</p><h2>Quattro Braccia</h2><p>I kasatha hanno quattro braccia, cosa che consente loro di impugnare una quantit&agrave; doppia di armi ed equipaggiamenti. Ci&ograve; aumenta il numero di oggetti che possono avere immediatamente a disposizione, ma non il numero di attacchi che possono effettuare in combattimento.</p><h2>Storico</h2><p>Grazie agli approfonditi studi storici e alle variegate conoscenze di stampo accademico in loro possesso, i kasatha ricevono bonus razziale +2 alle prove di Cultura.</p><h2>Grazia Naturale</h2><p>I kasatha ricevono bonus razziale +2 alle prove di Acrobazia e Atletica.</p>"
+		},
+		{
+			"id": "Kasatha (Akitonian Settler)",
+			"name": "Kasatha (Akitonian Settler)"
+		},
+		{
+			"id": "Kasatha (Kasath Native)",
+			"name": "Kasatha (Kasath Native)"
+		},
+		{
+			"id": "Kasatha (Nomad)",
+			"name": "Kasatha (Nomad)"
+		},
+		{
+			"id": "Kayal",
+			"name": "Kayal"
+		},
+		{
+			"id": "Khizar",
+			"name": "Khizar"
+		},
+		{
+			"id": "Kiirinta",
+			"name": "Kiirinta"
+		},
+		{
+			"id": "Kish",
+			"name": "Kish"
+		},
+		{
+			"id": "Korasha Lashunta",
+			"name": "Lashunta Korasha",
+			"description":"<p>Idealizzati da molte razze Umanoidi e dotati di abilit&agrave; psichiche innate, i lashunta sono sia grandi studiosi che guerrieri illuminati, divisi naturalmente in due sottorazze specializzate con differenti abilit&agrave; e ruoli sociali.</p><h2>Taglia e Tipo</h2><p>I lashunta sono Umanoidi Medi con il sottotipo Sottotipo Lashunta.</p><h2>Dimorfismo</h2><p>Tutti i lashunta guadagnano +2 in Carisma alla creazione del personaggio.</p><p>I lashunta korasha sono muscolosi (+2 Forza alla creazione del personaggio) ma spesso irruenti e sconsiderati (&ndash;2 Saggezza alla creazione del personaggio).</p><h2>Magia dei Lashunta</h2><p>I lashunta guadagnano le seguenti capacit&agrave; magiche:</p><ol><li><strong>A volont&agrave;</strong>: <em>Frastornare</em>, <em>Mano Psicocinetica</em>.</li><li><strong>1/gg</strong>: <em>Individuazione dei Pensieri</em>.</li></ol><p>Il livello da incantatore per questi effetti &egrave; pari al livello del Lashunta.</p><h2>Telepatia Limitata</h2><p>I lashunta possono comunicare telepaticamente con qualsiasi creatura con cui condividano un linguaggio entro 9 metri. Conversare tramite telepatia con pi&ugrave; creature simultaneamente &egrave; difficile come ascoltare pi&ugrave; persone che parlano allo stesso tempo.</p><h2>Studioso</h2><p>I Lashunta adorano apprendere e ricevono bonus razziale +2 a due Abilit&agrave; qualsiasi a loro scelta.</p>"
+		},
+		{
+			"id": "Lashunta, Damaya (Hunter Legacy)",
+			"name": "Lashunta, Damaya (Hunter Legacy)"
+		},
+		{
+			"id": "Lashunta, Damaya (Mind Forward)",
+			"name": "Lashunta, Damaya (Mind Forward)"
+		},
+		{
+			"id": "Lashunta, Korasha (Hunter Legacy)",
+			"name": "Lashunta, Korasha (Hunter Legacy)"
+		},
+		{
+			"id": "Lashunta, Korasha (Mind Forward)",
+			"name": "Lashunta, Korasha (Mind Forward)"
+		},
+		{
+			"id": "Maraquoi",
+			"name": "Maraquoi"
+		},
+		{
+			"id": "Megalonyxa",
+			"name": "Megalonyxa"
+		},
+		{
+			"id": "Morlamaw",
+			"name": "Morlamaw"
+		},
+		{
+			"id": "Neskinti",
+			"name": "Neskinti"
+		},
+		{
+			"id": "Nuar",
+			"name": "Nuar"
+		},
+		{
+			"id": "Orc",
+			"name": "Orco"
+		},
+		{
+			"id": "Oread",
+			"name": "Oreade"
+		},
+		{
+			"id": "Osharu",
+			"name": "Osharu"
+		},
+		{
+			"id": "Osharu (Deepmarsh)",
+			"name": "Osharu (Deepmarsh)"
+		},
+		{
+			"id": "Osharu (Gengen)",
+			"name": "Osharu (Gengen)"
+		},
+		{
+			"id": "Osharu (Mire Dweller)",
+			"name": "Osharu (Mire Dweller)"
+		},
+		{
+			"id": "Pahtra",
+			"name": "Pahtra"
+		},
+		{
+			"id": "Pahtra (Hunter-Killer)",
+			"name": "Pahtra (Hunter-Killer)"
+		},
+		{
+			"id": "Pahtra (Krreyvash)",
+			"name": "Pahtra (Krreyvash)"
+		},
+		{
+			"id": "Pahtra (Wise One)",
+			"name": "Pahtra (Wise One)"
+		},
+		{
+			"id": "Phentomite",
+			"name": "Phentomite"
+		},
+		{
+			"id": "Quorlu",
+			"name": "Quorlu"
+		},
+		{
+			"id": "Ramiyel",
+			"name": "Ramiyel"
+		},
+		{
+			"id": "Raxilite",
+			"name": "Raxilite"
+		},
+		{
+			"id": "Reptoid",
+			"name": "Reptoide"
+		},
+		{
+			"id": "Ryphorian",
+			"name": "Ryphorian"
+		},
+		{
+			"id": "Sarcesian",
+			"name": "Sarcesian"
+		},
+		{
+			"id": "Sazaron",
+			"name": "Sazaron"
+		},
+		{
+			"id": "Screedreep",
+			"name": "Screedreep"
+		},
+		{
+			"id": "Scyphozoan",
+			"name": "Scyphozoan"
+		},
+		{
+			"id": "Selamid",
+			"name": "Selamid"
+		},
+		{
+			"id": "Seprevoi",
+			"name": "Seprevoi"
+		},
+		{
+			"id": "Shakatla",
+			"name": "Shakatla"
+		},
+		{
+			"id": "Shatori",
+			"name": "Shatori"
+		},
+		{
+			"id": "Shimreen",
+			"name": "Shimreen"
+		},
+		{
+			"id": "Shirren",
+			"name": "Shirren",
+			"description": "<p>Un tempo parte di un vorace alveare di predatori simili a locuste, gli insettoidi shirren si sono recentemente affrancati dalla mente collettiva per divenire una razza di telepati con una dipendenza fisica dal proprio individualismo, ma dediti all'idea di comunit&agrave; e armonia con le altre razze.</p><h2>Taglia e Tipo</h2><p>Gli shirren sono Umanoidi Medi con il Sottotipo Shirren.</p><h2>Percezione Cieca</h2><p>Le sensibili antenne concedono agli shirren Percezione Cieca (vibrazione), ovvero l'abilit&agrave; di percepire le vibrazioni dell'aria, fino a 9 metri.</p><h2>Comunitarismo</h2><p>Gli shirren sono abituati a lavorare in squadra. Una volta al giorno, fintanto che un alleato si trova entro 3 metri, uno shirren pu&ograve; effettuare un solo Tiro per Colpire o Prova di Abilit&agrave; due volte e scegliere il risultato maggiore.</p><h2>Passione per le Culture</h2><p>Gli shirren sono ansiosi di conoscere nuove culture e societ&agrave;: ricevono bonus razziale +2 alle prove di Cultura e Diplomazia.</p><h2>Telepatia Limitata</h2><p>Gli shirren possono comunicare telepaticamente con qualsiasi creatura con cui condividano un linguaggio entro 9 metri. Conversare tramite telepatia con pi&ugrave; creature simultaneamente &egrave; difficile come ascoltare pi&ugrave; persone che parlano allo stesso tempo.</p>"
+		},
+		{
+			"id": "Shirren (Courtier)",
+			"name": "Shirren (Courtier)"
+		},
+		{
+			"id": "Shirren (Scout)",
+			"name": "Shirren (Scout)"
+		},
+		{
+			"id": "Shirren (Worker)",
+			"name": "Shirren (Worker)"
+		},
+		{
+			"id": "Shobhad",
+			"name": "Shobhad"
+		},
+		{
+			"id": "Skittermander",
+			"name": "Skittermander"
+		},
+		{
+			"id": "Skittermander (Assimilated)",
+			"name": "Skittermander (Assimilated)"
+		},
+		{
+			"id": "Skittermander (Bookish)",
+			"name": "Skittermander (Bookish)"
+		},
+		{
+			"id": "Spathinae",
+			"name": "Spathinae"
+		},
+		{
+			"id": "SRO",
+			"name": "ORS"
+		},
+		{
+			"id": "SRO (small)",
+			"name": "ORS (piccolo)"
+		},
+		{
+			"id": "Stellifera",
+			"name": "Stellifera"
+		},
+		{
+			"id": "Strix",
+			"name": "Strigi"
+		},
+		{
+			"id": "Suli",
+			"name": "Suli"
+		},
+		{
+			"id": "Svartalfar",
+			"name": "Svartalfar"
+		},
+		{
+			"id": "Sylph",
+			"name": "Sylph"
+		},
+		{
+			"id": "Telia",
+			"name": "Telia"
+		},
+		{
+			"id": "Tiefling",
+			"name": "Tiefling"
+		},
+		{
+			"id": "Trinir",
+			"name": "Trinir"
+		},
+		{
+			"id": "Trox",
+			"name": "Trox"
+		},
+		{
+			"id": "Undine",
+			"name": "Undine"
+		},
+		{
+			"id": "Urog",
+			"name": "Urog"
+		},
+		{
+			"id": "Varculak",
+			"name": "Varculak"
+		},
+		{
+			"id": "Verthani",
+			"name": "Verthani"
+		},
+		{
+			"id": "Vesk",
+			"name": "Vesk",
+			"description":"<p>Robusti, muscolosi e coperti di spesse scaglie e piccole corna aguzze, i rettiloidi vesk sono feroci e bellicosi proprio come appaiono. Originari di un sistema stellare prossimo ai Mondi del Patto, hanno cercato di conquistare e sottomettere tutti i vicini stellari come hanno fatto con tutte le razze intelligenti del loro sistema, fino a quando un'immensa minaccia li ha costretti a un'alleanza rancorosa con i Mondi del Patto. Per ora.</p><h2>Taglia e Tipo</h2><p>I vesk sono Umanoidi Medi con il Sottotipo Vesk</p><h2>Esperto nelle Armature</h2><p>I vesk usano l'armatura in modo che si adatti alla loro fisiologia robusta e peculiare. Quando indossano armature ricevono bonus razziale +1 alla CA; quando indossano armature pesanti, la loro penalit&agrave; di armatura alla prova &egrave; inferiore di 1 rispetto al normale.</p><h2>Temerariet&agrave;</h2><p>I vesk ricevono bonus razziale +2 ai Tiri Salvezza contro gli effetti di paura.</p><h2>Visione Crepuscolare</h2><p>I vesk possono vedere nella luce fioca come se fosse luce normale.</p><h2>Armi Naturali</h2><p>I vesk possono attaccare con un colpo senz'armi speciale che infligge danni letali, che non &egrave; considerato Arcaico e che minaccia i quadretti. Con questo colpo senz'armi ottengono una versione speciale del talento Arma Specializzata al 3&deg; livello, cosa che permette loro di aggiungere una volta e mezza il loro Livello del Personaggio ai tiri per i danni delle loro armi naturali (invece di aggiungere soltanto il Livello del Personaggio come di consueto).</p>"
+		},
+		{
+			"id": "Vesk (Cave)",
+			"name": "Vesk (Cave)"
+		},
+		{
+			"id": "Vesk (Lambent)",
+			"name": "Vesk (Lambent)"
+		},
+		{
+			"id": "Vesk (Low Gravity)",
+			"name": "Vesk (Low Gravity)"
+		},
+		{
+			"id": "Vesk (Venomthought)",
+			"name": "Vesk (Venomthought)"
+		},
+		{
+			"id": "Vesk (Warblood)",
+			"name": "Vesk (Warblood)"
+		},
+		{
+			"id": "Vilderaro",
+			"name": "Vilderaro"
+		},
+		{
+			"id": "Vlaka",
+			"name": "Vlaka"
+		},
+		{
+			"id": "Witchwyrd",
+			"name": "Witchwyrd"
+		},
+		{
+			"id": "Woioko (Deepborn)",
+			"name": "Woioko (Deepborn)"
+		},
+		{
+			"id": "Woioko (Floatborn)",
+			"name": "Woioko (Floatborn)"
+		},
+		{
+			"id": "Wrikreechee",
+			"name": "Wrikreechee"
+		},
+		{
+			"id": "Ysoki",
+			"name": "Ysoki",
+			"description":"<p>Minuti e furtivi, gli ysoki godono di scarsa considerazione presso le altre razze. Tramite iniziativa e padronanza della tecnologia, tuttavia, si sono espansi nell'intero sistema solare: come dice il vecchio adagio, su ogni astronave c&rsquo;&egrave; sempre qualche ratto.</p><h2>Taglia e Tipo</h2><p>Gli Ysoki sono Umanoidi piccoli con il Sottotipo Ysoki.</p><h2>Guance Capienti</h2><p>Gli ysoki possono immagazzinare fino a 30 cm3 di oggetti con un peso totale di 1 volume nelle guance, e possono trasferire un singolo oggetto fra le mani e le guance come un'Azione Rapida. Un ysoki pu&ograve; rigettare l'intero contenuto delle guance sul terreno nel suo quadretto come Azione di Movimento che non provoca Attacchi d'Opportunit&agrave;.</p><h2>Scurovisione</h2><p>Gli Ysoki riescono a Vedere al Buio fino ad una distanza di 18 metri.</p><h2>Coraggio</h2><p>Gli ysoki sono inaspettatamente feroci e agili anche in situazioni disperate. Un ysoki pu&ograve; rialzarsi da Prono come Azione Rapida. Inoltre, quando &egrave; Instabile, un ysoki non subisce le normali penalit&agrave; agli attacchi, n&eacute; ottiene la condizione Impreparato. Quando tenta una prova di Acrobazia per destreggiarsi nello spazio di un avversario che sia pi&ugrave; grande di almeno una categoria, un ysoki riceve bonus razziale +5 alla prova.</p><h2>Scroccone</h2><p>Gli ysoki ricevono bonus razziale +2 alle prove di Ingegneria, Furtivit&agrave; e Sopravvivenza</p>"
+		},
+		{
+			"id": "Ysoki (Anthropormorphic)",
+			"name": "Ysoki (Anthropormorphic)"
+		},
+		{
+			"id": "Ysoki (Nograv)",
+			"name": "Ysoki (Nograv)"
+		},
+		{
+			"id": "Ysoki (Survivor)",
+			"name": "Ysoki (Survivor)"
+		}
+	]
+}
