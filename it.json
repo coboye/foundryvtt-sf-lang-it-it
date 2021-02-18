@@ -382,79 +382,79 @@
         "CharacterNamePlaceHolderText": "Nome Personaggio",
         "CharacterSheet": {
             "Inventory": {
-                "ContainedWealth": "Contained wealth: {wealth}"
+                "ContainedWealth": "Ricchezza Contenuta: {wealth}"
             },
             "Warnings": {
-                "DeathByMassiveDamage": "{name} has died of Massive Damage!"
+                "DeathByMassiveDamage": "{name} è morto per Danno Massiccio!"
             }
         },
         "ChatCard": {
             "ItemActivation": {
-                "Activates": "Activates",
-                "Cost": "Cost: {cost}",
-                "Deactivates": "Deactivates",
-                "Duration": "Duration: {duration}",
-                "Reloads": "Reloads"
+                "Activates": "Attivi",
+                "Cost": "Costo: {cost}",
+                "Deactivates": "Disattivi",
+                "Duration": "Durata: {duration}",
+                "Reloads": "Richariche"
             }
         },
-        "ClassArmorProf": "Armor Proficiencies",
-        "ClassBABProgression": "BAB Progression",
-        "ClassFortSaveProgression": "Fortitude Save Progression",
-        "ClassHPPerLevel": "Hit Points per Level",
-        "ClassKeyAbilityScore": "Key Ability Score",
-        "ClassLevelLabel": "Class Levels",
-        "ClassReflexSaveProgression": "Reflex Save Progression",
-        "ClassSkillRanksPerlevel": "Skill Ranks per Level",
-        "ClassSkills": "Class Skills",
-        "ClassSPPerlevel": "Stamina Points per Level",
-        "ClassWeaponProf": "Weapon Proficiencies",
-        "ClassWillSaveProgression": "Will Save Progression",
-        "Close": "Close",
+        "ClassArmorProf": "Competenza Armature",
+        "ClassBABProgression": "Progressione BAB",
+        "ClassFortSaveProgression": "Progressione TS Tempra",
+        "ClassHPPerLevel": "Punti Ferita per Livello",
+        "ClassKeyAbilityScore": "Caratteristica Chiave",
+        "ClassLevelLabel": "Livelli Classe",
+        "ClassReflexSaveProgression": "Progressione TS Riflessi",
+        "ClassSkillRanksPerlevel": "Gradi Abilità per Livello",
+        "ClassSkills": "Abilità di Classe",
+        "ClassSPPerlevel": "Punti Stamina per Levello",
+        "ClassWeaponProf": "Competenza Armi",
+        "ClassWillSaveProgression": "Progressione TS Volontà",
+        "Close": "Chiudi",
         "CMDBaseTooltip": "Base: 8",
-        "CMDKACModTooltip": "KAC: {kac}",
-        "CMDModiferTooltip": "{type} Bonus: {mod} ({source})",
+        "CMDKACModTooltip": "CAC: {kac}",
+        "CMDModiferTooltip": "Bonus {type}: {mod} ({source})",
         "Combat": {
             "ChatCards": {
-                "Footer": "{combatType} - {combatPhase} phase",
+                "Footer": "{combatType} - fase {combatPhase}",
                 "Phase": {
-                    "Header": "{phase} Phase",
-                    "MessageTitle": "Description"
+                    "Header": "Fase {phase}",
+                    "MessageTitle": "Descrizione"
                 },
                 "Round": {
                     "Header": "Round {round}",
-                    "BodyHeader": "New Round"
+                    "BodyHeader": "Nuovo Round"
                 },
                 "Speaker": {
-                    "GM": "The GM"
+                    "GM": "Il GM"
                 },
                 "Turn": {
-                    "Header": "{combatant}'s Turn"
+                    "Header": "Turno di {combatant}"
                 }
             },
             "EncounterTracker": {
-                "SelectNextType": "Switch to the next combat type",
-                "SelectPrevType": "Switch to the previous combat type"
+                "SelectNextType": "Cambia al prossimo tipo combattimento",
+                "SelectPrevType": "Cambia al precedente tipo combattimento"
             },
             "Errors": {
-                "HistoryLimitedResetInitiative": "The current phase has reset initiative, we cannot go back further in history.<br/><br/>Click to dismiss.",
-                "HistoryLimitedStartOfEncounter": "You have reached the start of the encounter, we cannot go back further in history.<br/><br/>Click to dismiss.",
-                "MissingInitiative": "The current phase has reset initiative, please re-roll initiative on all combatants before continueing.<br/><br/>Click to dismiss."
+                "HistoryLimitedResetInitiative": "La fase corrente ha reimpostato l'iniziativa, non posso andare oltre nello storico<br/><br/>Click per chiudere.",
+                "HistoryLimitedStartOfEncounter": "Hai raggiunto l'inizio dello scontro, non posso andare oltre nello storico<br/><br/>Click per chiudere.",
+                "MissingInitiative": "La fase corrente ha reimpostato l'iniziativa, per cortesia ritirare l'iniziativa di tutti i partecipanti prima di continuare<br/><br/>Click per chiudere."
             },
             "Normal": {
-                "Name": "Normal Combat",
+                "Name": "Combattimento Normale",
                 "Phases": {
                     "1": {
-                        "Name": "Combat",
-                        "Description": "Everyone may now act out their combat turn."
+                        "Name": "Combattimento",
+                        "Description": "Tutti ora possono agire nel loro turno."
                     }
                 }
             },
             "Starship": {
-                "Name": "Starship Combat",
+                "Name": "Combattimento Astronavi",
                 "Phases": {
                     "1": {
-                        "Name": "Changing Roles",
-                        "Description": "Anyone who wishes to change starship roles, may do so now."
+                        "Name": "Cambio Ruoli",
+                        "Description": "Chiunque desideri cambiare il proprio ruolo nell'astronave può farlo ora."
                     },
                     "2": {
                         "Name": "Engineering",
@@ -534,76 +534,76 @@
         "ConditionsUnconscious": "Privo di Sensi",
         "ConImm": "Immunità Condizioni",
         "ConsumableTypes": {
-            "Serum": "Serums",
-            "Ampoule": "Spell Ampoules",
-            "SpellGem": "Spell Gems",
-            "Drugs": "Drugs",
-            "Medicine": "Medicinals",
-            "Poison": "Poisons",
-            "FoodDrink": "Food and drink"
+            "Serum": "Sieri",
+            "Ampoule": "Ampolle Incant.",
+            "SpellGem": "Gemme Incant.",
+            "Drugs": "Droghe",
+            "Medicine": "Medicinali",
+            "Poison": "Veleni",
+            "FoodDrink": "Cibi e Bevande"
         },
-        "CounterClassesAddButton": "Add 1",
-        "CounterClassesCurrentCount": "Totals Points:",
-        "CounterClassesCurrentPositionLabel": "Current Position:",
+        "CounterClassesAddButton": "Agg. 1",
+        "CounterClassesCurrentCount": "Punti Totali:",
+        "CounterClassesCurrentPositionLabel": "Posizione Corrent:",
         "CounterClassesKiSoldier": "Ki Soldier Points",
         "CounterClassesManagementTitle": "Manage Your",
         "CounterClassesManagementWindowsTitles": "Classes Counter Management Windows",
-        "CounterClassesRemoveButton": "Remove 1",
-        "CounterClassesSolarian": "Solarian Attunement",
-        "CounterClassesSolarianGraviton": "Graviton",
-        "CounterClassesSolarianPhoton": "Photon",
-        "CounterClassesSolarianUnaligned": "Unaligned",
+        "CounterClassesRemoveButton": "Togli 1",
+        "CounterClassesSolarian": "Armonizzazione Solarian",
+        "CounterClassesSolarianGraviton": "Gravitonica",
+        "CounterClassesSolarianPhoton": "Fotonica",
+        "CounterClassesSolarianUnaligned": "Non armonizzato",
         "CounterClassesVanguard": "Vanguard Entropic Points",
-        "Credits": "Credits",
-        "Cybernetic": "Cybernetic",
-        "Damage": "Damage",
-        "DamageReduction": "Damage Reduction",
-        "DamageTypesAcid": "Acid",
-        "DamageTypesAcidAndBludgeoning": "Acid & Bludgeoning",
-        "DamageTypesAcidAndElectricity": "Acid & Electricity",
-        "DamageTypesAcidAndFire": "Acid & Fire",
-        "DamageTypesAcidAndPiercing": "Acid & Piercing",
-        "DamageTypesAcidAndSlashing": "Acid & Slashing",
-        "DamageTypesAcidOrFire": "Acid | Fire",
-        "DamageTypesAcidOrSlashing": "Acid | Slashing",
-        "DamageTypesBludgeoning": "Bludgeoning",
-        "DamageTypesBludgeoningAndCold": "Bludgeoning & Cold",
-        "DamageTypesBludgeoningAndElectricity": "Bludgeoning & Electricity",
-        "DamageTypesBludgeoningAndFire": "Bludgeoning & Fire",
-        "DamageTypesBludgeoningAndSonic": "Bludgeoning & Sonic",
-        "DamageTypesCold": "Cold",
-        "DamageTypesColdAndPiercing": "Cold & Piercing",
-        "DamageTypesColdOrFire": "Cold | Fire",
-        "DamageTypesElectricity": "Electricity",
-        "DamageTypesElectricityAndFire": "Electricity & Fire",
-        "DamageTypesElectricityAndPiercing": "Electricity & Piercing",
-        "DamageTypesElectricityAndSlashing": "Electricity & Slashing",
-        "DamageTypesFire": "Fire",
-        "DamageTypesFireAndPiercing": "Fire & Piercing",
-        "DamageTypesFireAndSlashing": "Fire & Slashing",
-        "DamageTypesFireOrSlashing": "Fire | Slashing",
-        "DamageTypesFireOrSonic": "Fire | Sonic",
-        "DamageTypesForce": "Force",
-        "DamageTypesPiercing": "Piercing",
-        "DamageTypesPiercingAndSonic": "Piercing & Sonic",
+        "Credits": "Cediti",
+        "Cybernetic": "Cibernetico",
+        "Damage": "Danni",
+        "DamageReduction": "Riduzione Danni",
+        "DamageTypesAcid": "Acido",
+        "DamageTypesAcidAndBludgeoning": "Acido & Contundente",
+        "DamageTypesAcidAndElectricity": "Acido & Elettricità",
+        "DamageTypesAcidAndFire": "Acido & Fuoco",
+        "DamageTypesAcidAndPiercing": "Acido & Perforante",
+        "DamageTypesAcidAndSlashing": "Acido & Tagliente",
+        "DamageTypesAcidOrFire": "Acido | Fuoco",
+        "DamageTypesAcidOrSlashing": "Acido | Tagliente",
+        "DamageTypesBludgeoning": "Contundente",
+        "DamageTypesBludgeoningAndCold": "Contundente & Freddo",
+        "DamageTypesBludgeoningAndElectricity": "Contundente & Elettricità",
+        "DamageTypesBludgeoningAndFire": "Contundente & Fuoco",
+        "DamageTypesBludgeoningAndSonic": "Contundente & Sonico",
+        "DamageTypesCold": "Freddo",
+        "DamageTypesColdAndPiercing": "Freddo & Perforante",
+        "DamageTypesColdOrFire": "Freddo | Fuoco",
+        "DamageTypesElectricity": "Elettricità",
+        "DamageTypesElectricityAndFire": "Elettricità & Fuoco",
+        "DamageTypesElectricityAndPiercing": "Elettricità & Perforante",
+        "DamageTypesElectricityAndSlashing": "Elettricità & Tagliente",
+        "DamageTypesFire": "Fuoco",
+        "DamageTypesFireAndPiercing": "Fuoco & Perforante",
+        "DamageTypesFireAndSlashing": "Fuoco & Perforante",
+        "DamageTypesFireOrSlashing": "Fuoco | Perforante",
+        "DamageTypesFireOrSonic": "Fuoco | Sonico",
+        "DamageTypesForce": "Forza",
+        "DamageTypesPiercing": "Perforante",
+        "DamageTypesPiercingAndSonic": "Perforante & Sonico",
         "DamageTypesRadiation": "Radiation",
-        "DamageTypesSlashing": "Slashing",
-        "DamageTypesSlashingAndPiercing": "Slashing & Piercing",
-        "DamageTypesSlashingAndSonic": "Slashing & Sonic",
-        "DamageTypesSonic": "Sonic",
-        "DamageTypesNonlethal": "Nonlethal",
-        "DamImm": "Damage Immunities",
-        "DamRes": "Energy Resistances",
-        "DamVuln": "Damage Vulnerabilities",
-        "Description": "Description",
-        "Details": "Details",
+        "DamageTypesSlashing": "Tagliente",
+        "DamageTypesSlashingAndPiercing": "Tagliente & Perforante",
+        "DamageTypesSlashingAndSonic": "Tagliente & Sonico",
+        "DamageTypesSonic": "Sonico",
+        "DamageTypesNonlethal": "Non letale",
+        "DamImm": "Immunità Danni",
+        "DamRes": "Resistenza Energia",
+        "DamVuln": "Vunerabilità Danni",
+        "Description": "Descrizione",
+        "Details": "Dettagli",
         "Dialogs": {
             "InputDialog": {
-                "SingleFieldInvalid": "Invalid input for {fieldName}.",
-                "MultipleFieldsInvalid": "Invalid input for the following fields:<br/>{fieldNames}"
+                "SingleFieldInvalid": "Valore non valido per {fieldName}.",
+                "MultipleFieldsInvalid": "Valore non valido per i campi:<br/>{fieldNames}"
             }
         },
-        "DistAny": "Any",
+        "DistAny": "Qualsiasi",
         "DroneSheet": {
             "Chassis": {
                 "Missing": "Missing Chassis",
