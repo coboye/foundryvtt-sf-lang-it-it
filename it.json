@@ -441,7 +441,7 @@
                 "MissingInitiative": "La fase corrente ha reimpostato l'iniziativa, per cortesia ritirare l'iniziativa di tutti i partecipanti prima di continuare<br/><br/>Click per chiudere."
             },
             "Normal": {
-                "Name": "Combattimento Normale",
+                "Name": "Normale",
                 "Phases": {
                     "1": {
                         "Name": "Combattimento",
@@ -450,36 +450,36 @@
                 }
             },
             "Starship": {
-                "Name": "Combattimento Astronavi",
+                "Name": "Astronavi",
                 "Phases": {
                     "1": {
                         "Name": "Cambio Ruoli",
                         "Description": "Chiunque desideri cambiare il proprio ruolo nell'astronave può farlo ora."
                     },
                     "2": {
-                        "Name": "Engineering",
+                        "Name": "Ingegneria",
                         "Description": "Captains, Engineers, Magic Officers, Chief Mates and Deck Hands may choose to act during this phase."
                     },
                     "3": {
-                        "Name": "Piloting Check",
+                        "Name": "Prova Pilotare",
                         "Description": "Pilots may now roll their piloting checks to determine this round's initiative."
                     },
                     "4": {
-                        "Name": "Helm",
+                        "Name": "Manovra",
                         "Description": "Captains, Pilots, Science Officers, Chief Mates and Deck Hands may choose to act during this phase."
                     },
                     "5": {
-                        "Name": "Gunnery",
+                        "Name": "Artiglieria",
                         "Description": "Captains, and Gunners may choose to act during this phase."
                     },
                     "6": {
-                        "Name": "Damage",
+                        "Name": "Danni",
                         "Description": "Everyone now processes their received damages, critical thresholds, etc."
                     }
                 }
             },
             "VehicleChase": {
-                "Name": "Vehicle Chase",
+                "Name": "Veicoli",
                 "Phases": {
                     "1": {
                         "Name": "Pilot Actions",
@@ -815,11 +815,11 @@
             }
         },
         "HealingTypesHealing": "Guarigione",
-        "Health": "P. Ferita",
+        "Health": "Punti Ferita",
         "HullPoints": "Punti Scafo",
-        "ImprovedInitiativeHint": "Character feat that adds 4 to thier initiaive roll",
-        "ImprovedInitiativeLabel": "Improved Initiative",
-        "InitiativeDexModTooltip": "Dexterity Modifier: {mod}",
+        "ImprovedInitiativeHint": "Talento Personaggio che aggiunge 4 al tiro iniziativa",
+        "ImprovedInitiativeLabel": "Iniziativa Migliorata",
+        "InitiativeDexModTooltip": "Modificatore Destrezza: {mod}",
         "InitiativeLabel": "Iniziativa",
         "InitiativeModiferLabel": "Mod",
         "InitiativeModiferTooltip": "{type} Bonus: {mod} ({source})",
@@ -831,8 +831,8 @@
         "InventoryCurrency": "Valuta",
         "InventoryEquipped": "Equipaggiato",
         "InventoryUsage": "Utilizzi",
-        "IronWillHint": "Character feat that adds 2 to will saving throws",
-        "IronWillLabel": "Iron Will",
+        "IronWillHint": "Telento personaggio che aggiunge 2 ai tiri salvezza su volontà",
+        "IronWillLabel": "Volontà di Ferro",
         "ItemCollectionSheet": {
             "ItemCollectionLocked": "This container is locked and will not open.",
             "Settings": {
