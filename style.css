@@ -1,0 +1,6 @@
+.token-sheet .window-content nav.sheet-tabs a.item {
+    display: block;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
