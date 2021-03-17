@@ -112,9 +112,9 @@
 			"description": "<p>I proiettili sono conservati in caricatori che si possono inserire nell'arma appropriata.</p><p><strong>Cariche/Cartucce</strong><strong>:</strong> 25</p>"		
 		},
 		{
-			"id": "",
-			"name": "",
-			"description": "<p></p>"		
+			"id": "Stickybomb Grenade I",
+			"name": "Granata Appiccicosa I",
+			"description": "<p>Questa granata detona con una pioggia di resina vischiosa.</p>"		
 		},
 		{
 			"id": "",
