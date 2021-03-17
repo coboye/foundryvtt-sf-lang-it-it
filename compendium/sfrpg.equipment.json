@@ -7,7 +7,7 @@
 			"description": "<p>I dirigenti della AbadarCorp hanno sdoganato questi abiti eleganti con corazza leggera per assemblee e incontri diplomatici. Campi di forza autoattivanti e respiratori nascosti proteggono il portatore in condizioni ambientali ostili. I gradi maggiori di vestito da viaggio offrono maggiore protezione, oltre ad essere griffati.</p>"
 		},		
 		{
-			"id": "Knife, Survival",
+			"id": "Knife, survival",
 			"name": "Coltello da Sopravvivenza",
 			"description": "<p>Queste lame sottili si possono usare in combattimento o per compiti pratici. Il tipico coltello da sopravvivenza ha una lama fissa, a filo singolo, di acciaio al carbonio o ceramica, trattata contro la corrosione. I coltelli tattici hanno ampie lame a doppio filo, spesso con una sezione seghettata presso l'impugnatura, fisse o a serramanico; si pu&ograve; preferire uno stile o l'altro, ma sono identici in termini di prezzo, peso e danni.</p>"
 		},
@@ -114,17 +114,22 @@
 		{
 			"id": "Stickybomb Grenade I",
 			"name": "Granata Appiccicosa I",
-			"description": "<p>Questa granata detona con una pioggia di resina vischiosa.</p>"		
+			"description": "<p>Questa granata detona con una pioggia di resina vischiosa.</p>"
 		},
 		{
-			"id": "",
-			"name": "",
-			"description": "<p></p>"		
+			"id": "Rounds, Small Arm",
+			"name": "Proiettili per Armi Piccole",
+			"description": "<p>I proiettili sono conservati in caricatori che si possono inserire nell'arma appropriata.</p><p><strong>Cariche/Cartucce</strong><strong>:</strong> 30</p>"				
 		},
 		{
-			"id": "",
-			"name": "",
-			"description": "<p></p>"		
+			"id": "Semi-auto pistol, tactical",
+			"name": "Pistola Semiautomatica Tattica",
+			"description": "<p>Il meccanismo semiautomatico di questa pistola espelle le cartucce usate e ne inserisce nella canna di nuove, se ce ne sono nel caricatore.</p>"		
+		},
+		{
+			"id": "Taclash, standard",
+			"name": "Sferza Tattica Standard",
+			"description": "<p>Una sferza tattica è una corda di nylon rinforzata con fibre di carbonio. Venivano usate in origine dalle organizzazioni militari per tenere a bada le folle, ed esploratori e mercenari hanno imparato ad apprezzarne l'utilità. Quando una sferza tattica paralizzante colpisce, viene percorsa da una bassa scossa elettrica. Lo shock è troppo lieve per infliggere danno, ma può stordire il bersaglio.</p>"		
 		},
 		{
 			"id": "",

@@ -162,19 +162,19 @@
                     "OpenTooltip": "Apri il contenitore e mostra la lista",
                     "StorageIdentifier": "Storage Identifier",
                     "StorageIdentifierTooltip": "The kind of storage slot that is represented by this storage section.",
-                    "StorageIdentifierItem": "Item Slot",
-                    "StorageIdentifierArmorUpgrade": "Armor Upgrade Slot",
-                    "StorageIdentifierWeaponSlot": "Weapon Slot",
-                    "StorageIdentifierFusion": "Fusion",
-                    "StorageIdentifierSpellSlot": "Spell Slot",
+                    "StorageIdentifierItem": "Spazio Oggetto",
+                    "StorageIdentifierArmorUpgrade": "Spazio Miglioria Armatura",
+                    "StorageIdentifierWeaponSlot": "Spazio Arma",
+                    "StorageIdentifierFusion": "Fusione",
+                    "StorageIdentifierSpellSlot": "Spazio Incantesimo",
                     "StorageSection": "Storage Section {index}",
                     "StorageSections": "Storage Sections",
                     "StorageSectionsAdd": "Add a new Storage Section",
                     "StorageSectionsRemove": "Delete this Storage Section",
                     "StorageType": "Storage Type",
                     "StorageTypeTooltip": "This property defines if a storage section measures its contents in bulk or in slots.",
-                    "StorageTypeSlot": "Slot",
-                    "StorageTypeBulk": "Bulk"
+                    "StorageTypeSlot": "Spazio",
+                    "StorageTypeBulk": "Volume"
                 },
                 "Encumbrance": {
                     "Encumbrance": "Capacità di Trasporto",
@@ -441,7 +441,7 @@
                 "MissingInitiative": "La fase corrente ha reimpostato l'iniziativa, per cortesia ritirare l'iniziativa di tutti i partecipanti prima di continuare<br/><br/>Click per chiudere."
             },
             "Normal": {
-                "Name": "Combattimento Normale",
+                "Name": "Normale",
                 "Phases": {
                     "1": {
                         "Name": "Combattimento",
@@ -450,36 +450,36 @@
                 }
             },
             "Starship": {
-                "Name": "Combattimento Astronavi",
+                "Name": "Astronavi",
                 "Phases": {
                     "1": {
                         "Name": "Cambio Ruoli",
                         "Description": "Chiunque desideri cambiare il proprio ruolo nell'astronave può farlo ora."
                     },
                     "2": {
-                        "Name": "Engineering",
+                        "Name": "Ingegneria",
                         "Description": "Captains, Engineers, Magic Officers, Chief Mates and Deck Hands may choose to act during this phase."
                     },
                     "3": {
-                        "Name": "Piloting Check",
+                        "Name": "Prova Pilotare",
                         "Description": "Pilots may now roll their piloting checks to determine this round's initiative."
                     },
                     "4": {
-                        "Name": "Helm",
+                        "Name": "Manovra",
                         "Description": "Captains, Pilots, Science Officers, Chief Mates and Deck Hands may choose to act during this phase."
                     },
                     "5": {
-                        "Name": "Gunnery",
+                        "Name": "Artiglieria",
                         "Description": "Captains, and Gunners may choose to act during this phase."
                     },
                     "6": {
-                        "Name": "Damage",
+                        "Name": "Danni",
                         "Description": "Everyone now processes their received damages, critical thresholds, etc."
                     }
                 }
             },
             "VehicleChase": {
-                "Name": "Vehicle Chase",
+                "Name": "Veicoli",
                 "Phases": {
                     "1": {
                         "Name": "Pilot Actions",
@@ -606,127 +606,127 @@
         "DistAny": "Qualsiasi",
         "DroneSheet": {
             "Chassis": {
-                "Missing": "Missing Chassis",
-                "NotInstalled": "No Chassis installed.",
+                "Missing": "Telaio Mancante",
+                "NotInstalled": "Telaio non installato.",
                 "Details": {
                     "AbilityScores": {
-                        "Dexterity": "Base Dexterity",
-                        "Header": "Ability Scores",
-                        "Increases": "Ability Score Increases",
-                        "Strength": "Base Strength",
-                        "Wisdom": "Base Wisdom"
+                        "Dexterity": "Destrezza Base",
+                        "Header": "Caratteristiche",
+                        "Increases": "Aumenti Caratteristica",
+                        "Strength": "Forza Base",
+                        "Wisdom": "Saggezza Base"
                     },
                     "BaseStatistics": {
-                        "Header": "Base statistics",
-                        "MechanicLevel": "Mechanic Level",
-                        "Size": "Size",
-                        "SpeedBase": "Speed, Base (Numeric, in feet)",
-                        "SpeedSpecial": "Speed, Special"
+                        "Header": "Caratteristiche Base",
+                        "MechanicLevel": "Livello Meccanico",
+                        "Size": "Taglia",
+                        "SpeedBase": "Velocità, base (Numero, in metri)",
+                        "SpeedSpecial": "Velocità, Speciale"
                     },
                     "Defense": {
-                        "EAC": "Base EAC",
-                        "Header": "Defense",
-                        "KAC": "Base KAC"
+                        "EAC": "CAE Base",
+                        "Header": "Defese",
+                        "KAC": "CAC Base"
                     },
                     "Saves": {
-                        "Fortitude": "Fortitude Save Progression",
-                        "Header": "Saves",
-                        "Reflex": "Reflex Save Progression",
-                        "Will": "Will Save Progression"
+                        "Fortitude": "Progressinoe TS Tempra",
+                        "Header": "Tiri Salvezza",
+                        "Reflex": "Progressinoe TS Riflessi",
+                        "Will": "Progressinoe TS Volontà"
                     }
                 },
                 "Name": {
-                    "Placeholder": "Chassis Name"
+                    "Placeholder": "Nome Telaio"
                 },
-                "Source": "Source",
-                "SourceTooltip": "Where does this chassis come from? Which book? What page?"
+                "Source": "Fonte",
+                "SourceTooltip": "Da dove viene questo telaio? Quale libro? Quale pagina?"
             },
             "Details": {
                 "Speed": {
-                    "SpecialPlaceholder": "No special movement"
+                    "SpecialPlaceholder": "Nessun movimento speciale"
                 }
             },
             "Features": {
-                "Chassis": "Chassis",
+                "Chassis": "Telai",
                 "Feats": {
-                    "Active": "Active Feats",
-                    "Header": "Feats (Amount: {current} of {max})",
-                    "Passive": "Passive Feats"
+                    "Active": "Talenti Attivi",
+                    "Header": "Talento (Quantità: {current} di {max})",
+                    "Passive": "Talenti Passivi"
                 },
-                "Mods": "Mods (Amount: {current} of {max})",
-                "ModsFree": "Free"
+                "Mods": "Modifiche (Quantità: {current} di {max})",
+                "ModsFree": "Gratis"
             },
             "Header": {
                 "Actions": {
-                    "Header": "Actions",
-                    "Repair": "Repair"
+                    "Header": "Azioni",
+                    "Repair": "Ripara"
                 },
-                "Defense": "Defense",
-                "Owner": "Owner"
+                "Defense": "Defese",
+                "Owner": "Proprietario"
             },
             "Inventory": {
-                "ArmorUpgrades": "Armor Upgrades (Equipped {current} of {max} armor slots)",
-                "CarriedItems": "Carried Items",
+                "ArmorUpgrades": "Potenziamenti Armatura (Equipaggiate {current} di {max} spazi armatura)",
+                "CarriedItems": "Oggetti Trasportati",
                 "Weapons": {
-                    "Both": "Weapons (Equiped weapon mounts: Melee {meleeCurrent} of {meleeMax}, Ranged {rangedCurrent} of {rangedMax})",
-                    "MeleeOnly": "Weapons (Equiped weapon mounts: Melee {meleeCurrent} of {meleeMax})",
-                    "None": "Weapons",
-                    "RangedOnly": "Weapons (Equiped weapon mounts: Ranged {rangedCurrent} of {rangedMax})"
+                    "Both": "Armi (Supporti armi equipaggiati: Mischia {meleeCurrent} di {meleeMax}, Distanza {rangedCurrent} di {rangedMax})",
+                    "MeleeOnly": "Armi (Supporti armi equipaggiati: Mischia {meleeCurrent} di {meleeMax})",
+                    "None": "Armi",
+                    "RangedOnly": "Armi (Supporti armi equipaggiati: Distanza {rangedCurrent} di {rangedMax})"
                 }
             },
             "Mod": {
                 "Details": {
                     "Arms": {
-                        "Amount": "Number of arms",
+                        "Amount": "Numero di braccia",
                         "ArmType": {
-                            "General": "General purpose",
-                            "Label": "Arm type",
-                            "Melee": "Melee weapon mount",
-                            "Ranged": "Ranged weapon mount"
+                            "General": "Scopo generico",
+                            "Label": "Tipo braccio",
+                            "Melee": "Supporto armi mischia",
+                            "Ranged": "Supporto armi distanza"
                         },
-                        "Header": "Other effects"
+                        "Header": "Altri effetti"
                     },
                     "BaseStatistics": {
-                        "FreeInstall": "Free Module",
-                        "FreeInstallLabel": "Exclude module from module count",
-                        "Header": "Base statistics",
-                        "MaxInstalls": "Max Installs"
+                        "FreeInstall": "Modifica Gratuita",
+                        "FreeInstallLabel": "Escludi mofica del conteggio totale",
+                        "Header": "Caratteristiche base",
+                        "MaxInstalls": "Installazioni Massime"
                     },
                     "OtherEffects": {
-                        "AdditionalSenses": "Additional senses",
-                        "ArmorSlot": "Is armor slot",
-                        "BonusSkill": "Bonus skill",
-                        "Header": "Other effects",
-                        "SpeedSpecial": "Special movement",
-                        "WeaponProficiency": "Weapon proficiency"
+                        "AdditionalSenses": "Sensi aggiuntivi",
+                        "ArmorSlot": "È uno spazio armatura",
+                        "BonusSkill": "Bonus abilità",
+                        "Header": "Altri effetti",
+                        "SpeedSpecial": "Movimento speciale",
+                        "WeaponProficiency": "Competenza arma"
                     }
                 },
                 "Name": {
-                    "Placeholder": "Mod Name"
+                    "Placeholder": "Nome Modifica"
                 },
-                "Source": "Source",
-                "SourceTooltip": "Where does this drone mod come from? Which book? What page?"
+                "Source": "Fonte",
+                "SourceTooltip": "Da dove viene questa modifica drone? Quale Libro? Quale pagina?"
             },
             "Skills": {
-                "NoSkillsAvailable": "This drone does not have any skills available."
+                "NoSkillsAvailable": "Questo drone non ha abilità disponibili."
             },
             "Traits": {
-                "ArmorSlots": "Armor Slots",
-                "GeneralPurposeArms": "General Purpose Arms",
-                "MeleeWeaponMounts": "Melee Weapon Mounts",
-                "RangedWeaponMounts": "Ranged Weapon Mounts"
+                "ArmorSlots": "Spazio Armatura",
+                "GeneralPurposeArms": "Baccia a scopo generico",
+                "MeleeWeaponMounts": "Supporti Armi da Mischia",
+                "RangedWeaponMounts": "Supporti Armi a Distanza"
             }
         },
         "EnergyArmorClass": "CAE",
         "FeatTypes": {
-            "General": "General Feats",
-            "Combat": "Combat Feats"
+            "General": "Telenti Generali",
+            "Combat": "Telenti Combattimento"
         },
         "Features": "Capacità",
-        "FeaturesAdd": "Add",
-        "FeaturesFilter": "Filter",
-        "FeaturesUsage": "Usage",
-        "FeaturesCharges": "Charges",
+        "FeaturesAdd": "Agg.",
+        "FeaturesFilter": "Filtra",
+        "FeaturesUsage": "Uso",
+        "FeaturesCharges": "Cariche",
         "FlagDeprecationNotice": "<strong>NOTE:</strong> These values are being replaced by the new modifiers system and will be removed in a future update. It is recommended that you uncheck any of these values and add them as a modifer on the Modifiers tab.",
         "FlagsInstructions": "Configure character features and traits which fine-tune behaviors of the Starfinder system.",
         "FlagsSave": "Update Special Traits",
@@ -755,42 +755,42 @@
                 "DCs": {
                     "Disable": "Disable",
                     "DisableTooltip": "This is the DC to disable the trap using the listed skill or skills.",
-                    "Header": "DCs",
+                    "Header": "CD",
                     "Notice": "Notice",
                     "NoticePlaceholder": "e.g. Perception DC 10",
                     "NoticeTooltip": "This is the DC to find the trap using Perception."
                 },
                 "Effects": {
-                    "Effect": "Effect",
+                    "Effect": "Effetto",
                     "EffectTooltip": "This lists the effect the trap has on those that trigger it.",
-                    "Header": "Effects"
+                    "Header": "Effetto"
                 },
                 "Vitals": {
                     "Defenses": {
-                        "EAC": "EAC",
+                        "EAC": "CAE",
                         "EACTooltip": "If the mechanical parts of your trap can be attacked, this value helps determine how easy it is to hit.",
                         "Hardness": "Hardness",
                         "HardnessTooltip": "Traps have a hardness based on their material.",
-                        "Header": "Defenses",
-                        "Hitpoints": "Hitpoints",
+                        "Header": "Difese",
+                        "Hitpoints": "Punti ferita",
                         "HitpointsTooltip": "Crucial parts of some traps can be damaged and should have the listed number of Hit Points. Traps are immune to anything an object is immune to unless otherwise noted. A trap reduced to 0 HP is destroyed. Destroying a trap might set off a final component of the trap, like an explosion. Traps never have Stamina Points.",
-                        "KAC": "KAC",
+                        "KAC": "CAC",
                         "KACTooltip": "If the mechanical parts of your trap can be attacked, this value helps determine how easy it is to hit."
                     },
                     "Offense": {
-                        "Attack": "Attack",
+                        "Attack": "Attacco",
                         "AttackTooltip": "(Optional) The trap’s attack bonus is used if it directly attacks a target.",
-                        "Damage": "Damage",
+                        "Damage": "Danno",
                         "DamageTooltip": "(Optional) The trap’s average damage is used if it directly attacks a target, but consider reducing this damage if a trap has multiple attacks or affects multiple targets.",
-                        "Header": "Offense"
+                        "Header": "Attacchi"
                     },
                     "Saves": {
-                        "Fortitude": "Fortitude save",
+                        "Fortitude": "TS Tempra",
                         "FortitudeTooltip": "If PCs use special attacks that can target objects against the trap, this value can be used for the trap’s Fortitude save.",
-                        "Header": "Saving throws",
-                        "Reflex": "Reflex save",
+                        "Header": "Tiri Salvezza",
+                        "Reflex": "TS Riflessi",
                         "ReflexTooltip": "If PCs use special attacks that can target objects against the trap, this value can be used for the trap’s Reflex save.",
-                        "Will": "Will save",
+                        "Will": "TS Volontà",
                         "WillTooltip": "Traps don’t normally need Will saves, but if necessary, a trap’s Will save is a poor save."
                     }
                 }
@@ -814,25 +814,25 @@
                 "Vitals": "Vitals"
             }
         },
-        "HealingTypesHealing": "Healing",
-        "Health": "P. Ferita",
+        "HealingTypesHealing": "Guarigione",
+        "Health": "Punti Ferita",
         "HullPoints": "Punti Scafo",
-        "ImprovedInitiativeHint": "Character feat that adds 4 to thier initiaive roll",
-        "ImprovedInitiativeLabel": "Improved Initiative",
-        "InitiativeDexModTooltip": "Dexterity Modifier: {mod}",
+        "ImprovedInitiativeHint": "Talento Personaggio che aggiunge 4 al tiro iniziativa",
+        "ImprovedInitiativeLabel": "Iniziativa Migliorata",
+        "InitiativeDexModTooltip": "Modificatore Destrezza: {mod}",
         "InitiativeLabel": "Iniziativa",
         "InitiativeModiferLabel": "Mod",
         "InitiativeModiferTooltip": "{type} Bonus: {mod} ({source})",
         "InvalidStarshipItem": "{name} is an invalid Item for a starship.",
         "Inventory": "Inventario",
-        "InventoryAdd": "Add",
-        "InventoryBulk": "Bulk",
-        "InventoryCapacity": "Capacity",
-        "InventoryCurrency": "Currency",
-        "InventoryEquipped": "Equipped",
-        "InventoryUsage": "Utilisation",
-        "IronWillHint": "Character feat that adds 2 to will saving throws",
-        "IronWillLabel": "Iron Will",
+        "InventoryAdd": "Agg.",
+        "InventoryBulk": "Volume",
+        "InventoryCapacity": "Capacità",
+        "InventoryCurrency": "Valuta",
+        "InventoryEquipped": "Equipaggiato",
+        "InventoryUsage": "Utilizzi",
+        "IronWillHint": "Telento personaggio che aggiunge 2 ai tiri salvezza su volontà",
+        "IronWillLabel": "Volontà di Ferro",
         "ItemCollectionSheet": {
             "ItemCollectionLocked": "This container is locked and will not open.",
             "Settings": {
@@ -843,9 +843,9 @@
                 "DeleteIfEmptyTooltip": "<strong>Delete when Emptied</strong><br/>Should this container token automatically be removed when the last item is removed from it?"
             }
         },
-        "ItemNoUses": "{name} has no ammunition left!",
+        "ItemNoUses": "{name} non ha più munizioni!",
         "Items": {
-            "ACP": "Armor Check Penalty",
+            "ACP": "Penalità di Armatura alle Prove",
             "Attuned": "Attuned",
             "EquipmentStatus": "Equipment Status",
             "EquipmentUsage": "Equipment Usage",
@@ -1325,8 +1325,8 @@
         },
         "Magitech": "Magitech",
         "Medium": "Medium",
-        "Meter": "Meter",
-        "Mi": "Miles",
+        "Meter": "Metri",
+        "Mi": "Miglia",
         "MigrationBeginingMigration": "Attempting to apply Starfinder system migration to version {systemVersion}. Please be patient and do not close your game or shutdown your server.",
         "MigrationEndMigration": "Starfinder system migration to version {systemVersion} was successful!",
         "MigrationErrorMessage": "There was an error migrating your Starfinder data, you made a backup, right?",
@@ -1443,39 +1443,39 @@
         "RacialTraits": "Tratti Razziali",
         "Reach": "Portata",
         "ReflexSave": "Riflessi",
-        "RepairDroneChatMessage": "{name} was repaired for {regainedHP} hit points.",
-        "RepairDroneDialogCancelButton": "Cancel",
-        "RepairDroneDialogDescription": "Repair your drone? The default rate is up to 10% of the drone's max HP per 10 minutes, if you have the Repair Drone (Ex) feat, you can instead repair up to 25% of the drone's max HP.",
-        "RepairDroneDialogImprovedFeat": "Use the Repair Drone (Ex) feat rules",
-        "RepairDroneDialogRepairButton": "Repair",
-        "RepairDroneDialogTitle": "Repair Drone",
-        "RepairDroneUnnecessary": "{name} is already at max hit points, no repairs needed.",
-        "Resolve": "Resolve",
-        "RestButton": "Rest",
-        "RestCancel": "Cancel",
-        "RestL": "Long Rest",
-        "RestS": "Short Rest",
-        "RestSActionHeader": "Spend one Resolve Point?",
-        "RestSChatMessage": "{name} takes a short 10 minute rest.",
-        "RestSChatMessageRestored": "{name} takes a short 10 minute rest, and spent {spentRP} Resolve Point to recover {regainedSP} Stamina Points.",
-        "RestSDescription": "Take a short rest? On a short rest you may spend one Resolve Point to recover all Stamina Points.",
-        "RestSTitle": "Short 10 Minute Rest",
+        "RepairDroneChatMessage": "{name} ` stato riparato di {regainedHP} punti ferita.",
+        "RepairDroneDialogCancelButton": "Annulla",
+        "RepairDroneDialogDescription": "Riparare il tuo drone? L'ammontare standard è fino al 10% dei PF massimi ogni 10 minuti, se hai il talento Riparare Drone (Str), puoi invece riparare fino al 25% dei PF massimi del drone.",
+        "RepairDroneDialogImprovedFeat": "Usa regole del talento Riparare Drone (Str)",
+        "RepairDroneDialogRepairButton": "Ripara",
+        "RepairDroneDialogTitle": "Ripara Drone",
+        "RepairDroneUnnecessary": "{name} è gia al massimo di punti ferita, non servono riparazioni.",
+        "Resolve": "Risolutezza",
+        "RestButton": "Riposo",
+        "RestCancel": "Annulla",
+        "RestL": "Riposo Lungo",
+        "RestS": "Riposo Breve",
+        "RestSActionHeader": "Spendere un Punto Risolutezza?",
+        "RestSChatMessage": "{name} riposa brevemente per 10 minuti.",
+        "RestSChatMessageRestored": "{name} riposa brevemente per 10 minuti, e spende {spentRP} Punti Risolutezza per recuperare {regainedSP} Punti Stamina.",
+        "RestSDescription": "Vuoi riposare brevemente? Con un riposo breve puoi spendere un Punto Risolutezza per recuperare tutti i Punti Stamina.",
+        "RestSTitle": "Riposo Breve 10 Minuti",
         "Rolls": {
-            "AttackRoll": "Attack Roll",
-            "AttackRollFull": "Attack Roll - {name}",
+            "AttackRoll": "Tiro per Colpire",
+            "AttackRollFull": "Tiro per Colpire - {name}",
             "Character": {
-                "Charge": "Charge",
-                "Flanking": "Flanking",
-                "FightDefensively": "Fight Defensively",
-                "FullAttack": "Full Attack",
-                "HarryingFire": "Harrying Fire bonus",
-                "HarryingFireTooltip": "Enable this bonus when attacking a target affected by Harrying Fire.",
-                "Nonlethal": "Nonlethal"
+                "Charge": "Carica",
+                "Flanking": "Fiancheggiamento",
+                "FightDefensively": "Combattere sulla Difensiva",
+                "FullAttack": "Attacco Completo",
+                "HarryingFire": "Bonus Fuoco di Disturbo",
+                "HarryingFireTooltip": "Attivalo quando l'avversario è affetto da Fuoco di Disturbo",
+                "Nonlethal": "Non letale"
             },
-            "DamageRoll": "Damage Roll",
-            "DamageRollFull": "Damage Roll - {name}",
+            "DamageRoll": "Tiro Danni",
+            "DamageRollFull": "Tiro Danni - {name}",
             "Dialog": {
-                "AvailableModifiers": "Available modifiers",
+                "AvailableModifiers": "Modificatori Disponibili",
                 "AvailableModifiersTooltip": "List of the available modifiers for this roll.",
                 "Formula": "Formula",
                 "FormulaTooltip": "The formula used to calculate the roll.",
@@ -1795,7 +1795,7 @@
         "SkillProficiencyLevelClassSkill": "Abilità di Classe",
         "SkillPsc": "Scienza Fisica",
         "SkillSen": "Intuizione",
-        "SkillsHeaderAbility": "Stat",
+        "SkillsHeaderAbility": "Car",
         "SkillsHeaderModifier": "Mod",
         "SkillsHeaderName": "Nome",
         "SkillsHeaderRanks": "Gradi",
@@ -1844,7 +1844,7 @@
             "Uses": "Usi"
         },
         "SpellBrowserSearchHint": "",
-        "SpellCantripLabel": "Cantrip",
+        "SpellCantripLabel": "Trucchetto",
         "SpellPreparationModesAlways": "Always Available",
         "SpellPreparationModesInnate": "Innate Spellcasting",
         "SpellResistance": "Spell Resistance",
@@ -1852,13 +1852,13 @@
         "StarshipSheet": {
             "Actions": {
                 "Header": {
-                    "Phase": "Phase",
-                    "ResolvePoints": "Resolve Points"
+                    "Phase": "Fase",
+                    "ResolvePoints": "Punti Risolutezza"
                 },
                 "Tooltips": {
-                    "NormalEffect": "Normal effect",
-                    "CriticalEffect": "Critical Effect",
-                    "Push": "Push",
+                    "NormalEffect": "Effetto Normale",
+                    "CriticalEffect": "Effetto Critico",
+                    "Push": "Al limite",
                     "PushTooltip": "Push actions (indicated in an action’s heading) are difficult to perform but can yield greater results. You can’t perform a push action if the necessary system is malfunctioning or wrecked (as noted in Critical Damage Conditions on page 321)."
                 }
             },
@@ -2031,54 +2031,54 @@
                 "TargetLock": "Target Lock"
             },
             "Role": {
-                "Captain": "Captain",
-                "Pilot": "Pilot",
-                "Gunner": "Gunner",
-                "Engineer": "Engineer",
-                "ScienceOfficer": "Science Officer",
+                "Captain": "Capitano",
+                "Pilot": "Pilota",
+                "Gunner": "Artigliere",
+                "Engineer": "Ingegnere",
+                "ScienceOfficer": "Ufficiale Scientifico",
                 "ChiefMate": "Chief Mate",
                 "MagicOfficer": "Magic Officer",
-                "Passenger": "Passenger",
+                "Passenger": "Passeggero",
                 "MinorCrew": "Minor Crew",
                 "OpenCrew": "Open Crew"
             },
             "Sides": {
-                "Aft": "Aft",
-                "Forward": "Forward",
-                "Port": "Port",
-                "Starboard": "Starboard"
+                "Aft": "Poppa",
+                "Forward": "Prua",
+                "Port": "Babordo",
+                "Starboard": "Tribordo"
             },
             "Tabs": {
-                "Actions": "Actions",
-                "Crew": "Crew",
-                "Weapons": "Weapons"
+                "Actions": "Azioni",
+                "Crew": "Equipaggio",
+                "Weapons": "Armi"
             },
             "Weapons": {
-                "AftArc": "Aft Arc ({slots})",
-                "CapitalSlots": "Capital: {current} / {max}",
-                "ForwardArc": "Forward Arc ({slots})",
-                "HeavySlots": "Heavy: {current} / {max}",
-                "LightSlots": "Light: {current} / {max}",
+                "AftArc": "Arco di Poppa ({slots})",
+                "CapitalSlots": "Prinipale: {current} / {max}",
+                "ForwardArc": "Aro di Prua ({slots})",
+                "HeavySlots": "Pesante: {current} / {max}",
+                "LightSlots": "Leggera: {current} / {max}",
                 "SpinalSlots": "Spinal: {current} / {max}",
-                "NoCapacity": "This weapon does not have any charges left to attack.",
-                "NotAvailable": "Not available",
-                "NotMounted": "Unmounted weapons",
-                "PortArc": "Port Arc ({slots})",
-                "StarboardArc": "Starboard Arc ({slots})",
-                "Turret": "Turret ({slots})"
+                "NoCapacity": "Quest'arma non ha arihe residue per attaccare.",
+                "NotAvailable": "Non disponibile",
+                "NotMounted": "Armi non installate",
+                "PortArc": "Aro di Babordo ({slots})",
+                "StarboardArc": "Aro di Tribordo ({slots})",
+                "Turret": "Torretta ({slots})"
             }
         },
-        "SubmitButtonLabel": "Submit",
+        "SubmitButtonLabel": "Invia",
         "SystemWide": "System-Wide",
         "TempHPMaxPlaceHolderText": "+Max",
         "TempHPPlaceHolderText": "+Temp",
-        "ThemePlaceHolderText": "Theme",
+        "ThemePlaceHolderText": "Tema",
         "ToggleSkillsButtonLabel": "Toggle Skills",
-        "Touch": "Touch",
+        "Touch": "Too",
         "TraitArmorProf": "Armor Proficiencies",
         "TraitWeaponProf": "Weapon Proficiencies",
         "Unlimited": "Unlimited",
-        "UPBs": "UPB's",
+        "UPBs": "PBU",
         "Vehicles": {
             "VehicleCoverTypes": {
                 "None": "None",
