@@ -119,7 +119,7 @@
 		{
 			"id": "Semi-auto pistol, tactical",
 			"name": "Pistola Semiautomatica Tattica",
-			"description": "<p><Il meccanismo semiautomatico di questa pistola espelle le cartucce usate e ne inserisce nella canna di nuove, se ce ne sono nel caricatore./p>"		
+			"description": "<p>Il meccanismo semiautomatico di questa pistola espelle le cartucce usate e ne inserisce nella canna di nuove, se ce ne sono nel caricatore.</p>"		
 		},
 		{
 			"id": "Taclash, standard",
