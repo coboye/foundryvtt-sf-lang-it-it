@@ -4,7 +4,7 @@
         {
             "id":"Supernova (Su)",
             "name":"Supernova (Sop)",
-            "description":"<p>&gt;<a class=\"entity-link\" draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"G7p2YIGFTAU6uGjL\"> Rivelazione Stellare</a></p><p>Quando si &egrave; pienamente armonizzati con i fotoni, come Azione Standard &egrave; possibile infliggere 1d6 danni da fuoco pi&ugrave; 1d6 danni da fuoco aggiuntivi per livello da solarian a tutte le creature entro 3 metri da s&eacute;. Le creature che superano un Tiro Salvezza su Riflessi dimezzano i danni. Al 9&deg; livello si pu&ograve; aumentare il raggio a 4,5 metri, mentre al 17&deg; lo si pu&ograve; incrementare fino a 6 metri. Dopo aver utilizzato questa rivelazione si diviene immediatamente non armonizzati. Supernova funziona come Rivelazione dello Zenit ai fini delle capacit&agrave; che vi fanno riferimento.</p>"
+            "description":"<p>&gt;@Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{Rivelazione Stellare}</p><p>Quando si &egrave; pienamente armonizzati con i fotoni, come Azione Standard &egrave; possibile infliggere 1d6 danni da fuoco pi&ugrave; 1d6 danni da fuoco aggiuntivi per livello da solarian a tutte le creature entro 3 metri da s&eacute;. Le creature che superano un Tiro Salvezza su Riflessi dimezzano i danni. Al 9&deg; livello si pu&ograve; aumentare il raggio a 4,5 metri, mentre al 17&deg; lo si pu&ograve; incrementare fino a 6 metri. Dopo aver utilizzato questa rivelazione si diviene immediatamente non armonizzati. Supernova funziona come Rivelazione dello Zenit ai fini delle capacit&agrave; che vi fanno riferimento.</p>"
         },
         {
             "id": "Black Hole (Su)",
