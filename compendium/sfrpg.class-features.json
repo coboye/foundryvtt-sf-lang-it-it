@@ -1,4 +1,15 @@
 {
     "label": "Privillegi di Classe",
-    "entries": []
+    "entries": [
+        {
+            "id":"Supernova (Su)",
+            "name":"Supernova (Sop)",
+            "description":"<p>&gt;<a class=\"entity-link\" draggable=\"true\" data-pack=\"sfrpg.class-features\" data-id=\"G7p2YIGFTAU6uGjL\"> Rivelazione Stellare</a></p><p>Quando si &egrave; pienamente armonizzati con i fotoni, come Azione Standard &egrave; possibile infliggere 1d6 danni da fuoco pi&ugrave; 1d6 danni da fuoco aggiuntivi per livello da solarian a tutte le creature entro 3 metri da s&eacute;. Le creature che superano un Tiro Salvezza su Riflessi dimezzano i danni. Al 9&deg; livello si pu&ograve; aumentare il raggio a 4,5 metri, mentre al 17&deg; lo si pu&ograve; incrementare fino a 6 metri. Dopo aver utilizzato questa rivelazione si diviene immediatamente non armonizzati. Supernova funziona come Rivelazione dello Zenit ai fini delle capacit&agrave; che vi fanno riferimento.</p>"
+        },
+        {
+            "id": "Black Hole (Su)",
+            "name": "Buco Nero (Sop)",
+            "description": "<p>&gt;@Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{Rivelazione Stellare}</p><p>Quando si &egrave; pienamente armonizzati con i gravitoni, come Azione Standard &egrave; possibile attirare pi&ugrave; vicino a s&eacute; un numero qualsiasi di creature entro 6 metri. Si sceglie quali creature vengano influenzate e quali no. Ogni bersaglio deve superare un Tiro Salvezza su Tempra o essere tirato di 3 metri verso l'utilizzatore. Il raggio di questa capacit&agrave; e la distanza di trascinamento aumentano di 1,5 metri al 5&deg; livello, e successivamente ogni 4 livelli. Questa capacit&agrave; non viene bloccata da oggetti solidi, ma qualsiasi creatura che vada a sbattere contro un oggetto solido cessa di muoversi verso l'utilizzatore. Le creature spostate tramite questa capacit&agrave; non provocano Attacchi di Opportunit&agrave; per effetto di tale movimento. Dopo aver utilizzato questa rivelazione si diviene immediatamente non armonizzati. Buco nero funziona come Rivelazione dello Zenit ai fini delle capacit&agrave; che vi fanno riferimento.</p>"
+        }
+    ]
 }
