@@ -4,3 +4,11 @@
     white-space: nowrap;
     overflow: hidden;
 }
+.sfrpg label.checkbox {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.sfrpg label.checkbox input[type="checkbox"] {
+    margin-right: 0px;
+}
