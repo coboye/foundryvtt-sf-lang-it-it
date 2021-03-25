@@ -77,7 +77,7 @@
 		},
 		{
 			"id": "Basic computer",
-			"description":"Computer Base"
+			"name": "Computer Base"
 		},
 		{
 			"id": "Basic deflector shield 1"
@@ -86,34 +86,36 @@
 			"id": "Basic deflector shield 3"
 		},
 		{
-			"id": "Basic long-range sensors"
+			"id": "Basic long-range sensors",
+			"name": "Sensori base a lungo raggio"
 		},
 		{
 			"id": "Basic medium-range sensors",
-			"description":"Sensori base a lungo raggio"
+			"name": "Sensori base a medio raggio"
 		},
 		{
 			"id": "Basic Shields 10",
-			"description": "Scudi Base 10"
+			"name": "Scudi Base 10"
 		},
 		{
 			"id": "Basic Shields 20",
-			"description": "Scudi Base 20"
+			"name": "Scudi Base 20"
 		},
 		{
 			"id": "Basic Shields 30",
-			"description": "Scudi Base 30"
+			"name": "Scudi Base 30"
 		},
 		{
 			"id": "Basic Shields 40",
-			"description": "Scudi Base 40"
+			"name": "Scudi Base 40"
 		},
 		{
 			"id": "Basic short-range sensors",
-			"description": "Sensori base a corto raggio"
+			"name": "Sensori base a corto raggio"
 		},
 		{
-			"id": "Battleship"
+			"id": "Battleship",
+			"name": "Nave da Guerra"
 		},
 		{
 			"id": "Biocamouflage"
@@ -122,7 +124,9 @@
 			"id": "Biological experimentation chamber"
 		},
 		{
-			"id": "Biometric locks"
+			"id": "Biometric locks",
+			"name": "Serrature Biometriche",
+			"description": "I sistemi di un'astronave dotati di serrature biometriche possono essere utilizzati esclusivamente da certe creature, designate al momento dell'installazione delle serrature; l'elenco può essere aggiornato da qualsiasi creatura abbia accesso ai sistemi informatici della nave. È possibile aggirare queste serrature superando una prova di Computer (CD = 20 + una volta e mezza la categoria dell'astronave)."
 		},
 		{
 			"id": "Black hole generator"
@@ -144,44 +148,45 @@
 		},
 		{
 			"id": "Budget long-range sensors",
-			"description": "Sensori economici a lungo raggio"
+			"name": "Sensori economici a lungo raggio"
 		},
 		{
 			"id": "Budget medium-range sensors",
-			"description": "Sensori economici a medio raggio"
+			"name": "Sensori economici a medio raggio"
 		},
 		{
 			"id": "Budget short-range sensors",
-			"description": "Sensori economici a corto raggio"
+			"name": "Sensori economici a corto raggio"
 		},
 		{
 			"id": "Bulk Freighter"
 		},
 		{
 			"id": "C4 thrusters",
-			"description": "Propulsori C4"
+			"name": "Propulsori C4"
 		},
 		{
 			"id": "C6 thrusters",
-			"description": "Propulsori C6"
+			"name": "Propulsori C6"
 		},
 		{
 			"id": "C8 thrusters",
-			"description": "Propulsori C8"
+			"name": "Propulsori C8"
 		},
 		{
 			"id": "Cargo hold",
-			"description": "Stiva di carico"
+			"name": "Stiva di carico"
 		},
 		{
-			"id": "Carrier"
+			"id": "Carrier",
+			"name": "Portastronavi"
 		},
 		{
 			"id": "CBooster thruster housing"
 		},
 		{
 			"id": "Chain cannon",
-			"description": "Cannone a catena"
+			"name": "Cannone a catena"
 		},
 		{
 			"id": "Cloaking, advanced"
@@ -197,7 +202,7 @@
 		},
 		{
 			"id": "Coilgun",
-			"description": "Cannone a spirale"
+			"name": "Cannone a spirale"
 		},
 		{
 			"id": "Colony ship framework"
@@ -308,7 +313,8 @@
 			"id": "Escape pods"
 		},
 		{
-			"id": "Explorer"
+			"id": "Explorer",
+			"name": "Esploratore"
 		},
 		{
 			"id": "External expansion bay"
@@ -317,7 +323,8 @@
 			"id": "Extreme force ramming prow (100)"
 		},
 		{
-			"id": "Fighter"
+			"id": "Fighter",
+			"name": "Caccia"
 		},
 		{
 			"id": "Flak spores"
@@ -335,13 +342,16 @@
 			"id": "Fractal nav-scram projector"
 		},
 		{
-			"id": "G4 thrusters"
+			"id": "G4 thrusters",
+			"name": "Propulsori G4"
 		},
 		{
-			"id": "G6 thrusters"
+			"id": "G6 thrusters",
+			"name": "Propulsori G6"
 		},
 		{
-			"id": "G8 thrusters"
+			"id": "G8 thrusters",
+			"name": "Propulsori G8"
 		},
 		{
 			"id": "Garbage ejection system (+8)"
@@ -410,16 +420,20 @@
 			"id": "Gyrolaser"
 		},
 		{
-			"id": "H10 thrusters"
+			"id": "H10 thrusters",
+			"name": "Propulsori  H10"
 		},
 		{
-			"id": "H4 thrusters"
+			"id": "H4 thrusters",
+			"name": "Propulsori H4"
 		},
 		{
-			"id": "H6 thrusters"
+			"id": "H6 thrusters",
+			"name": "Propulsori H6"
 		},
 		{
-			"id": "H8 thrusters"
+			"id": "H8 thrusters",
+			"name": "Propulsori H8"
 		},
 		{
 			"id": "Habitat Simulator"
@@ -530,22 +544,28 @@
 			"id": "Heavy ramming prow"
 		},
 		{
-			"id": "Heavy Shields 240"
+			"id": "Heavy Shields 240",
+			"name": "Scudi Pesanti  240"
 		},
 		{
-			"id": "Heavy Shields 280"
+			"id": "Heavy Shields 280",
+			"name": "Scudi Pesanti  280"
 		},
 		{
-			"id": "Heavy Shields 320"
+			"id": "Heavy Shields 320",
+			"name": "Scudi Pesanti  320"
 		},
 		{
-			"id": "Heavy Shields 360"
+			"id": "Heavy Shields 360",
+			"name": "Scudi Pesanti  360"
 		},
 		{
-			"id": "Heavy Shields 420"
+			"id": "Heavy Shields 420",
+			"name": "Scudi Pesanti  420"
 		},
 		{
-			"id": "Heavy Shields 480"
+			"id": "Heavy Shields 480",
+			"name": "Scudi Pesanti  480"
 		},
 		{
 			"id": "Heavy ship tether"
@@ -611,16 +631,20 @@
 			"id": "Interceptor"
 		},
 		{
-			"id": "L10 thrusters"
+			"id": "L10 thrusters",
+			"name": "Propulsori  L10"
 		},
 		{
-			"id": "L4 thrusters"
+			"id": "L4 thrusters",
+			"name": "Propulsori L4"
 		},
 		{
-			"id": "L6 thrusters"
+			"id": "L6 thrusters",
+			"name": "Propulsori L6"
 		},
 		{
-			"id": "L8 thrusters"
+			"id": "L8 thrusters",
+			"name": "Propulsori L8"
 		},
 		{
 			"id": "Laser net (+10)"
@@ -710,16 +734,20 @@
 			"id": "Light ramming prow"
 		},
 		{
-			"id": "Light Shields 50"
+			"id": "Light Shields 50",
+			"name": "Scudi Leggeri  50"
 		},
 		{
-			"id": "Light Shields 60"
+			"id": "Light Shields 60",
+			"name": "Scudi Leggeri  60"
 		},
 		{
-			"id": "Light Shields 70"
+			"id": "Light Shields 70",
+			"name": "Scudi Leggeri  70"
 		},
 		{
-			"id": "Light Shields 80"
+			"id": "Light Shields 80",
+			"name": "Scudi Leggeri  80"
 		},
 		{
 			"id": "Light ship tether"
@@ -746,19 +774,24 @@
 			"id": "Luxurious crew quarters"
 		},
 		{
-			"id": "M10 thrusters"
+			"id": "M10 thrusters",
+			"name": "Propulsori  M10"
 		},
 		{
-			"id": "M12 thrusters"
+			"id": "M12 thrusters",
+			"name": "Propulsori  M12"
 		},
 		{
-			"id": "M4 thrusters"
+			"id": "M4 thrusters",
+			"name": "Propulsori M4"
 		},
 		{
-			"id": "M6 thrusters"
+			"id": "M6 thrusters",
+			"name": "Propulsori M6"
 		},
 		{
-			"id": "M8 thrusters"
+			"id": "M8 thrusters",
+			"name": "Propulsori M8"
 		},
 		{
 			"id": "Magic torpedo unit"
@@ -797,19 +830,24 @@
 			"id": "Medium deflector shield 12"
 		},
 		{
-			"id": "Medium Shields 100"
+			"id": "Medium Shields 100",
+			"name": "Scudi Medi  100"
 		},
 		{
-			"id": "Medium Shields 120"
+			"id": "Medium Shields 120",
+			"name": "Scudi Medi  120"
 		},
 		{
-			"id": "Medium Shields 160"
+			"id": "Medium Shields 160",
+			"name": "Scudi Medi  160"
 		},
 		{
-			"id": "Medium Shields 200"
+			"id": "Medium Shields 200",
+			"name": "Scudi Medi  200"
 		},
 		{
-			"id": "Medium Shields 90"
+			"id": "Medium Shields 90",
+			"name": "Scudi Medi  90"
 		},
 		{
 			"id": "Mega carrion-missile launcher"
@@ -842,190 +880,248 @@
 			"id": "Missile blocker"
 		},
 		{
-			"id": "Mk 1 armor"
+			"id": "Mk 1 armor",
+			"name": "Armatura Mk 1"
 		},
 		{
 			"id": "Mk 1 bulkheads"
 		},
 		{
-			"id": "Mk 1 defenses"
+			"id": "Mk 1 defenses",
+			"name": "Difese Mk 1"
 		},
 		{
-			"id": "Mk 1 duonode"
+			"id": "Mk 1 duonode",
+			"name": "Mk 1 binodale"
 		},
 		{
-			"id": "Mk 1 mononode"
+			"id": "Mk 1 mononode",
+			"name": "Mk 1 mononodale"
 		},
 		{
-			"id": "Mk 1 tetranode"
+			"id": "Mk 1 tetranode",
+			"name": "Mk 1 tetranodale"
 		},
 		{
-			"id": "Mk 1 trinode"
+			"id": "Mk 1 trinode",
+			"name": "Mk 1 trinodale"
 		},
 		{
-			"id": "Mk 10 armor"
+			"id": "Mk 10 armor",
+			"name": "Armatura Mk 10"
 		},
 		{
-			"id": "Mk 10 defenses"
+			"id": "Mk 10 defenses",
+			"name": "Difese Mk 10"
 		},
 		{
-			"id": "Mk 10 duonode"
+			"id": "Mk 10 duonode",
+			"name": "Mk 10 binodale"
 		},
 		{
-			"id": "Mk 10 mononode"
+			"id": "Mk 10 mononode",
+			"name": "Mk 10 mononodale"
 		},
 		{
-			"id": "Mk 11 armor"
+			"id": "Mk 11 armor",
+			"name": "Armatura Mk 11"
 		},
 		{
-			"id": "Mk 11 defenses"
+			"id": "Mk 11 defenses",
+			"name": "Difese Mk 11"
 		},
 		{
-			"id": "Mk 12 armor"
+			"id": "Mk 12 armor",
+			"name": "Armatura Mk 12"
 		},
 		{
-			"id": "Mk 12 defenses"
+			"id": "Mk 12 defenses",
+			"name": "Difese Mk 12"
 		},
 		{
-			"id": "Mk 13 armor"
+			"id": "Mk 13 armor",
+			"name": "Armatura Mk 13"
 		},
 		{
-			"id": "Mk 13 defenses"
+			"id": "Mk 13 defenses",
+			"name": "Difese Mk 13"
 		},
 		{
-			"id": "Mk 14 armor"
+			"id": "Mk 14 armor",
+			"name": "Armatura Mk 14"
 		},
 		{
-			"id": "Mk 14 defenses"
+			"id": "Mk 14 defenses",
+			"name": "Difese Mk 14"
 		},
 		{
-			"id": "Mk 15 armor"
+			"id": "Mk 15 armor",
+			"name": "Armatura Mk 15"
 		},
 		{
-			"id": "Mk 15 defenses"
+			"id": "Mk 15 defenses",
+			"name": "Difese Mk 15"
 		},
 		{
-			"id": "Mk 2 armor"
+			"id": "Mk 2 armor",
+			"name": "Armatura Mk 2"
 		},
 		{
 			"id": "Mk 2 bulkheads"
 		},
 		{
-			"id": "Mk 2 defenses"
+			"id": "Mk 2 defenses",
+			"name": "Difese Mk 2"
 		},
 		{
-			"id": "Mk 2 duonode"
+			"id": "Mk 2 duonode",
+			"name": "Mk 2 binodale"
 		},
 		{
-			"id": "Mk 2 mononode"
+			"id": "Mk 2 mononode",
+			"name": "Mk 2 mononodale"
 		},
 		{
-			"id": "Mk 2 tetranode"
+			"id": "Mk 2 tetranode",
+			"name": "Mk 2 tetranodale"
 		},
 		{
-			"id": "Mk 2 trinode"
+			"id": "Mk 2 trinode",
+			"name": "Mk 2 trinodale"
 		},
 		{
-			"id": "Mk 3 armor"
+			"id": "Mk 3 armor",
+			"name": "Armatura Mk 3"
 		},
 		{
 			"id": "Mk 3 bulkheads"
 		},
 		{
-			"id": "Mk 3 defenses"
+			"id": "Mk 3 defenses",
+			"name": "Difese Mk 3"
 		},
 		{
-			"id": "Mk 3 duonode"
+			"id": "Mk 3 duonode",
+			"name": "Mk 3 binodale"
 		},
 		{
-			"id": "Mk 3 mononode"
+			"id": "Mk 3 mononode",
+			"name": "Mk 3 mononodale"
 		},
 		{
-			"id": "Mk 3 tetranode"
+			"id": "Mk 3 tetranode",
+			"name": "Mk 3 tetranodale"
 		},
 		{
-			"id": "Mk 3 trinode"
+			"id": "Mk 3 trinode",
+			"name": "Mk 3 trinodale"
 		},
 		{
-			"id": "Mk 4 armor"
+			"id": "Mk 4 armor",
+			"name": "Armatura Mk 4"
 		},
 		{
 			"id": "Mk 4 bulkheads"
 		},
 		{
-			"id": "Mk 4 defenses"
+			"id": "Mk 4 defenses",
+			"name": "Difese Mk 4"
 		},
 		{
-			"id": "Mk 4 duonode"
+			"id": "Mk 4 duonode",
+			"name": "Mk 4 binodale"
 		},
 		{
-			"id": "Mk 4 mononode"
+			"id": "Mk 4 mononode",
+			"name": "Mk 4 mononodale"
 		},
 		{
-			"id": "Mk 4 trinode"
+			"id": "Mk 4 trinode",
+			"name": "Mk 4 trinodale"
 		},
 		{
-			"id": "Mk 5 armor"
+			"id": "Mk 5 armor",
+			"name": "Armatura Mk 5"
 		},
 		{
-			"id": "Mk 5 defenses"
+			"id": "Mk 5 defenses",
+			"name": "Difese Mk 5"
 		},
 		{
-			"id": "Mk 5 duonode"
+			"id": "Mk 5 duonode",
+			"name": "Mk 5 binodale"
 		},
 		{
-			"id": "Mk 5 mononode"
+			"id": "Mk 5 mononode",
+			"name": "Mk 5 mononodale"
 		},
 		{
-			"id": "Mk 5 trinode"
+			"id": "Mk 5 trinode",
+			"name": "Mk 5 trinodale"
 		},
 		{
-			"id": "Mk 6 armor"
+			"id": "Mk 6 armor",
+			"name": "Armatura Mk 6"
 		},
 		{
-			"id": "Mk 6 defenses"
+			"id": "Mk 6 defenses",
+			"name": "Difese Mk 6"
 		},
 		{
-			"id": "Mk 6 duonode"
+			"id": "Mk 6 duonode",
+			"name": "Mk 6 binodale"
 		},
 		{
-			"id": "Mk 6 mononode"
+			"id": "Mk 6 mononode",
+			"name": "Mk 6 mononodale"
 		},
 		{
-			"id": "Mk 7 armor"
+			"id": "Mk 7 armor",
+			"name": "Armatura Mk 7"
 		},
 		{
-			"id": "Mk 7 defenses"
+			"id": "Mk 7 defenses",
+			"name": "Difese Mk 7"
 		},
 		{
-			"id": "Mk 7 duonode"
+			"id": "Mk 7 duonode",
+			"name": "Mk 7 binodale"
 		},
 		{
-			"id": "Mk 7 mononode"
+			"id": "Mk 7 mononode",
+			"name": "Mk 7 mononodale"
 		},
 		{
-			"id": "Mk 8 armor"
+			"id": "Mk 8 armor",
+			"name": "Armatura Mk 8"
 		},
 		{
-			"id": "Mk 8 defenses"
+			"id": "Mk 8 defenses",
+			"name": "Difese Mk 8"
 		},
 		{
-			"id": "Mk 8 duonode"
+			"id": "Mk 8 duonode",
+			"name": "Mk 8 binodale"
 		},
 		{
-			"id": "Mk 8 mononode"
+			"id": "Mk 8 mononode",
+			"name": "Mk 8 mononodale"
 		},
 		{
-			"id": "Mk 9 armor"
+			"id": "Mk 9 armor",
+			"name": "Armatura Mk 9"
 		},
 		{
-			"id": "Mk 9 defenses"
+			"id": "Mk 9 defenses",
+			"name": "Difese Mk 9"
 		},
 		{
-			"id": "Mk 9 duonode"
+			"id": "Mk 9 duonode",
+			"name": "Mk 9 binodale"
 		},
 		{
-			"id": "Mk 9 mononode"
+			"id": "Mk 9 mononode",
+			"name": "Mk 9 mononodale"
 		},
 		{
 			"id": "Monolith ramming prow"
@@ -1124,31 +1220,40 @@
 			"id": "Psiostasis pods (hybrid)"
 		},
 		{
-			"id": "Pulse Black"
+			"id": "Pulse Black",
+			"name": "Impulso Nero"
 		},
 		{
-			"id": "Pulse Blue"
+			"id": "Pulse Blue",
+			"name": "Impulso Blu"
 		},
 		{
-			"id": "Pulse Brown"
+			"id": "Pulse Brown",
+			"name": "Impulso Marrone"
 		},
 		{
-			"id": "Pulse Gray"
+			"id": "Pulse Gray",
+			"name": "Impulso Griigio"
 		},
 		{
-			"id": "Pulse Green"
+			"id": "Pulse Green",
+			"name": "Impulso Verde"
 		},
 		{
-			"id": "Pulse Orange"
+			"id": "Pulse Orange",
+			"name": "Impulso Arancione"
 		},
 		{
-			"id": "Pulse Prismatic"
+			"id": "Pulse Prismatic",
+			"name": "Impulso Prismatico"
 		},
 		{
-			"id": "Pulse Red"
+			"id": "Pulse Red",
+			"name": "Impulso Rosso"
 		},
 		{
-			"id": "Pulse White"
+			"id": "Pulse White",
+			"name": "Impulso Bianco"
 		},
 		{
 			"id": "Pulsed gyrolaser"
@@ -1211,28 +1316,35 @@
 			"id": "Root System (SOM)"
 		},
 		{
-			"id": "S10 thrusters"
+			"id": "S10 thrusters",
+			"name": "Propulsori  S10"
 		},
 		{
-			"id": "S12 thrusters"
+			"id": "S12 thrusters",
+			"name": "Propulsori  S12"
 		},
 		{
-			"id": "S6 thrusters"
+			"id": "S6 thrusters",
+			"name": "Propulsori S6"
 		},
 		{
-			"id": "S8 thrusters"
+			"id": "S8 thrusters",
+			"name": "Propulsori S8"
 		},
 		{
 			"id": "Sample Acquisition Bay"
 		},
 		{
-			"id": "Sc4 thrusters"
+			"id": "Sc4 thrusters",
+			"name": "Propulsori  Sc4"
 		},
 		{
-			"id": "Sc6 thrusters"
+			"id": "Sc6 thrusters",
+			"name": "Propulsori  Sc6"
 		},
 		{
-			"id": "Sc8 thrusters"
+			"id": "Sc8 thrusters",
+			"name": "Propulsori  Sc8"
 		},
 		{
 			"id": "Science lab"
@@ -1373,10 +1485,12 @@
 			"id": "Superior deflector shield 20"
 		},
 		{
-			"id": "Superior Shields 540"
+			"id": "Superior Shields 540",
+			"name": "Scudi Superiori  540"
 		},
 		{
-			"id": "Superior Shields 600"
+			"id": "Superior Shields 600",
+			"name": "Scudi Superiori  600"
 		},
 		{
 			"id": "Superlaser"
@@ -1394,19 +1508,24 @@
 			"id": "Synthesis Bay"
 		},
 		{
-			"id": "T10 thrusters"
+			"id": "T10 thrusters",
+			"name": "Propulsori  T10"
 		},
 		{
-			"id": "T12 thrusters"
+			"id": "T12 thrusters",
+			"name": "Propulsori  T12"
 		},
 		{
-			"id": "T14 thrusters"
+			"id": "T14 thrusters",
+			"name": "Propulsori  T14"
 		},
 		{
-			"id": "T6 thrusters"
+			"id": "T6 thrusters",
+			"name": "Propulsori T6"
 		},
 		{
-			"id": "T8 thrusters"
+			"id": "T8 thrusters",
+			"name": "Propulsori T8"
 		},
 		{
 			"id": "Tactical nuclear missile launcher"
