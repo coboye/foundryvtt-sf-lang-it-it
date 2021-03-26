@@ -1,4 +1,190 @@
 {
     "label": "Azioni Astronave",
-    "entries": []
+    "entries": [
+        {
+            "id": "Activate ECM"
+        },
+        {
+            "id": "Audacious Gambit",
+            "name":"Azzardo Audace"
+        },
+        {
+            "id": "Balance",
+            "name": "Bilanciare"
+        },
+        {
+            "id": "Broadside",
+            "name": "Bordata"
+        },
+        {
+            "id": "Demand",
+            "name": "Esigere"
+        },
+        {
+            "id": "Deploy Drone"
+        },
+        {
+            "id": "Divert",
+            "name": "Reindirizzare"
+        },
+        {
+            "id": "Eldritch Shot"
+        },
+        {
+            "id": "Encourage",
+            "name": "Incoraggiare"
+        },
+        {
+            "id": "Erratic Maneuvering"
+        },
+        {
+            "id": "Feign Disaster"
+        },
+        {
+            "id": "Fire At Will",
+            "name": "Fuoco a Volontà"
+        },
+        {
+            "id": "Fly",
+            "name": "Volare"
+        },
+        {
+            "id": "Full Power",
+            "name": "Piena Potenza"
+        },
+        {
+            "id": "Glide",
+            "name": "Planare"
+        },
+        {
+            "id": "Hard Turn"
+        },
+        {
+            "id": "Harrying Shot"
+        },
+        {
+            "id": "Hold It Together",
+            "name": "Tenere in Fuzione"
+        },
+        {
+            "id": "Improve Countermeasures",
+            "name": "Migliorare Contromisure"
+        },
+        {
+            "id": "Insidious Electronics"
+        },
+        {
+            "id": "Lay Mines"
+        },
+        {
+            "id": "Lead Boarding Party"
+        },
+        {
+            "id": "Lock On",
+            "name": "Agganciare"
+        },
+        {
+            "id": "Maintenance Panel Access"
+        },
+        {
+            "id": "Maneuver",
+            "name": "Governare"
+        },
+        {
+            "id": "Manual Realignment"
+        },
+        {
+            "id": "Maximize Speed"
+        },
+        {
+            "id": "Moving Speech",
+            "name": "Discorso Ispiratore"
+        },
+        {
+            "id": "Mystic Haze"
+        },
+        {
+            "id": "Orders",
+            "name": "Ordini"
+        },
+        {
+            "id": "Overpower",
+            "name": "Sfruttare al MAssimo"
+        },
+        {
+            "id": "Patch",
+            "name": "Rattoppare"
+        },
+        {
+            "id": "Precise Targeting",
+            "name": "Fuoco di Precisione"
+        },
+        {
+            "id": "Precognition"
+        },
+        {
+            "id": "Prioritize Calculation"
+        },
+        {
+            "id": "Psychic Currents"
+        },
+        {
+            "id": "Quick Fix",
+            "name": "Riparazione Rapida"
+        },
+        {
+            "id": "Quick Rescan"
+        },
+        {
+            "id": "Range Finding"
+        },
+        {
+            "id": "Rapid Jam"
+        },
+        {
+            "id": "Ready Weapon System"
+        },
+        {
+            "id": "Recall Beacon"
+        },
+        {
+            "id": "Scan",
+            "name": "Scansionare"
+        },
+        {
+            "id": "Scrying"
+        },
+        {
+            "id": "Shoot",
+            "name": "Sparare"
+        },
+        {
+            "id": "Snap Shot",
+            "name": "Fuoco alla Cieca"
+        },
+        {
+            "id": "Stunt",
+            "name": "Manovra Azzardata"
+        },
+        {
+            "id": "Subdue Boarding Party"
+        },
+        {
+            "id": "Swift Kick"
+        },
+        {
+            "id": "Target System",
+            "name": "Mirare a un Sistema"
+        },
+        {
+            "id": "Targeting Aid"
+        },
+        {
+            "id": "Taunt",
+            "name": "Schernire"
+        },
+        {
+            "id": "Visual Identification"
+        }
+    ]
 }
