@@ -12,3 +12,10 @@
 .sfrpg label.checkbox input[type="checkbox"] {
     margin-right: 0px;
 }
+.sfrpg.sheet.actor.starship .sheet-body .attributes .attribute .attribute-value label.notInstalled {
+    white-space: nowrap;
+    padding-right: 2px;
+}
+.sfrpg.sheet.actor .traits label {
+    flex: 0 0 167px;
+}
