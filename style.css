@@ -19,3 +19,6 @@
 .sfrpg.sheet.actor .traits label {
     flex: 0 0 167px;
 }
+.sfrpg.sheet.actor.character .sheet-header .attributes .attribute .attribute-name {
+    white-space: nowrap;
+}
