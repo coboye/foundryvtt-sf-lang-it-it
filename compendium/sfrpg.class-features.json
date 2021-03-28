@@ -2,14 +2,2446 @@
     "label": "Privilegi di Classe",
     "entries": [
         {
-            "id":"Supernova (Su)",
-            "name":"Supernova (Sop)",
-            "description":"<p>&gt;@Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{Rivelazione Stellare}</p><p>Quando si &egrave; pienamente armonizzati con i fotoni, come Azione Standard &egrave; possibile infliggere 1d6 danni da fuoco pi&ugrave; 1d6 danni da fuoco aggiuntivi per livello da solarian a tutte le creature entro 3 metri da s&eacute;. Le creature che superano un Tiro Salvezza su Riflessi dimezzano i danni. Al 9&deg; livello si pu&ograve; aumentare il raggio a 4,5 metri, mentre al 17&deg; lo si pu&ograve; incrementare fino a 6 metri. Dopo aver utilizzato questa rivelazione si diviene immediatamente non armonizzati. Supernova funziona come Rivelazione dello Zenit ai fini delle capacit&agrave; che vi fanno riferimento.</p>"
+            "id": "Absolute Control (Su)"
+        },
+        {
+            "id": "Absolute Zero (Su)"
+        },
+        {
+            "id": "Abundant Qi (Su) (5th)"
+        },
+        {
+            "id": "Accelerate (Su)"
+        },
+        {
+            "id": "Access Akashic Record (Su)"
+        },
+        {
+            "id": "Adaptable Spell Knowledge (Ex)"
+        },
+        {
+            "id": "Adaptive Damage Reduction (Ex) (5th)"
+        },
+        {
+            "id": "Additional Skill Expertise (Ex)"
+        },
+        {
+            "id": "Advanced Coordination (Ex; Coordinated Shot)"
+        },
+        {
+            "id": "Advanced Customization (Ex) (Armor)"
+        },
+        {
+            "id": "Advanced Customization (Ex) (Weapon)"
+        },
+        {
+            "id": "Advanced Mods"
+        },
+        {
+            "id": "Advanced Operations Specialist (Ex)"
+        },
+        {
+            "id": "Advanced Rig (Ex)"
+        },
+        {
+            "id": "Aesthetic Warrior"
+        },
+        {
+            "id": "Against the Odds (Ex) (5th)"
+        },
+        {
+            "id": "Agent of Change (Su)"
+        },
+        {
+            "id": "Agile Wavelengths (Su)"
+        },
+        {
+            "id": "Akashic"
+        },
+        {
+            "id": "Akashic Knowledge (Ex)"
+        },
+        {
+            "id": "Alien Archive (Ex)"
+        },
+        {
+            "id": "Alleviate Pain (Ex)"
+        },
+        {
+            "id": "Altered Bearing (Ex; Disguise)"
+        },
+        {
+            "id": "Alternate Outcome (Su)"
+        },
+        {
+            "id": "Alternative Curricula (Su)"
+        },
+        {
+            "id": "Ambusher"
+        },
+        {
+            "id": "Ambusher’s Edge (Ex) (5th)"
+        },
+        {
+            "id": "Ammo Drop"
+        },
+        {
+            "id": "Analyst (Ex; Sense Motive)"
+        },
+        {
+            "id": "Analyze"
+        },
+        {
+            "id": "Anchoring Arcana (Su; 7th Level)"
+        },
+        {
+            "id": "Animal Adaptation (Su)"
+        },
+        {
+            "id": "Antagonize (Ex)"
+        },
+        {
+            "id": "Anticipate Ambush (Ex) (4th)"
+        },
+        {
+            "id": "Arcane Assailant"
+        },
+        {
+            "id": "Arcane Attack (Su) (5th)"
+        },
+        {
+            "id": "Armor Optimizer (Ex)"
+        },
+        {
+            "id": "Armor Prototype Proficiency (Ex)"
+        },
+        {
+            "id": "Armor Slot (Ex)"
+        },
+        {
+            "id": "Armor Storm"
+        },
+        {
+            "id": "Armor Training (Ex) (1st)"
+        },
+        {
+            "id": "Armored Advantage (Ex)"
+        },
+        {
+            "id": "Arms Expert (Ex)"
+        },
+        {
+            "id": "Arrest (Su)"
+        },
+        {
+            "id": "Artificial Intelligence (Ex)"
+        },
+        {
+            "id": "Astrologic Sense (Su)"
+        },
+        {
+            "id": "Attracting Shield (Su)"
+        },
+        {
+            "id": "Audacity (Ex)"
+        },
+        {
+            "id": "Backlash (Su)"
+        },
+        {
+            "id": "Basic Mods"
+        },
+        {
+            "id": "Battlemaster"
+        },
+        {
+            "id": "Beatdown (Ex; Improved Combat Maneuver [Trip])"
+        },
+        {
+            "id": "Bestow Tactics (Su)"
+        },
+        {
+            "id": "Binary Shield System (Su)"
+        },
+        {
+            "id": "Biohacks (Ex)"
         },
         {
             "id": "Black Hole (Su)",
             "name": "Buco Nero (Sop)",
             "description": "<p>&gt;@Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{Rivelazione Stellare}</p><p>Quando si &egrave; pienamente armonizzati con i gravitoni, come Azione Standard &egrave; possibile attirare pi&ugrave; vicino a s&eacute; un numero qualsiasi di creature entro 6 metri. Si sceglie quali creature vengano influenzate e quali no. Ogni bersaglio deve superare un Tiro Salvezza su Tempra o essere tirato di 3 metri verso l'utilizzatore. Il raggio di questa capacit&agrave; e la distanza di trascinamento aumentano di 1,5 metri al 5&deg; livello, e successivamente ogni 4 livelli. Questa capacit&agrave; non viene bloccata da oggetti solidi, ma qualsiasi creatura che vada a sbattere contro un oggetto solido cessa di muoversi verso l'utilizzatore. Le creature spostate tramite questa capacit&agrave; non provocano Attacchi di Opportunit&agrave; per effetto di tale movimento. Dopo aver utilizzato questa rivelazione si diviene immediatamente non armonizzati. Buco nero funziona come Rivelazione dello Zenit ai fini delle capacit&agrave; che vi fanno riferimento.</p>"
+        },
+        {
+            "id": "Blade in the Night (Su)"
+        },
+        {
+            "id": "Blazing Orbit (Su)"
+        },
+        {
+            "id": "Bleeding Shot (Ex)"
+        },
+        {
+            "id": "Blindsense (Operative)"
+        },
+        {
+            "id": "Blindsense (Su)"
+        },
+        {
+            "id": "Blindsight (Su)"
+        },
+        {
+            "id": "Blitz"
+        },
+        {
+            "id": "Bodyguard Vigilance (Ex; Bodyguard)"
+        },
+        {
+            "id": "Bolster Armor (Ex)"
+        },
+        {
+            "id": "Bolster Resilience (Ex) (1st)"
+        },
+        {
+            "id": "Bombard"
+        },
+        {
+            "id": "Boost Neurotransmitters (Ex)"
+        },
+        {
+            "id": "Boost Shield (Ex)"
+        },
+        {
+            "id": "Boundary"
+        },
+        {
+            "id": "Boundary Catalyst (Su)"
+        },
+        {
+            "id": "Boundary Embodiment (Ex)"
+        },
+        {
+            "id": "Boundary Finale (Su)"
+        },
+        {
+            "id": "Boundary Insight (Ex)"
+        },
+        {
+            "id": "Bountiful Qi (Su) (3rd)"
+        },
+        {
+            "id": "Brain Hacker (Su)"
+        },
+        {
+            "id": "Break Fall (Ex)"
+        },
+        {
+            "id": "Brutal Blast (Ex)"
+        },
+        {
+            "id": "Building Your Drone"
+        },
+        {
+            "id": "Bullet Barrage (Ex)"
+        },
+        {
+            "id": "Bypass (Ex)"
+        },
+        {
+            "id": "Cache Augmentation (Ex)"
+        },
+        {
+            "id": "Cache Capacitor (Su)"
+        },
+        {
+            "id": "Cache Concentration (Su)"
+        },
+        {
+            "id": "Cache Hacks (Su)"
+        },
+        {
+            "id": "Calculate Trajectory (Ex)"
+        },
+        {
+            "id": "Calibrate Defenses (Ex)"
+        },
+        {
+            "id": "Camera (Ex)"
+        },
+        {
+            "id": "Cargo Rack (Ex)"
+        },
+        {
+            "id": "Cascade"
+        },
+        {
+            "id": "Cascade Catalyst (Su)"
+        },
+        {
+            "id": "Cascade Embodiment (Ex)"
+        },
+        {
+            "id": "Cascade Finale (Su)"
+        },
+        {
+            "id": "Cascade Insight (Ex)"
+        },
+        {
+            "id": "Cautious Expertise (Ex; see below)"
+        },
+        {
+            "id": "Certainty (Ex)"
+        },
+        {
+            "id": "Channel Bond (Su)"
+        },
+        {
+            "id": "Channel Life (Su)"
+        },
+        {
+            "id": "Channel Skill (Su)"
+        },
+        {
+            "id": "Charge Attack (Ex) (2nd)"
+        },
+        {
+            "id": "Charging Jolt (Su)"
+        },
+        {
+            "id": "Cheap Shot (Ex) (2nd)"
+        },
+        {
+            "id": "Chokehold (Ex; Improved Combat Maneuver [Grapple])"
+        },
+        {
+            "id": "Clever Attack (Ex)"
+        },
+        {
+            "id": "Clever Feint (Ex)"
+        },
+        {
+            "id": "Clever Improvisations (Ex)"
+        },
+        {
+            "id": "Clever Retreat"
+        },
+        {
+            "id": "Climbing Claws (Ex)"
+        },
+        {
+            "id": "Cloaking Field (Ex)"
+        },
+        {
+            "id": "Close Enough to Kill (Ex) (3rd)"
+        },
+        {
+            "id": "Clothesline (Ex)"
+        },
+        {
+            "id": "Combat Drone"
+        },
+        {
+            "id": "Combat Expertise (Ex)"
+        },
+        {
+            "id": "Combat Feat"
+        },
+        {
+            "id": "Combat Tracking (Ex)"
+        },
+        {
+            "id": "Combat Trick (Ex)"
+        },
+        {
+            "id": "Compound Sight (Su)"
+        },
+        {
+            "id": "Connection"
+        },
+        {
+            "id": "Constellation Blast (Su)"
+        },
+        {
+            "id": "Control Net (Ex)"
+        },
+        {
+            "id": "Convincing Liar (Ex; Bluff)"
+        },
+        {
+            "id": "Coordinated Aim (Ex) (1st)"
+        },
+        {
+            "id": "Coordinated Assault (Ex)"
+        },
+        {
+            "id": "Coordinated Barrage (Ex)"
+        },
+        {
+            "id": "Coordinated Flankers (Ex)"
+        },
+        {
+            "id": "Coordinated Maneuvers (Ex)"
+        },
+        {
+            "id": "Corona (Su)"
+        },
+        {
+            "id": "Countertech (Su)"
+        },
+        {
+            "id": "Countertech Sentinel (Su)"
+        },
+        {
+            "id": "Crusader"
+        },
+        {
+            "id": "Crush (Su)"
+        },
+        {
+            "id": "Crushing Force (Su)"
+        },
+        {
+            "id": "Cultural Savant (Ex; Culture)"
+        },
+        {
+            "id": "Cunning Disguise (Ex; Disguise)"
+        },
+        {
+            "id": "Curative Deconstruction (Su)"
+        },
+        {
+            "id": "Curving Flare (Su)"
+        },
+        {
+            "id": "Custom Microlab (Ex)"
+        },
+        {
+            "id": "Custom Rig (Ex)"
+        },
+        {
+            "id": "Dampen (Su)"
+        },
+        {
+            "id": "Dampening Song (Su)"
+        },
+        {
+            "id": "Daredevil"
+        },
+        {
+            "id": "Dark Matter (Su)"
+        },
+        {
+            "id": "Dart Aside (Su)"
+        },
+        {
+            "id": "Deactivating Shot"
+        },
+        {
+            "id": "Deadly Reflexes (Ex) (3rd)"
+        },
+        {
+            "id": "Death Strike (Ex)"
+        },
+        {
+            "id": "Debilitating Attack (Ex) (3rd)"
+        },
+        {
+            "id": "Debilitating Sniper (Ex)"
+        },
+        {
+            "id": "Debilitating Trick (Ex)"
+        },
+        {
+            "id": "Debug Spell (Ex)"
+        },
+        {
+            "id": "Defense Matrix (Ex)"
+        },
+        {
+            "id": "Defensive Cleave (Ex; Cleave)"
+        },
+        {
+            "id": "Defensive Lunge (Ex; Lunge)"
+        },
+        {
+            "id": "Defy Gravity (Su)"
+        },
+        {
+            "id": "Deny Death (Su)"
+        },
+        {
+            "id": "Desperate Defense (Ex)"
+        },
+        {
+            "id": "Detective"
+        },
+        {
+            "id": "Devastator’s Cache"
+        },
+        {
+            "id": "Diminish Spell Runtime (Su)"
+        },
+        {
+            "id": "Direct Denial of Shapechanging (Su)"
+        },
+        {
+            "id": "Dirty Trick"
+        },
+        {
+            "id": "Discern Lies (Sp)"
+        },
+        {
+            "id": "Dispiriting Taunt (Ex)"
+        },
+        {
+            "id": "Disrupt Attack (Su)"
+        },
+        {
+            "id": "Disrupt Creature (Su)"
+        },
+        {
+            "id": "Disrupting Shot (Ex)"
+        },
+        {
+            "id": "Distant Burst (Su)"
+        },
+        {
+            "id": "Distant Spell (Ex)"
+        },
+        {
+            "id": "Distracting Blather"
+        },
+        {
+            "id": "Distracting Glare (Su)"
+        },
+        {
+            "id": "Distracting Hack (Ex)"
+        },
+        {
+            "id": "Divine Protection (Su)"
+        },
+        {
+            "id": "Diviner's Tap (Su)"
+        },
+        {
+            "id": "Don't Quit (Ex)"
+        },
+        {
+            "id": "Double Debilitation (Ex)"
+        },
+        {
+            "id": "Double Draw (Ex) (1st)"
+        },
+        {
+            "id": "Draining Agony (Su)"
+        },
+        {
+            "id": "Draw Fire (Ex) (Envoy)"
+        },
+        {
+            "id": "Draw Fire (Su) (Vanguard)"
+        },
+        {
+            "id": "Drone"
+        },
+        {
+            "id": "Drone Chassis"
+        },
+        {
+            "id": "Drone Meld (Ex)"
+        },
+        {
+            "id": "Drone Summoner (Su)"
+        },
+        {
+            "id": "Dual Chambers (Ex)"
+        },
+        {
+            "id": "Dual Specialization (Ex)"
+        },
+        {
+            "id": "Duck and Weave (Ex) (3rd)"
+        },
+        {
+            "id": "Duck Under (Ex)"
+        },
+        {
+            "id": "Echoes of Obedience (Su)"
+        },
+        {
+            "id": "Echolocators (Ex)"
+        },
+        {
+            "id": "Efficient Cloaking Field (Ex)"
+        },
+        {
+            "id": "Effortless Innuendo (Ex; Bluff)"
+        },
+        {
+            "id": "Eldritch Secret"
+        },
+        {
+            "id": "Electric Arc (Ex; 7th Level)"
+        },
+        {
+            "id": "Elusive Hacker (Ex)"
+        },
+        {
+            "id": "Elusive Target (Ex) (4th)"
+        },
+        {
+            "id": "Emotionsense (Su)"
+        },
+        {
+            "id": "Empath"
+        },
+        {
+            "id": "Empathic Mastery (Sp)"
+        },
+        {
+            "id": "Empathy (Su)"
+        },
+        {
+            "id": "Empower Defenses (Ex) (5th)"
+        },
+        {
+            "id": "Empowered Healing Touch (Su)"
+        },
+        {
+            "id": "Empowered Weapon (Su)"
+        },
+        {
+            "id": "Energetic Booster* (Ex)"
+        },
+        {
+            "id": "Energize (Su)"
+        },
+        {
+            "id": "Energize Spell (Su)"
+        },
+        {
+            "id": "Energy Alteration (Su)"
+        },
+        {
+            "id": "Energy Shield (Ex; Drone)"
+        },
+        {
+            "id": "Energy Shield (Ex)"
+        },
+        {
+            "id": "Energy Shield (Ex) (Armor)"
+        },
+        {
+            "id": "Engineer's Eye (Ex)"
+        },
+        {
+            "id": "Engineering Adept (Ex; Engineering)"
+        },
+        {
+            "id": "Enhanced Armor (Ex)"
+        },
+        {
+            "id": "Enhanced Prototype Proficiency (Ex)"
+        },
+        {
+            "id": "Enhanced Senses (Ex; Drone)"
+        },
+        {
+            "id": "Enhanced Senses (Ex)"
+        },
+        {
+            "id": "Enhanced Tank (Ex) (2nd)"
+        },
+        {
+            "id": "Enlightenment (Su)"
+        },
+        {
+            "id": "Enshrouding Gloom (Su)"
+        },
+        {
+            "id": "Entropic Attunement (Su)"
+        },
+        {
+            "id": "Entropic Charge (Su)"
+        },
+        {
+            "id": "Entropic Pool (Su)"
+        },
+        {
+            "id": "Entropic Strike (Su)"
+        },
+        {
+            "id": "Entropy Shield (Su)"
+        },
+        {
+            "id": "Envoy Improvisation"
+        },
+        {
+            "id": "Epiphanies"
+        },
+        {
+            "id": "Eternal Spell (Ex)"
+        },
+        {
+            "id": "Evasion (Ex) (Operative)"
+        },
+        {
+            "id": "Evasion (Ex) (Vanguard)"
+        },
+        {
+            "id": "Ever Vigilant (Ex)"
+        },
+        {
+            "id": "Excavator (Ex)"
+        },
+        {
+            "id": "Exclusion Zone (Su)"
+        },
+        {
+            "id": "Exergy"
+        },
+        {
+            "id": "Exergy Catalyst (Su)"
+        },
+        {
+            "id": "Exergy Embodiment (Ex)"
+        },
+        {
+            "id": "Exergy Finale (Su)"
+        },
+        {
+            "id": "Exergy Insight (Ex)"
+        },
+        {
+            "id": "Exocortex"
+        },
+        {
+            "id": "Exocortex Mods (Ex)"
+        },
+        {
+            "id": "Expanded Attunement (Ex)"
+        },
+        {
+            "id": "Expanded Skill Channeling (Ex)"
+        },
+        {
+            "id": "Experimental Armor Prototype"
+        },
+        {
+            "id": "Experimental Weapon Prototype (Ex)"
+        },
+        {
+            "id": "Expert AI (Ex)"
+        },
+        {
+            "id": "Expert Attack (Ex)"
+        },
+        {
+            "id": "Expert Distraction (Ex; Bluff)"
+        },
+        {
+            "id": "Expert Forger (Ex; Computers)"
+        },
+        {
+            "id": "Expert Rig (Ex)"
+        },
+        {
+            "id": "Expertise (Ex)"
+        },
+        {
+            "id": "Expertise Talent"
+        },
+        {
+            "id": "Explode Head (Su)"
+        },
+        {
+            "id": "Exploit Cover (Ex) (4th)"
+        },
+        {
+            "id": "Explorer"
+        },
+        {
+            "id": "Explosives Acumen (Ex) (4th)"
+        },
+        {
+            "id": "Extend Runtime (Su)"
+        },
+        {
+            "id": "Extended Spell (Ex)"
+        },
+        {
+            "id": "Extra Ammo (Ex)"
+        },
+        {
+            "id": "Extra Manifestation"
+        },
+        {
+            "id": "Extra Mod (Ex)"
+        },
+        {
+            "id": "Extra Upgrade (Ex)"
+        },
+        {
+            "id": "Fabricate Arms (Su)"
+        },
+        {
+            "id": "Fabricate Tech (Sp)"
+        },
+        {
+            "id": "Far Injection (Ex)"
+        },
+        {
+            "id": "Farsight (Sp)"
+        },
+        {
+            "id": "Fast Hack (Ex; Computers)"
+        },
+        {
+            "id": "Fast Hunting (Ex) (3rd)"
+        },
+        {
+            "id": "Feat Boosts"
+        },
+        {
+            "id": "Feign Death (Ex)"
+        },
+        {
+            "id": "Feint and Strike (Ex) (2nd)"
+        },
+        {
+            "id": "Feinting Stunt"
+        },
+        {
+            "id": "Field Dressing (Ex)"
+        },
+        {
+            "id": "Field Treatment (Ex)"
+        },
+        {
+            "id": "Fighting Style"
+        },
+        {
+            "id": "Finesse Striker (Ex)"
+        },
+        {
+            "id": "First Vanguard Aspect"
+        },
+        {
+            "id": "Flare (Su)"
+        },
+        {
+            "id": "Flash Freeze (Ex; 7th Level)"
+        },
+        {
+            "id": "Flash Teleport (Sp)"
+        },
+        {
+            "id": "Flash Teleport (Su)"
+        },
+        {
+            "id": "Flashing Strikes (Ex) (Solarian)"
+        },
+        {
+            "id": "Flashing Strikes (Ex) (Vanguard)"
+        },
+        {
+            "id": "Flatten Bullets (Su)"
+        },
+        {
+            "id": "Flight System (Ex)"
+        },
+        {
+            "id": "Focus (Ex)"
+        },
+        {
+            "id": "Focus Fire (Ex) (2nd)"
+        },
+        {
+            "id": "Focused Damage (Ex) (4th)"
+        },
+        {
+            "id": "Forced Amity (Sp)"
+        },
+        {
+            "id": "Forceful Commands (Su)"
+        },
+        {
+            "id": "Forceful Shield (Su)"
+        },
+        {
+            "id": "Fourfold Tactician"
+        },
+        {
+            "id": "Frenzied Fighting (Ex) (1st)"
+        },
+        {
+            "id": "Friendly Fire (Su)"
+        },
+        {
+            "id": "Fuse Spells (Ex)"
+        },
+        {
+            "id": "Gallant Rebuttal (Su)"
+        },
+        {
+            "id": "Gather Qi (Su) (2nd)"
+        },
+        {
+            "id": "Gear Boost"
+        },
+        {
+            "id": "Gene Therapy (Ex)"
+        },
+        {
+            "id": "Genehacker’s Cache"
+        },
+        {
+            "id": "General’s Tactics (Su)"
+        },
+        {
+            "id": "Genetics"
+        },
+        {
+            "id": "Get 'Em (Ex)"
+        },
+        {
+            "id": "Ghost"
+        },
+        {
+            "id": "Ghost in the Machine (Ex)"
+        },
+        {
+            "id": "Ghost Intrusion (Ex)"
+        },
+        {
+            "id": "Glean Spell (Su)"
+        },
+        {
+            "id": "Glimpse the Truth (Ex)"
+        },
+        {
+            "id": "Glitch Step (Su)"
+        },
+        {
+            "id": "Glow of Life (Su)"
+        },
+        {
+            "id": "Grabbing Strike (Ex; Improved Combat Maneuver [Grapple])"
+        },
+        {
+            "id": "Grapple Equipment (Ex; Improved Combat Maneuver [Grapple])"
+        },
+        {
+            "id": "Grasping Vines (Su)"
+        },
+        {
+            "id": "Gravitic Calling (Su)"
+        },
+        {
+            "id": "Gravitic Reinforcement (Su)"
+        },
+        {
+            "id": "Gravity Anchor (Su)"
+        },
+        {
+            "id": "Gravity Boost (Su)"
+        },
+        {
+            "id": "Gravity Hold (Su)"
+        },
+        {
+            "id": "Gravity Pulse (Su)"
+        },
+        {
+            "id": "Gravity Shield (Su)"
+        },
+        {
+            "id": "Gravity Surge (Su)"
+        },
+        {
+            "id": "Gravity Well (Su)"
+        },
+        {
+            "id": "Greater Bestow Tactics (Su)"
+        },
+        {
+            "id": "Greater Emotionsense (Su)"
+        },
+        {
+            "id": "Greater Field Dressing (Ex)"
+        },
+        {
+            "id": "Greater Forced Amity (Sp)"
+        },
+        {
+            "id": "Greater Mindlink (Su)"
+        },
+        {
+            "id": "Greater Resistance (Ex)"
+        },
+        {
+            "id": "Greater Secondary Connection"
+        },
+        {
+            "id": "Greater Treat Condition (Ex)"
+        },
+        {
+            "id": "Gregarious Mien (Ex; Diplomacy)"
+        },
+        {
+            "id": "Grenade Expert (Ex) (1st)"
+        },
+        {
+            "id": "Guard"
+        },
+        {
+            "id": "Guard's Protection (Ex) (2nd)"
+        },
+        {
+            "id": "Guarded Combatant (Ex)"
+        },
+        {
+            "id": "Guardian Angel (Su)"
+        },
+        {
+            "id": "Guided Rebirth (Su)"
+        },
+        {
+            "id": "Guided Reincarnation (Sp)"
+        },
+        {
+            "id": "Hack Capacitor (Su)"
+        },
+        {
+            "id": "Hack Directory (Ex)"
+        },
+        {
+            "id": "Hacker"
+        },
+        {
+            "id": "Hammer Fist (Ex) (1st)"
+        },
+        {
+            "id": "Hampering Inhibitor* (Ex)"
+        },
+        {
+            "id": "Hampering Shot (Ex)"
+        },
+        {
+            "id": "Hardened AI (Ex)"
+        },
+        {
+            "id": "Harmful Spells (Ex)"
+        },
+        {
+            "id": "Harrying Shot (Ex) (5th)"
+        },
+        {
+            "id": "Heads Up (Ex)"
+        },
+        {
+            "id": "Healer"
+        },
+        {
+            "id": "Healer’s Bond (Sp)"
+        },
+        {
+            "id": "Healing Channel (Su)"
+        },
+        {
+            "id": "Healing Touch (Su)"
+        },
+        {
+            "id": "Heavy Fire (Ex) (2nd)"
+        },
+        {
+            "id": "Heavy Onslaught (Ex; 11th Level)"
+        },
+        {
+            "id": "Hidden Agenda (Ex)"
+        },
+        {
+            "id": "Hidden Strike"
+        },
+        {
+            "id": "Hit-and-Run"
+        },
+        {
+            "id": "Hobble Creature (Su)"
+        },
+        {
+            "id": "Holographic Artist’s Cache"
+        },
+        {
+            "id": "Holographic Clone (Ex)"
+        },
+        {
+            "id": "Holographic Distraction (Ex)"
+        },
+        {
+            "id": "Holographic Projector (Ex)"
+        },
+        {
+            "id": "Hover Drone"
+        },
+        {
+            "id": "Hunt Foe (Ex) (2nd)"
+        },
+        {
+            "id": "Hunter"
+        },
+        {
+            "id": "Hunter’s Expertise (Ex) (1st)"
+        },
+        {
+            "id": "Hunting Party (Ex) (4th)"
+        },
+        {
+            "id": "Hurry (Ex)"
+        },
+        {
+            "id": "Hydrojets (Ex)"
+        },
+        {
+            "id": "Hyperclocking (Ex)"
+        },
+        {
+            "id": "Hypnotic Glow (Su)"
+        },
+        {
+            "id": "Ignore Pain (Ex) (2nd)"
+        },
+        {
+            "id": "Immunology"
+        },
+        {
+            "id": "Impactful Attack (Ex) (5th)"
+        },
+        {
+            "id": "Impenetrable Defense (Ex) (5th)"
+        },
+        {
+            "id": "Improved Evasion (Ex)"
+        },
+        {
+            "id": "Improved Get 'Em (Ex)"
+        },
+        {
+            "id": "Improved Hurry (Ex)"
+        },
+        {
+            "id": "Improved Magazine (Ex)"
+        },
+        {
+            "id": "Improved Overcharge (Ex)"
+        },
+        {
+            "id": "Improved Resistant Energy (Ex)"
+        },
+        {
+            "id": "Improved Secondary Connection"
+        },
+        {
+            "id": "Improved Treat Condition (Ex)"
+        },
+        {
+            "id": "Improved Uncanny Mobility (Ex)"
+        },
+        {
+            "id": "Improvise Surgery (Ex; Medicine)"
+        },
+        {
+            "id": "Inexplicable Commands (Su)"
+        },
+        {
+            "id": "Infinite Worlds (Su)"
+        },
+        {
+            "id": "Inhibit (Sp or Su)"
+        },
+        {
+            "id": "Injection Expert (Ex)"
+        },
+        {
+            "id": "Inoculation (Ex)"
+        },
+        {
+            "id": "Inspired Medic (Ex; Medicine)"
+        },
+        {
+            "id": "Inspiring Boost (Ex)"
+        },
+        {
+            "id": "Inspiring Oration (Ex)"
+        },
+        {
+            "id": "Instant Reload (Ex) (3rd)"
+        },
+        {
+            "id": "Instinctive Strike (Ex) (2nd)"
+        },
+        {
+            "id": "Intelligence Network (Ex)"
+        },
+        {
+            "id": "Intense Focus (Ex) (3rd)"
+        },
+        {
+            "id": "Interfere (Su)"
+        },
+        {
+            "id": "Interfering Shot (Ex)"
+        },
+        {
+            "id": "Internal Reservoir (Ex)"
+        },
+        {
+            "id": "Interplanetary Teleport (Sp)"
+        },
+        {
+            "id": "Intervene (Su)"
+        },
+        {
+            "id": "Inventive Engineer (Ex)"
+        },
+        {
+            "id": "Inversion"
+        },
+        {
+            "id": "Inversion Catalyst (Su)"
+        },
+        {
+            "id": "Inversion Embodiment (Ex)"
+        },
+        {
+            "id": "Inversion Finale (Ex)"
+        },
+        {
+            "id": "Inversion Insight (Ex)"
+        },
+        {
+            "id": "Invisibility Bypass Processor (Ex)"
+        },
+        {
+            "id": "Invisibility Field (Ex)"
+        },
+        {
+            "id": "Invisibility-Hampering Projector (Ex)"
+        },
+        {
+            "id": "Invulnerability (Su)"
+        },
+        {
+            "id": "Jack of All Trades (Ex)"
+        },
+        {
+            "id": "Jealous Overlord (Su)"
+        },
+        {
+            "id": "Jump Jets (Ex)"
+        },
+        {
+            "id": "Junker’s Cache"
+        },
+        {
+            "id": "Keen Observer (Ex; Sense Motive)"
+        },
+        {
+            "id": "Keep Fighting (Ex) (3rd)"
+        },
+        {
+            "id": "Kick It Up (Ex)"
+        },
+        {
+            "id": "Kill Shot (Ex)"
+        },
+        {
+            "id": "Kinetic Resistance (Ex) (4th)"
+        },
+        {
+            "id": "Knock Down"
+        },
+        {
+            "id": "Knockout Shot (Ex)"
+        },
+        {
+            "id": "Laser Accuracy (Ex)"
+        },
+        {
+            "id": "Lifelink (Su)"
+        },
+        {
+            "id": "Lightning Kip-Up (Ex; Kip-Up)"
+        },
+        {
+            "id": "Limited AI (Ex)"
+        },
+        {
+            "id": "Lingering Spell (Ex)"
+        },
+        {
+            "id": "Liquid Bravery (Ex)"
+        },
+        {
+            "id": "Living Effigy (Su)"
+        },
+        {
+            "id": "Long-Range Improvisation (Ex)"
+        },
+        {
+            "id": "Look Alive (Ex)"
+        },
+        {
+            "id": "Luminescent Inquisition (Su)"
+        },
+        {
+            "id": "Magic Deletion (Su)"
+        },
+        {
+            "id": "Magic Hack"
+        },
+        {
+            "id": "Magic Negation (Sp)"
+        },
+        {
+            "id": "Magic Trajectories (Su)"
+        },
+        {
+            "id": "Magical Expertise (Ex)"
+        },
+        {
+            "id": "Maneuver Expertise (Ex; Combat Expertise)"
+        },
+        {
+            "id": "Manipulator Arms (Ex)"
+        },
+        {
+            "id": "Marked for Death (Ex)"
+        },
+        {
+            "id": "Martyr’s Improvisation (Ex)"
+        },
+        {
+            "id": "Mass Suit Up (Sp)"
+        },
+        {
+            "id": "Master Control (Ex)"
+        },
+        {
+            "id": "Master of Disguise (Ex; Disguise)"
+        },
+        {
+            "id": "Master of Disguise (Ex) (Operative)"
+        },
+        {
+            "id": "Mechanic Trick"
+        },
+        {
+            "id": "Medical Subroutine (Ex)"
+        },
+        {
+            "id": "Medication Mastery (Ex)"
+        },
+        {
+            "id": "Melee Striker (Ex)"
+        },
+        {
+            "id": "Melee Weapon Arm (Ex)"
+        },
+        {
+            "id": "Melophile"
+        },
+        {
+            "id": "Memory Module (Ex)"
+        },
+        {
+            "id": "Memory Palace (Su)"
+        },
+        {
+            "id": "Menacing Gaze (Ex; Intimidate)"
+        },
+        {
+            "id": "Mental Anguish (Su)"
+        },
+        {
+            "id": "Mental Mark (Su)"
+        },
+        {
+            "id": "Mentalist's Bane"
+        },
+        {
+            "id": "Metabolic Stability (Ex)"
+        },
+        {
+            "id": "Meteor Shower (Su)"
+        },
+        {
+            "id": "Mighty Leap"
+        },
+        {
+            "id": "Mind Probe (Sp)"
+        },
+        {
+            "id": "Mind Probe (Su)"
+        },
+        {
+            "id": "Mindbreaker"
+        },
+        {
+            "id": "Mindbreaking Link (Su)"
+        },
+        {
+            "id": "Mindkiller (Su)"
+        },
+        {
+            "id": "Mindlink (Sp)"
+        },
+        {
+            "id": "Mindlink Bond (Su)"
+        },
+        {
+            "id": "Miniature Star (Su)"
+        },
+        {
+            "id": "Miracle Worker (Ex; Medicine)"
+        },
+        {
+            "id": "Miracle Worker (Ex)"
+        },
+        {
+            "id": "Mitigate (Ex)"
+        },
+        {
+            "id": "Mobile Army (Ex) (4th)"
+        },
+        {
+            "id": "Mod Tinkerer (Ex)"
+        },
+        {
+            "id": "Modify Memory (Sp)"
+        },
+        {
+            "id": "Momentum"
+        },
+        {
+            "id": "Momentum Catalyst (Su)"
+        },
+        {
+            "id": "Momentum Embodiment (Ex)"
+        },
+        {
+            "id": "Momentum Finale (Sp)"
+        },
+        {
+            "id": "Momentum Insight (Ex)"
+        },
+        {
+            "id": "Motivation Expertise (Ex)"
+        },
+        {
+            "id": "Multi-Weapon Strike (Ex; Multi-Weapon Fighting)"
+        },
+        {
+            "id": "Multi-Weapon Versatility (Ex; Multi-Weapon Fighting)"
+        },
+        {
+            "id": "Multiattack Mastery (Ex)"
+        },
+        {
+            "id": "Multitasking (Ex)"
+        },
+        {
+            "id": "Mystic Reach (Su)"
+        },
+        {
+            "id": "Mystic Swap (Su) (3rd)"
+        },
+        {
+            "id": "Nebula Storm (Su)"
+        },
+        {
+            "id": "Neural Shunt (Ex)"
+        },
+        {
+            "id": "Neurochemistry"
+        },
+        {
+            "id": "Nightvision (Ex)"
+        },
+        {
+            "id": "Nightvision Processor (Ex)"
+        },
+        {
+            "id": "Nimble Fusillade (Ex) (2nd)"
+        },
+        {
+            "id": "Nimble Juggernaut (Ex)"
+        },
+        {
+            "id": "Nimble Stunt"
+        },
+        {
+            "id": "Not in the Face (Ex)"
+        },
+        {
+            "id": "On the Bounce (Ex) (5th)"
+        },
+        {
+            "id": "Opening Volley (Ex) (1st)"
+        },
+        {
+            "id": "Operations Specialist (Ex)"
+        },
+        {
+            "id": "Operative Exploit"
+        },
+        {
+            "id": "Operative's Edge (Ex)"
+        },
+        {
+            "id": "Operative’s Arsenal (Ex)"
+        },
+        {
+            "id": "Operative’s Kip-Up"
+        },
+        {
+            "id": "Optimize (Sp or Su)"
+        },
+        {
+            "id": "Overbearing Stare (Su)"
+        },
+        {
+            "id": "Overcharge (Ex)"
+        },
+        {
+            "id": "Overclocking (Ex)"
+        },
+        {
+            "id": "Overkill (Ex) (5th)"
+        },
+        {
+            "id": "Overlapping Forms (Su)"
+        },
+        {
+            "id": "Overload (Ex)"
+        },
+        {
+            "id": "Overload Weapon (Ex)"
+        },
+        {
+            "id": "Overlord"
+        },
+        {
+            "id": "Override (Ex)"
+        },
+        {
+            "id": "Painful Injection (Ex)"
+        },
+        {
+            "id": "Paradigm Shift"
+        },
+        {
+            "id": "Peer into the Future (Su)"
+        },
+        {
+            "id": "Peerless Hunter (Ex) (5th)"
+        },
+        {
+            "id": "Perfect Opportunity (Ex) (4th)"
+        },
+        {
+            "id": "Phalanx Fighting (Ex)"
+        },
+        {
+            "id": "Phantom Colossus (Su)"
+        },
+        {
+            "id": "Pharmacology"
+        },
+        {
+            "id": "Phase Shot (Su)"
+        },
+        {
+            "id": "Plant Transport (Su)"
+        },
+        {
+            "id": "Plasma Immolation (Ex; 7th Level)"
+        },
+        {
+            "id": "Plasma Sheath (Su)"
+        },
+        {
+            "id": "Poison-Inured (Su)"
+        },
+        {
+            "id": "Polymorphic Disguise (Su)"
+        },
+        {
+            "id": "Portable Charging Station (Ex)"
+        },
+        {
+            "id": "Portable Power (Ex)"
+        },
+        {
+            "id": "Power Boost (Ex)"
+        },
+        {
+            "id": "Power of Legend (Su) (3rd)"
+        },
+        {
+            "id": "Powerful Biohacks* (Ex)"
+        },
+        {
+            "id": "Powerful Explosive (Ex; 7th Level)"
+        },
+        {
+            "id": "Precise Flanker (Ex) (4th)"
+        },
+        {
+            "id": "Prepared Shot (Ex) (5th)"
+        },
+        {
+            "id": "Prevent Wounds (Su)"
+        },
+        {
+            "id": "Primary Field Of Study (Ex)"
+        },
+        {
+            "id": "Primary Style Technique"
+        },
+        {
+            "id": "Protective Programming (Ex)"
+        },
+        {
+            "id": "Prototype Tinkerer (Ex)"
+        },
+        {
+            "id": "Psychokinetic Skills (Sp)"
+        },
+        {
+            "id": "Pummel Through"
+        },
+        {
+            "id": "Push Grenade (Su)"
+        },
+        {
+            "id": "Qi Adept"
+        },
+        {
+            "id": "Qi Overflow (Su) (4th)"
+        },
+        {
+            "id": "Qi Strike (Su) (1st)"
+        },
+        {
+            "id": "Quad Attack (Ex)"
+        },
+        {
+            "id": "Quad Tracking (Ex)"
+        },
+        {
+            "id": "Quick Backup (Ex) (2nd)"
+        },
+        {
+            "id": "Quick Boost (Ex)"
+        },
+        {
+            "id": "Quick Cover (Ex)"
+        },
+        {
+            "id": "Quick Disguise (Ex)"
+        },
+        {
+            "id": "Quick Dispiriting Taunt (Ex)"
+        },
+        {
+            "id": "Quick Inspiring Boost (Ex)"
+        },
+        {
+            "id": "Quick Movement (Ex)"
+        },
+        {
+            "id": "Quick Patch (Ex)"
+        },
+        {
+            "id": "Quick Repair (Ex)"
+        },
+        {
+            "id": "Quick Scan (Su)"
+        },
+        {
+            "id": "Quick Trick (Ex)"
+        },
+        {
+            "id": "Quick Zero-G Adaptation (Ex)"
+        },
+        {
+            "id": "Quickened Spell (Ex)"
+        },
+        {
+            "id": "Radiant Aura (Su)"
+        },
+        {
+            "id": "Radiation (Su)"
+        },
+        {
+            "id": "Rain of Fire (Su)"
+        },
+        {
+            "id": "Rapid Recovery (Ex) (3rd)"
+        },
+        {
+            "id": "Rapid Response (Ex) (1st)"
+        },
+        {
+            "id": "Rattling Presence (Ex; Intimidate)"
+        },
+        {
+            "id": "Ray of Light (Su)"
+        },
+        {
+            "id": "Reaction"
+        },
+        {
+            "id": "Reaction Catalyst (Su)"
+        },
+        {
+            "id": "Reaction Embodiment (Su)"
+        },
+        {
+            "id": "Reaction Finale (Su)"
+        },
+        {
+            "id": "Reaction Insight (Ex)"
+        },
+        {
+            "id": "Reactive (Ex)"
+        },
+        {
+            "id": "Reactive Camouflage (Ex)"
+        },
+        {
+            "id": "Reactive Counter (Su)"
+        },
+        {
+            "id": "Reactive Resistance (Ex) (3rd)"
+        },
+        {
+            "id": "Reactive Resistance (Su)"
+        },
+        {
+            "id": "Reality Stutter (Su)"
+        },
+        {
+            "id": "Reboot Mind (Su)"
+        },
+        {
+            "id": "Reductive Plating (Ex)"
+        },
+        {
+            "id": "Reflection (Su)"
+        },
+        {
+            "id": "Reinvigorating Song (Su)"
+        },
+        {
+            "id": "Remote Hack (Ex)"
+        },
+        {
+            "id": "Repair Drone (Ex)"
+        },
+        {
+            "id": "Resilient Song (Su)"
+        },
+        {
+            "id": "Resist Elements (Su)"
+        },
+        {
+            "id": "Resistance (Ex)"
+        },
+        {
+            "id": "Resistant Energy (Ex)"
+        },
+        {
+            "id": "Resolve Analysis (Ex)"
+        },
+        {
+            "id": "Resolve Attunement (Ex)"
+        },
+        {
+            "id": "Retrocognition (Sp)"
+        },
+        {
+            "id": "Rewrite the Spheres (Su)"
+        },
+        {
+            "id": "Riding Saddle (Ex)"
+        },
+        {
+            "id": "Road Hazard (Su)"
+        },
+        {
+            "id": "Robot Influence (Ex)"
+        },
+        {
+            "id": "Robotic Beatdown"
+        },
+        {
+            "id": "Run and Gun (Ex) (4th)"
+        },
+        {
+            "id": "Rune of the Eldritch Knight (Su) (1st)"
+        },
+        {
+            "id": "Saboteur (Ex)"
+        },
+        {
+            "id": "Sacred Weapon (Su)"
+        },
+        {
+            "id": "Saving Expertise (Ex; Special)"
+        },
+        {
+            "id": "Scientific Method (Ex)"
+        },
+        {
+            "id": "Scoutbot (Ex)"
+        },
+        {
+            "id": "Second Vanguard Aspect"
+        },
+        {
+            "id": "Secondary Connection"
+        },
+        {
+            "id": "Secondary Field Of Study (Ex)"
+        },
+        {
+            "id": "Secondary Style Technique"
+        },
+        {
+            "id": "Secret of the Archmagi (Su) (4th)"
+        },
+        {
+            "id": "Secret of the Magi (Su) (2nd)"
+        },
+        {
+            "id": "Seeking Shot (Su)"
+        },
+        {
+            "id": "Seize the Advantage (Ex)"
+        },
+        {
+            "id": "Selective Explosions"
+        },
+        {
+            "id": "Selective Targeting (Ex)"
+        },
+        {
+            "id": "Set-Up"
+        },
+        {
+            "id": "Shadow Grenade (Su)"
+        },
+        {
+            "id": "Shadow Slide (Sp)"
+        },
+        {
+            "id": "Shaped Infinities (Su)"
+        },
+        {
+            "id": "Share Pain (Su)"
+        },
+        {
+            "id": "Share Resistance (Su)"
+        },
+        {
+            "id": "Share Training (Ex) (5th)"
+        },
+        {
+            "id": "Sharpshoot"
+        },
+        {
+            "id": "Shift Resistance (Su)"
+        },
+        {
+            "id": "Shifting Immunity (Su)"
+        },
+        {
+            "id": "Shifting Offensive (Su)"
+        },
+        {
+            "id": "Shimmer Guard (Su)"
+        },
+        {
+            "id": "Shock Wave (Ex)"
+        },
+        {
+            "id": "Shocking Overload (Ex)"
+        },
+        {
+            "id": "Shrug Off the Pain (Ex) (4th)"
+        },
+        {
+            "id": "Shuriken Assassin (Ex)"
+        },
+        {
+            "id": "Sidereal Influence (Su)"
+        },
+        {
+            "id": "Situational Awareness (Ex)"
+        },
+        {
+            "id": "Skill Adept"
+        },
+        {
+            "id": "Skill Expertise (Ex)"
+        },
+        {
+            "id": "Skill Subroutines (Ex)"
+        },
+        {
+            "id": "Skill Unit (Ex)"
+        },
+        {
+            "id": "Skilled Linguist (Ex; Culture)"
+        },
+        {
+            "id": "Slick Customer (Ex; Diplomacy)"
+        },
+        {
+            "id": "Sliding Disarm (Ex; Improved Combat Maneuver [Disarm])"
+        },
+        {
+            "id": "Smash Through (Ex) (3rd)"
+        },
+        {
+            "id": "Smite Evil (Su)"
+        },
+        {
+            "id": "Smuggler's Compartment (Ex)"
+        },
+        {
+            "id": "Sniper's Aim (Ex) (1st)"
+        },
+        {
+            "id": "Sniper’s Stunt"
+        },
+        {
+            "id": "Soft Movement (Ex)"
+        },
+        {
+            "id": "Solar Acceleration (Su)"
+        },
+        {
+            "id": "Solar Armor"
+        },
+        {
+            "id": "Solar Connection (Su)"
+        },
+        {
+            "id": "Solar Flare"
+        },
+        {
+            "id": "Solar Incursion (Su)"
+        },
+        {
+            "id": "Solar Inferno (Su)"
+        },
+        {
+            "id": "Solar Manifestation (Su)"
+        },
+        {
+            "id": "Solar Shield"
+        },
+        {
+            "id": "Solar Weapon"
+        },
+        {
+            "id": "Solarian's Onslaught (Ex)"
+        },
+        {
+            "id": "Soldier's Onslaught (Ex)"
+        },
+        {
+            "id": "Soldier’s Adaptability (Ex; Adaptive Fighting)"
+        },
+        {
+            "id": "Song of the Celestial Dance (Su)"
+        },
+        {
+            "id": "Song of the Spheres (Su)"
+        },
+        {
+            "id": "Sonic Resonance (Ex; 7th Level)"
+        },
+        {
+            "id": "Soul Furnace (Su)"
+        },
+        {
+            "id": "Sow Doubt (Su)"
+        },
+        {
+            "id": "Spark Of Ingenuity (Ex)"
+        },
+        {
+            "id": "Speak with Animals (Su)"
+        },
+        {
+            "id": "Special Ops Trainings"
+        },
+        {
+            "id": "Specialization"
+        },
+        {
+            "id": "Speed (Ex)"
+        },
+        {
+            "id": "Speed Hacker (Ex)"
+        },
+        {
+            "id": "Speedy Serums (Ex)"
+        },
+        {
+            "id": "Spell Bond (Su)"
+        },
+        {
+            "id": "Spell Cache (Su)",
+            "name": "Cache di Incantesimi (Sop)",
+            "description": "<p>&gt; @Compendium[sfrpg.classes.IvLuq2pxKkHJJpae]{Tecnomante}</p><p>Come coronamento dei primi studi condotti sulle forze fondamentali della galassia, si &egrave; creata una cache in cui conservare gli Incantesimi per accedervi in un secondo momento. Questa cache di incantesimi personale potrebbe essere un congegno come un computer portatile o un impianto tecnologico, un oggetto come un anello o un bastone, oppure un simbolo come un marchio, un tatuaggio o un'altra modifica permanente del proprio corpo. Sebbene non si abbia bisogno della cache per lanciare i propri Incantesimi, &egrave; possibile attivarla una volta al giorno per lanciare un qualsiasi incantesimo che si conosca e si sia in grado di lanciare, anche se si sono consumati tutti i propri slot incantesimo per quel livello di Incantesimi.</p><p>Se la cache di incantesimi subisce danni, viene ripristinata al massimo dei Punti Ferita nella successiva occasione in cui si recuperano gli slot incantesimo giornalieri. Se la cache va perduta o viene distrutta, &egrave; possibile sostituirla dopo 1 settimana eseguendo un rituale speciale che richiede 8 ore per essere completato.</p>"
+        },
+        {
+            "id": "Spell Countermeasures (Ex)"
+        },
+        {
+            "id": "Spell Focus"
+        },
+        {
+            "id": "Spell Gem Understanding (Su)"
+        },
+        {
+            "id": "Spell Grenade (Sp)"
+        },
+        {
+            "id": "Spell Library (Ex)"
+        },
+        {
+            "id": "Spells (Mystic)"
+        },
+        {
+            "id": "Spells (Technomancer)"
+        },
+        {
+            "id": "Spells (Witchwarper)"
+        },
+        {
+            "id": "Spellshot (Sp)"
+        },
+        {
+            "id": "Spider Climber (Su)"
+        },
+        {
+            "id": "Spinning Cleave (Ex; Cleave)"
+        },
+        {
+            "id": "Springing Onslaught (Ex; Spring Attack)"
+        },
+        {
+            "id": "Springing Shot (Ex; Shot on the Run)"
+        },
+        {
+            "id": "Spy"
+        },
+        {
+            "id": "Squad"
+        },
+        {
+            "id": "Stable Biohacks (Ex)"
+        },
+        {
+            "id": "Staggering Shot (Ex)"
+        },
+        {
+            "id": "Stalwart (Ex)"
+        },
+        {
+            "id": "Stalwart Shield (Su)"
+        },
+        {
+            "id": "Star Shaman"
+        },
+        {
+            "id": "Starflight (Su)"
+        },
+        {
+            "id": "Stargazer (Su)"
+        },
+        {
+            "id": "Starlight Form (Su)"
+        },
+        {
+            "id": "Starquake (Su)"
+        },
+        {
+            "id": "Starry Bond (Su)"
+        },
+        {
+            "id": "Steal Life (Su)"
+        },
+        {
+            "id": "Stealth Drone"
+        },
+        {
+            "id": "Stealth Warp (Su)"
+        },
+        {
+            "id": "Stellar Mode (Su)"
+        },
+        {
+            "id": "Stellar Paragon (Su)"
+        },
+        {
+            "id": "Stellar Revelation"
+        },
+        {
+            "id": "Stellar Rush (Su)"
+        },
+        {
+            "id": "Student of Technology (Ex; Engineering)"
+        },
+        {
+            "id": "Stunning Shot (Ex)"
+        },
+        {
+            "id": "Stunt and Strike (Ex)"
+        },
+        {
+            "id": "Substitute Mind (Su)"
+        },
+        {
+            "id": "Sudden Shift (Ex)"
+        },
+        {
+            "id": "Suit Up (Su)"
+        },
+        {
+            "id": "Summon Reinforcements (Su)"
+        },
+        {
+            "id": "Sunbolt (Su)"
+        },
+        {
+            "id": "Superior Covering Fire (Ex)"
+        },
+        {
+            "id": "Superior Firepower (Ex)"
+        },
+        {
+            "id": "Superior Overcharge (Ex)"
+        },
+        {
+            "id": "Superior Rig (Ex)"
+        },
+        {
+            "id": "Superior Science Officer (Ex)"
+        },
+        {
+            "id": "Superlative Constellation (Su)"
+        },
+        {
+            "id": "Superlative Nebula (Su)"
+        },
+        {
+            "id": "Supernova (Su)",
+            "name": "Supernova (Sop)",
+            "description": "<p>&gt;@Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{Rivelazione Stellare}</p><p>Quando si &egrave; pienamente armonizzati con i fotoni, come Azione Standard &egrave; possibile infliggere 1d6 danni da fuoco pi&ugrave; 1d6 danni da fuoco aggiuntivi per livello da solarian a tutte le creature entro 3 metri da s&eacute;. Le creature che superano un Tiro Salvezza su Riflessi dimezzano i danni. Al 9&deg; livello si pu&ograve; aumentare il raggio a 4,5 metri, mentre al 17&deg; lo si pu&ograve; incrementare fino a 6 metri. Dopo aver utilizzato questa rivelazione si diviene immediatamente non armonizzati. Supernova funziona come Rivelazione dello Zenit ai fini delle capacit&agrave; che vi fanno riferimento.</p>"
+        },
+        {
+            "id": "Superserum (Su)"
+        },
+        {
+            "id": "Suppress Disease (Ex)"
+        },
+        {
+            "id": "Suppress Poison (Ex)"
+        },
+        {
+            "id": "Supreme Operative (Ex)"
+        },
+        {
+            "id": "Sure-Footed (Ex)"
+        },
+        {
+            "id": "Surgeon (Ex; Medicine)"
+        },
+        {
+            "id": "Sustained Determination (Ex)"
+        },
+        {
+            "id": "Swapping Step (Su)"
+        },
+        {
+            "id": "Swift Antagonize (Ex)"
+        },
+        {
+            "id": "Swift Toss"
+        },
+        {
+            "id": "Swipe"
+        },
+        {
+            "id": "Sworn Protector (Su)"
+        },
+        {
+            "id": "Target-Rich Environment (Ex)"
+        },
+        {
+            "id": "Tech Countermeasures (Su)"
+        },
+        {
+            "id": "Tech Master (Ex)"
+        },
+        {
+            "id": "Techlore (Ex)"
+        },
+        {
+            "id": "Technological Medic (Ex)"
+        },
+        {
+            "id": "Technomantic Proficiency (Ex)"
+        },
+        {
+            "id": "Telepathic Bond (Sp)"
+        },
+        {
+            "id": "Telepathic Memories (Su)"
+        },
+        {
+            "id": "Tertiary Field Of Study (Ex)"
+        },
+        {
+            "id": "Theorem (Ex)"
+        },
+        {
+            "id": "Thief"
+        },
+        {
+            "id": "Thwart Ability (Su)"
+        },
+        {
+            "id": "Time Dilation (Su)"
+        },
+        {
+            "id": "Tool Arm (Ex)"
+        },
+        {
+            "id": "Toxic Skin (Ex)"
+        },
+        {
+            "id": "Toxicology"
+        },
+        {
+            "id": "Tranq Dart (Ex)"
+        },
+        {
+            "id": "Transcendence (Sp)"
+        },
+        {
+            "id": "Translocational Recall (Su)"
+        },
+        {
+            "id": "Treat Condition (Ex)"
+        },
+        {
+            "id": "Treatment Mastery (Ex)"
+        },
+        {
+            "id": "Trick Attack (Ex)"
+        },
+        {
+            "id": "Triple Attack (Ex)"
+        },
+        {
+            "id": "True AI (Ex)"
+        },
+        {
+            "id": "True Expertise (Ex)"
+        },
+        {
+            "id": "Twin Tracking (Ex)"
+        },
+        {
+            "id": "Ultimate Graviton (Su)"
+        },
+        {
+            "id": "Ultimate Photon (Su)"
+        },
+        {
+            "id": "Ultraclocking (Ex)"
+        },
+        {
+            "id": "Ultraviolet Pulse (Su)"
+        },
+        {
+            "id": "Unburdened Shield (Ex)"
+        },
+        {
+            "id": "Uncanny Agility (Ex) (Operative)"
+        },
+        {
+            "id": "Uncanny Agility (Ex) (Vanguard)"
+        },
+        {
+            "id": "Uncanny Mobility (Ex)"
+        },
+        {
+            "id": "Uncanny Pilot (Ex)"
+        },
+        {
+            "id": "Uncanny Senses (Ex)"
+        },
+        {
+            "id": "Uncanny Shooter (Ex)"
+        },
+        {
+            "id": "Uncanny Speed (Ex)"
+        },
+        {
+            "id": "Unfold Existences (Su)"
+        },
+        {
+            "id": "Universal Choir (Su)"
+        },
+        {
+            "id": "Universal Diplomat (Ex; Diplomacy)"
+        },
+        {
+            "id": "Universal Expression (Ex)"
+        },
+        {
+            "id": "Unveil Reality (Su)"
+        },
+        {
+            "id": "Upgraded Power Core (Ex)"
+        },
+        {
+            "id": "Vanguard Discipline"
+        },
+        {
+            "id": "Versatile Design (Ex) (Armor)"
+        },
+        {
+            "id": "Versatile Design (Su) (Weapon)"
+        },
+        {
+            "id": "Versatile Movement (Ex)"
+        },
+        {
+            "id": "Vigilance (Ex) (1st)"
+        },
+        {
+            "id": "Visual Data Processor (Ex)"
+        },
+        {
+            "id": "Vital Reinforcement (Su)"
+        },
+        {
+            "id": "Volleying Bombardment (Ex; Opening Volley)"
+        },
+        {
+            "id": "Walk the Void (Su)"
+        },
+        {
+            "id": "Wall Dasher"
+        },
+        {
+            "id": "Warmonger"
+        },
+        {
+            "id": "Watch Out (Ex)"
+        },
+        {
+            "id": "Watch Your Step (Ex)"
+        },
+        {
+            "id": "Weapon Mount (Ex)"
+        },
+        {
+            "id": "Weapon Proficiency (Ex)"
+        },
+        {
+            "id": "Weapon Proficiency (Ex) (Mystic)"
+        },
+        {
+            "id": "Weapon Prototype Proficiency (Ex)"
+        },
+        {
+            "id": "Weapon Specialization (Ex) (Biohacker)"
+        },
+        {
+            "id": "Weapon Specialization (Ex) (Envoy)"
+        },
+        {
+            "id": "Weapon Specialization (Ex) (Mechanic)"
+        },
+        {
+            "id": "Weapon Specialization (Ex) (Mystic)"
+        },
+        {
+            "id": "Weapon Specialization (Ex) (Operative)"
+        },
+        {
+            "id": "Weapon Specialization (Ex) (Solarian)"
+        },
+        {
+            "id": "Weapon Specialization (Ex) (Soldier)"
+        },
+        {
+            "id": "Weapon Specialization (Ex) (Technomancer)"
+        },
+        {
+            "id": "Weapon Specialization (Ex) (Vanguard)"
+        },
+        {
+            "id": "Weapon Specialization (Ex) (Witchwarper)"
+        },
+        {
+            "id": "Weapons of War (Su)"
+        },
+        {
+            "id": "Well Informed (Ex; Diplomacy)"
+        },
+        {
+            "id": "Widened Spell (Ex)"
+        },
+        {
+            "id": "Wireless Hack (Ex)"
+        },
+        {
+            "id": "Without a Trace (Ex)"
+        },
+        {
+            "id": "Wordless Pidgin"
+        },
+        {
+            "id": "Wormholes (Su)"
+        },
+        {
+            "id": "Wrathful Warrior"
+        },
+        {
+            "id": "Wrecking Fists (Su)"
+        },
+        {
+            "id": "Wrecking Spells (Ex)"
+        },
+        {
+            "id": "Xenodruid"
+        },
+        {
+            "id": "Zenith Revelation"
+        },
+        {
+            "id": "Zero-Gravity Scuffler (Su)"
         }
     ]
 }
