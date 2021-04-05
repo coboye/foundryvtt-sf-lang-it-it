@@ -2,11 +2,13 @@
     "label": "Azioni Astronave",
     "entries": [
         {
-            "id": "Activate ECM"
+            "id": "Activate ECM",
+            "name": "Activate ECM",
+            "language": "EN"
         },
         {
             "id": "Audacious Gambit",
-            "name":"Azzardo Audace"
+            "name": "Azzardo Audace"
         },
         {
             "id": "Balance",
@@ -21,24 +23,32 @@
             "name": "Esigere"
         },
         {
-            "id": "Deploy Drone"
+            "id": "Deploy Drone",
+            "name": "Deploy Drone",
+            "language": "EN"
         },
         {
             "id": "Divert",
             "name": "Reindirizzare"
         },
         {
-            "id": "Eldritch Shot"
+            "id": "Eldritch Shot",
+            "name": "Eldritch Shot",
+            "language": "EN"
         },
         {
             "id": "Encourage",
             "name": "Incoraggiare"
         },
         {
-            "id": "Erratic Maneuvering"
+            "id": "Erratic Maneuvering",
+            "name": "Erratic Maneuvering",
+            "language": "EN"
         },
         {
-            "id": "Feign Disaster"
+            "id": "Feign Disaster",
+            "name": "Feign Disaster",
+            "language": "EN"
         },
         {
             "id": "Fire At Will",
@@ -57,10 +67,14 @@
             "name": "Planare"
         },
         {
-            "id": "Hard Turn"
+            "id": "Hard Turn",
+            "name": "Hard Turn",
+            "language": "EN"
         },
         {
-            "id": "Harrying Shot"
+            "id": "Harrying Shot",
+            "name": "Harrying Shot",
+            "language": "EN"
         },
         {
             "id": "Hold It Together",
@@ -71,37 +85,51 @@
             "name": "Migliorare Contromisure"
         },
         {
-            "id": "Insidious Electronics"
+            "id": "Insidious Electronics",
+            "name": "Insidious Electronics",
+            "language": "EN"
         },
         {
-            "id": "Lay Mines"
+            "id": "Lay Mines",
+            "name": "Lay Mines",
+            "language": "EN"
         },
         {
-            "id": "Lead Boarding Party"
+            "id": "Lead Boarding Party",
+            "name": "Lead Boarding Party",
+            "language": "EN"
         },
         {
             "id": "Lock On",
             "name": "Agganciare"
         },
         {
-            "id": "Maintenance Panel Access"
+            "id": "Maintenance Panel Access",
+            "name": "Maintenance Panel Access",
+            "language": "EN"
         },
         {
             "id": "Maneuver",
             "name": "Governare"
         },
         {
-            "id": "Manual Realignment"
+            "id": "Manual Realignment",
+            "name": "Manual Realignment",
+            "language": "EN"
         },
         {
-            "id": "Maximize Speed"
+            "id": "Maximize Speed",
+            "name": "Maximize Speed",
+            "language": "EN"
         },
         {
             "id": "Moving Speech",
             "name": "Discorso Ispiratore"
         },
         {
-            "id": "Mystic Haze"
+            "id": "Mystic Haze",
+            "name": "Mystic Haze",
+            "language": "EN"
         },
         {
             "id": "Orders",
@@ -120,39 +148,57 @@
             "name": "Fuoco di Precisione"
         },
         {
-            "id": "Precognition"
+            "id": "Precognition",
+            "name": "Precognition",
+            "language": "EN"
         },
         {
-            "id": "Prioritize Calculation"
+            "id": "Prioritize Calculation",
+            "name": "Prioritize Calculation",
+            "language": "EN"
         },
         {
-            "id": "Psychic Currents"
+            "id": "Psychic Currents",
+            "name": "Psychic Currents",
+            "language": "EN"
         },
         {
             "id": "Quick Fix",
             "name": "Riparazione Rapida"
         },
         {
-            "id": "Quick Rescan"
+            "id": "Quick Rescan",
+            "name": "Quick Rescan",
+            "language": "EN"
         },
         {
-            "id": "Range Finding"
+            "id": "Range Finding",
+            "name": "Range Finding",
+            "language": "EN"
         },
         {
-            "id": "Rapid Jam"
+            "id": "Rapid Jam",
+            "name": "Rapid Jam",
+            "language": "EN"
         },
         {
-            "id": "Ready Weapon System"
+            "id": "Ready Weapon System",
+            "name": "Ready Weapon System",
+            "language": "EN"
         },
         {
-            "id": "Recall Beacon"
+            "id": "Recall Beacon",
+            "name": "Recall Beacon",
+            "language": "EN"
         },
         {
             "id": "Scan",
             "name": "Scansionare"
         },
         {
-            "id": "Scrying"
+            "id": "Scrying",
+            "name": "Scrying",
+            "language": "EN"
         },
         {
             "id": "Shoot",
@@ -167,24 +213,32 @@
             "name": "Manovra Azzardata"
         },
         {
-            "id": "Subdue Boarding Party"
+            "id": "Subdue Boarding Party",
+            "name": "Subdue Boarding Party",
+            "language": "EN"
         },
         {
-            "id": "Swift Kick"
+            "id": "Swift Kick",
+            "name": "Swift Kick",
+            "language": "EN"
         },
         {
             "id": "Target System",
             "name": "Mirare a un Sistema"
         },
         {
-            "id": "Targeting Aid"
+            "id": "Targeting Aid",
+            "name": "Targeting Aid",
+            "language": "EN"
         },
         {
             "id": "Taunt",
             "name": "Schernire"
         },
         {
-            "id": "Visual Identification"
+            "id": "Visual Identification",
+            "name": "Visual Identification",
+            "language": "EN"
         }
     ]
 }

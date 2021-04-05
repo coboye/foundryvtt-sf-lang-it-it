@@ -2,169 +2,279 @@
     "label": "Privilegi di Classe",
     "entries": [
         {
-            "id": "Absolute Control (Su)"
+            "id": "Absolute Control (Su)",
+            "name": "Absolute Control (Su)",
+            "language": "EN"
         },
         {
-            "id": "Absolute Zero (Su)"
+            "id": "Absolute Zero (Su)",
+            "name": "Absolute Zero (Su)",
+            "language": "EN"
         },
         {
-            "id": "Abundant Qi (Su) (5th)"
+            "id": "Abundant Qi (Su) (5th)",
+            "name": "Abundant Qi (Su) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Accelerate (Su)"
+            "id": "Accelerate (Su)",
+            "name": "Accelerate (Su)",
+            "language": "EN"
         },
         {
-            "id": "Access Akashic Record (Su)"
+            "id": "Access Akashic Record (Su)",
+            "name": "Access Akashic Record (Su)",
+            "language": "EN"
         },
         {
-            "id": "Adaptable Spell Knowledge (Ex)"
+            "id": "Adaptable Spell Knowledge (Ex)",
+            "name": "Adaptable Spell Knowledge (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Adaptive Damage Reduction (Ex) (5th)"
+            "id": "Adaptive Damage Reduction (Ex) (5th)",
+            "name": "Adaptive Damage Reduction (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Additional Skill Expertise (Ex)"
+            "id": "Additional Skill Expertise (Ex)",
+            "name": "Additional Skill Expertise (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Advanced Coordination (Ex; Coordinated Shot)"
+            "id": "Advanced Coordination (Ex; Coordinated Shot)",
+            "name": "Advanced Coordination (Ex; Coordinated Shot)",
+            "language": "EN"
         },
         {
-            "id": "Advanced Customization (Ex) (Armor)"
+            "id": "Advanced Customization (Ex) (Armor)",
+            "name": "Advanced Customization (Ex) (Armor)",
+            "language": "EN"
         },
         {
-            "id": "Advanced Customization (Ex) (Weapon)"
+            "id": "Advanced Customization (Ex) (Weapon)",
+            "name": "Advanced Customization (Ex) (Weapon)",
+            "language": "EN"
         },
         {
-            "id": "Advanced Mods"
+            "id": "Advanced Mods",
+            "name": "Advanced Mods",
+            "language": "EN"
         },
         {
-            "id": "Advanced Operations Specialist (Ex)"
+            "id": "Advanced Operations Specialist (Ex)",
+            "name": "Advanced Operations Specialist (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Advanced Rig (Ex)"
+            "id": "Advanced Rig (Ex)",
+            "name": "Advanced Rig (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Aesthetic Warrior"
+            "id": "Aesthetic Warrior",
+            "name": "Aesthetic Warrior",
+            "language": "EN"
         },
         {
-            "id": "Against the Odds (Ex) (5th)"
+            "id": "Against the Odds (Ex) (5th)",
+            "name": "Against the Odds (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Agent of Change (Su)"
+            "id": "Agent of Change (Su)",
+            "name": "Agent of Change (Su)",
+            "language": "EN"
         },
         {
-            "id": "Agile Wavelengths (Su)"
+            "id": "Agile Wavelengths (Su)",
+            "name": "Agile Wavelengths (Su)",
+            "language": "EN"
         },
         {
-            "id": "Akashic"
+            "id": "Akashic",
+            "name": "Akashic",
+            "language": "EN"
         },
         {
-            "id": "Akashic Knowledge (Ex)"
+            "id": "Akashic Knowledge (Ex)",
+            "name": "Akashic Knowledge (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Alien Archive (Ex)"
+            "id": "Alien Archive (Ex)",
+            "name": "Alien Archive (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Alleviate Pain (Ex)"
+            "id": "Alleviate Pain (Ex)",
+            "name": "Alleviate Pain (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Altered Bearing (Ex; Disguise)"
+            "id": "Altered Bearing (Ex; Disguise)",
+            "name": "Altered Bearing (Ex; Disguise)",
+            "language": "EN"
         },
         {
-            "id": "Alternate Outcome (Su)"
+            "id": "Alternate Outcome (Su)",
+            "name": "Alternate Outcome (Su)",
+            "language": "EN"
         },
         {
-            "id": "Alternative Curricula (Su)"
+            "id": "Alternative Curricula (Su)",
+            "name": "Alternative Curricula (Su)",
+            "language": "EN"
         },
         {
-            "id": "Ambusher"
+            "id": "Ambusher",
+            "name": "Ambusher",
+            "language": "EN"
         },
         {
-            "id": "Ambusher’s Edge (Ex) (5th)"
+            "id": "Ambusher’s Edge (Ex) (5th)",
+            "name": "Ambusher’s Edge (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Ammo Drop"
+            "id": "Ammo Drop",
+            "name": "Ammo Drop",
+            "language": "EN"
         },
         {
-            "id": "Analyst (Ex; Sense Motive)"
+            "id": "Analyst (Ex; Sense Motive)",
+            "name": "Analyst (Ex; Sense Motive)",
+            "language": "EN"
         },
         {
-            "id": "Analyze"
+            "id": "Analyze",
+            "name": "Analyze",
+            "language": "EN"
         },
         {
-            "id": "Anchoring Arcana (Su; 7th Level)"
+            "id": "Anchoring Arcana (Su; 7th Level)",
+            "name": "Anchoring Arcana (Su; 7th Level)",
+            "language": "EN"
         },
         {
-            "id": "Animal Adaptation (Su)"
+            "id": "Animal Adaptation (Su)",
+            "name": "Animal Adaptation (Su)",
+            "language": "EN"
         },
         {
-            "id": "Antagonize (Ex)"
+            "id": "Antagonize (Ex)",
+            "name": "Antagonize (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Anticipate Ambush (Ex) (4th)"
+            "id": "Anticipate Ambush (Ex) (4th)",
+            "name": "Anticipate Ambush (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Arcane Assailant"
+            "id": "Arcane Assailant",
+            "name": "Arcane Assailant",
+            "language": "EN"
         },
         {
-            "id": "Arcane Attack (Su) (5th)"
+            "id": "Arcane Attack (Su) (5th)",
+            "name": "Arcane Attack (Su) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Armor Optimizer (Ex)"
+            "id": "Armor Optimizer (Ex)",
+            "name": "Armor Optimizer (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Armor Prototype Proficiency (Ex)"
+            "id": "Armor Prototype Proficiency (Ex)",
+            "name": "Armor Prototype Proficiency (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Armor Slot (Ex)"
+            "id": "Armor Slot (Ex)",
+            "name": "Armor Slot (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Armor Storm"
+            "id": "Armor Storm",
+            "name": "Armor Storm",
+            "language": "EN"
         },
         {
-            "id": "Armor Training (Ex) (1st)"
+            "id": "Armor Training (Ex) (1st)",
+            "name": "Armor Training (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Armored Advantage (Ex)"
+            "id": "Armored Advantage (Ex)",
+            "name": "Armored Advantage (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Arms Expert (Ex)"
+            "id": "Arms Expert (Ex)",
+            "name": "Arms Expert (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Arrest (Su)"
+            "id": "Arrest (Su)",
+            "name": "Arrest (Su)",
+            "language": "EN"
         },
         {
-            "id": "Artificial Intelligence (Ex)"
+            "id": "Artificial Intelligence (Ex)",
+            "name": "Artificial Intelligence (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Astrologic Sense (Su)"
+            "id": "Astrologic Sense (Su)",
+            "name": "Astrologic Sense (Su)",
+            "language": "EN"
         },
         {
-            "id": "Attracting Shield (Su)"
+            "id": "Attracting Shield (Su)",
+            "name": "Attracting Shield (Su)",
+            "language": "EN"
         },
         {
-            "id": "Audacity (Ex)"
+            "id": "Audacity (Ex)",
+            "name": "Audacity (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Backlash (Su)"
+            "id": "Backlash (Su)",
+            "name": "Backlash (Su)",
+            "language": "EN"
         },
         {
-            "id": "Basic Mods"
+            "id": "Basic Mods",
+            "name": "Basic Mods",
+            "language": "EN"
         },
         {
-            "id": "Battlemaster"
+            "id": "Battlemaster",
+            "name": "Battlemaster",
+            "language": "EN"
         },
         {
-            "id": "Beatdown (Ex; Improved Combat Maneuver [Trip])"
+            "id": "Beatdown (Ex; Improved Combat Maneuver [Trip])",
+            "name": "Beatdown (Ex; Improved Combat Maneuver [Trip])",
+            "language": "EN"
         },
         {
-            "id": "Bestow Tactics (Su)"
+            "id": "Bestow Tactics (Su)",
+            "name": "Bestow Tactics (Su)",
+            "language": "EN"
         },
         {
-            "id": "Binary Shield System (Su)"
+            "id": "Binary Shield System (Su)",
+            "name": "Binary Shield System (Su)",
+            "language": "EN"
         },
         {
-            "id": "Biohacks (Ex)"
+            "id": "Biohacks (Ex)",
+            "name": "Biohacks (Ex)",
+            "language": "EN"
         },
         {
             "id": "Black Hole (Su)",
@@ -172,1837 +282,3059 @@
             "description": "<p>&gt;@Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{Rivelazione Stellare}</p><p>Quando si &egrave; pienamente armonizzati con i gravitoni, come Azione Standard &egrave; possibile attirare pi&ugrave; vicino a s&eacute; un numero qualsiasi di creature entro 6 metri. Si sceglie quali creature vengano influenzate e quali no. Ogni bersaglio deve superare un Tiro Salvezza su Tempra o essere tirato di 3 metri verso l'utilizzatore. Il raggio di questa capacit&agrave; e la distanza di trascinamento aumentano di 1,5 metri al 5&deg; livello, e successivamente ogni 4 livelli. Questa capacit&agrave; non viene bloccata da oggetti solidi, ma qualsiasi creatura che vada a sbattere contro un oggetto solido cessa di muoversi verso l'utilizzatore. Le creature spostate tramite questa capacit&agrave; non provocano Attacchi di Opportunit&agrave; per effetto di tale movimento. Dopo aver utilizzato questa rivelazione si diviene immediatamente non armonizzati. Buco nero funziona come Rivelazione dello Zenit ai fini delle capacit&agrave; che vi fanno riferimento.</p>"
         },
         {
-            "id": "Blade in the Night (Su)"
+            "id": "Blade in the Night (Su)",
+            "name": "Blade in the Night (Su)",
+            "language": "EN"
         },
         {
-            "id": "Blazing Orbit (Su)"
+            "id": "Blazing Orbit (Su)",
+            "name": "Blazing Orbit (Su)",
+            "language": "EN"
         },
         {
-            "id": "Bleeding Shot (Ex)"
+            "id": "Bleeding Shot (Ex)",
+            "name": "Bleeding Shot (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Blindsense (Operative)"
+            "id": "Blindsense (Operative)",
+            "name": "Blindsense (Operative)",
+            "language": "EN"
         },
         {
-            "id": "Blindsense (Su)"
+            "id": "Blindsense (Su)",
+            "name": "Blindsense (Su)",
+            "language": "EN"
         },
         {
-            "id": "Blindsight (Su)"
+            "id": "Blindsight (Su)",
+            "name": "Blindsight (Su)",
+            "language": "EN"
         },
         {
-            "id": "Blitz"
+            "id": "Blitz",
+            "name": "Blitz",
+            "language": "EN"
         },
         {
-            "id": "Bodyguard Vigilance (Ex; Bodyguard)"
+            "id": "Bodyguard Vigilance (Ex; Bodyguard)",
+            "name": "Bodyguard Vigilance (Ex; Bodyguard)",
+            "language": "EN"
         },
         {
-            "id": "Bolster Armor (Ex)"
+            "id": "Bolster Armor (Ex)",
+            "name": "Bolster Armor (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Bolster Resilience (Ex) (1st)"
+            "id": "Bolster Resilience (Ex) (1st)",
+            "name": "Bolster Resilience (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Bombard"
+            "id": "Bombard",
+            "name": "Bombard",
+            "language": "EN"
         },
         {
-            "id": "Boost Neurotransmitters (Ex)"
+            "id": "Boost Neurotransmitters (Ex)",
+            "name": "Boost Neurotransmitters (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Boost Shield (Ex)"
+            "id": "Boost Shield (Ex)",
+            "name": "Boost Shield (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Boundary"
+            "id": "Boundary",
+            "name": "Boundary",
+            "language": "EN"
         },
         {
-            "id": "Boundary Catalyst (Su)"
+            "id": "Boundary Catalyst (Su)",
+            "name": "Boundary Catalyst (Su)",
+            "language": "EN"
         },
         {
-            "id": "Boundary Embodiment (Ex)"
+            "id": "Boundary Embodiment (Ex)",
+            "name": "Boundary Embodiment (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Boundary Finale (Su)"
+            "id": "Boundary Finale (Su)",
+            "name": "Boundary Finale (Su)",
+            "language": "EN"
         },
         {
-            "id": "Boundary Insight (Ex)"
+            "id": "Boundary Insight (Ex)",
+            "name": "Boundary Insight (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Bountiful Qi (Su) (3rd)"
+            "id": "Bountiful Qi (Su) (3rd)",
+            "name": "Bountiful Qi (Su) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Brain Hacker (Su)"
+            "id": "Brain Hacker (Su)",
+            "name": "Brain Hacker (Su)",
+            "language": "EN"
         },
         {
-            "id": "Break Fall (Ex)"
+            "id": "Break Fall (Ex)",
+            "name": "Break Fall (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Brutal Blast (Ex)"
+            "id": "Brutal Blast (Ex)",
+            "name": "Brutal Blast (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Building Your Drone"
+            "id": "Building Your Drone",
+            "name": "Building Your Drone",
+            "language": "EN"
         },
         {
-            "id": "Bullet Barrage (Ex)"
+            "id": "Bullet Barrage (Ex)",
+            "name": "Bullet Barrage (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Bypass (Ex)"
+            "id": "Bypass (Ex)",
+            "name": "Bypass (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Cache Augmentation (Ex)"
+            "id": "Cache Augmentation (Ex)",
+            "name": "Cache Augmentation (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Cache Capacitor (Su)"
+            "id": "Cache Capacitor (Su)",
+            "name": "Cache Capacitor (Su)",
+            "language": "EN"
         },
         {
-            "id": "Cache Concentration (Su)"
+            "id": "Cache Concentration (Su)",
+            "name": "Cache Concentration (Su)",
+            "language": "EN"
         },
         {
-            "id": "Cache Hacks (Su)"
+            "id": "Cache Hacks (Su)",
+            "name": "Cache Hacks (Su)",
+            "language": "EN"
         },
         {
-            "id": "Calculate Trajectory (Ex)"
+            "id": "Calculate Trajectory (Ex)",
+            "name": "Calculate Trajectory (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Calibrate Defenses (Ex)"
+            "id": "Calibrate Defenses (Ex)",
+            "name": "Calibrate Defenses (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Camera (Ex)"
+            "id": "Camera (Ex)",
+            "name": "Camera (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Cargo Rack (Ex)"
+            "id": "Cargo Rack (Ex)",
+            "name": "Cargo Rack (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Cascade"
+            "id": "Cascade",
+            "name": "Cascade",
+            "language": "EN"
         },
         {
-            "id": "Cascade Catalyst (Su)"
+            "id": "Cascade Catalyst (Su)",
+            "name": "Cascade Catalyst (Su)",
+            "language": "EN"
         },
         {
-            "id": "Cascade Embodiment (Ex)"
+            "id": "Cascade Embodiment (Ex)",
+            "name": "Cascade Embodiment (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Cascade Finale (Su)"
+            "id": "Cascade Finale (Su)",
+            "name": "Cascade Finale (Su)",
+            "language": "EN"
         },
         {
-            "id": "Cascade Insight (Ex)"
+            "id": "Cascade Insight (Ex)",
+            "name": "Cascade Insight (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Cautious Expertise (Ex; see below)"
+            "id": "Cautious Expertise (Ex; see below)",
+            "name": "Cautious Expertise (Ex; see below)",
+            "language": "EN"
         },
         {
-            "id": "Certainty (Ex)"
+            "id": "Certainty (Ex)",
+            "name": "Certainty (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Channel Bond (Su)"
+            "id": "Channel Bond (Su)",
+            "name": "Channel Bond (Su)",
+            "language": "EN"
         },
         {
-            "id": "Channel Life (Su)"
+            "id": "Channel Life (Su)",
+            "name": "Channel Life (Su)",
+            "language": "EN"
         },
         {
-            "id": "Channel Skill (Su)"
+            "id": "Channel Skill (Su)",
+            "name": "Channel Skill (Su)",
+            "language": "EN"
         },
         {
-            "id": "Charge Attack (Ex) (2nd)"
+            "id": "Charge Attack (Ex) (2nd)",
+            "name": "Charge Attack (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Charging Jolt (Su)"
+            "id": "Charging Jolt (Su)",
+            "name": "Charging Jolt (Su)",
+            "language": "EN"
         },
         {
-            "id": "Cheap Shot (Ex) (2nd)"
+            "id": "Cheap Shot (Ex) (2nd)",
+            "name": "Cheap Shot (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Chokehold (Ex; Improved Combat Maneuver [Grapple])"
+            "id": "Chokehold (Ex; Improved Combat Maneuver [Grapple])",
+            "name": "Chokehold (Ex; Improved Combat Maneuver [Grapple])",
+            "language": "EN"
         },
         {
-            "id": "Clever Attack (Ex)"
+            "id": "Clever Attack (Ex)",
+            "name": "Clever Attack (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Clever Feint (Ex)"
+            "id": "Clever Feint (Ex)",
+            "name": "Clever Feint (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Clever Improvisations (Ex)"
+            "id": "Clever Improvisations (Ex)",
+            "name": "Clever Improvisations (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Clever Retreat"
+            "id": "Clever Retreat",
+            "name": "Clever Retreat",
+            "language": "EN"
         },
         {
-            "id": "Climbing Claws (Ex)"
+            "id": "Climbing Claws (Ex)",
+            "name": "Climbing Claws (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Cloaking Field (Ex)"
+            "id": "Cloaking Field (Ex)",
+            "name": "Cloaking Field (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Close Enough to Kill (Ex) (3rd)"
+            "id": "Close Enough to Kill (Ex) (3rd)",
+            "name": "Close Enough to Kill (Ex) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Clothesline (Ex)"
+            "id": "Clothesline (Ex)",
+            "name": "Clothesline (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Combat Drone"
+            "id": "Combat Drone",
+            "name": "Combat Drone",
+            "language": "EN"
         },
         {
-            "id": "Combat Expertise (Ex)"
+            "id": "Combat Expertise (Ex)",
+            "name": "Combat Expertise (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Combat Feat"
+            "id": "Combat Feat",
+            "name": "Combat Feat",
+            "language": "EN"
         },
         {
-            "id": "Combat Tracking (Ex)"
+            "id": "Combat Tracking (Ex)",
+            "name": "Combat Tracking (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Combat Trick (Ex)"
+            "id": "Combat Trick (Ex)",
+            "name": "Combat Trick (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Compound Sight (Su)"
+            "id": "Compound Sight (Su)",
+            "name": "Compound Sight (Su)",
+            "language": "EN"
         },
         {
-            "id": "Connection"
+            "id": "Connection",
+            "name": "Connection",
+            "language": "EN"
         },
         {
-            "id": "Constellation Blast (Su)"
+            "id": "Constellation Blast (Su)",
+            "name": "Constellation Blast (Su)",
+            "language": "EN"
         },
         {
-            "id": "Control Net (Ex)"
+            "id": "Control Net (Ex)",
+            "name": "Control Net (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Convincing Liar (Ex; Bluff)"
+            "id": "Convincing Liar (Ex; Bluff)",
+            "name": "Convincing Liar (Ex; Bluff)",
+            "language": "EN"
         },
         {
-            "id": "Coordinated Aim (Ex) (1st)"
+            "id": "Coordinated Aim (Ex) (1st)",
+            "name": "Coordinated Aim (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Coordinated Assault (Ex)"
+            "id": "Coordinated Assault (Ex)",
+            "name": "Coordinated Assault (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Coordinated Barrage (Ex)"
+            "id": "Coordinated Barrage (Ex)",
+            "name": "Coordinated Barrage (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Coordinated Flankers (Ex)"
+            "id": "Coordinated Flankers (Ex)",
+            "name": "Coordinated Flankers (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Coordinated Maneuvers (Ex)"
+            "id": "Coordinated Maneuvers (Ex)",
+            "name": "Coordinated Maneuvers (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Corona (Su)"
+            "id": "Corona (Su)",
+            "name": "Corona (Su)",
+            "language": "EN"
         },
         {
-            "id": "Countertech (Su)"
+            "id": "Countertech (Su)",
+            "name": "Countertech (Su)",
+            "language": "EN"
         },
         {
-            "id": "Countertech Sentinel (Su)"
+            "id": "Countertech Sentinel (Su)",
+            "name": "Countertech Sentinel (Su)",
+            "language": "EN"
         },
         {
-            "id": "Crusader"
+            "id": "Crusader",
+            "name": "Crusader",
+            "language": "EN"
         },
         {
-            "id": "Crush (Su)"
+            "id": "Crush (Su)",
+            "name": "Crush (Su)",
+            "language": "EN"
         },
         {
-            "id": "Crushing Force (Su)"
+            "id": "Crushing Force (Su)",
+            "name": "Crushing Force (Su)",
+            "language": "EN"
         },
         {
-            "id": "Cultural Savant (Ex; Culture)"
+            "id": "Cultural Savant (Ex; Culture)",
+            "name": "Cultural Savant (Ex; Culture)",
+            "language": "EN"
         },
         {
-            "id": "Cunning Disguise (Ex; Disguise)"
+            "id": "Cunning Disguise (Ex; Disguise)",
+            "name": "Cunning Disguise (Ex; Disguise)",
+            "language": "EN"
         },
         {
-            "id": "Curative Deconstruction (Su)"
+            "id": "Curative Deconstruction (Su)",
+            "name": "Curative Deconstruction (Su)",
+            "language": "EN"
         },
         {
-            "id": "Curving Flare (Su)"
+            "id": "Curving Flare (Su)",
+            "name": "Curving Flare (Su)",
+            "language": "EN"
         },
         {
-            "id": "Custom Microlab (Ex)"
+            "id": "Custom Microlab (Ex)",
+            "name": "Custom Microlab (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Custom Rig (Ex)"
+            "id": "Custom Rig (Ex)",
+            "name": "Custom Rig (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Dampen (Su)"
+            "id": "Dampen (Su)",
+            "name": "Dampen (Su)",
+            "language": "EN"
         },
         {
-            "id": "Dampening Song (Su)"
+            "id": "Dampening Song (Su)",
+            "name": "Dampening Song (Su)",
+            "language": "EN"
         },
         {
-            "id": "Daredevil"
+            "id": "Daredevil",
+            "name": "Daredevil",
+            "language": "EN"
         },
         {
-            "id": "Dark Matter (Su)"
+            "id": "Dark Matter (Su)",
+            "name": "Dark Matter (Su)",
+            "language": "EN"
         },
         {
-            "id": "Dart Aside (Su)"
+            "id": "Dart Aside (Su)",
+            "name": "Dart Aside (Su)",
+            "language": "EN"
         },
         {
-            "id": "Deactivating Shot"
+            "id": "Deactivating Shot",
+            "name": "Deactivating Shot",
+            "language": "EN"
         },
         {
-            "id": "Deadly Reflexes (Ex) (3rd)"
+            "id": "Deadly Reflexes (Ex) (3rd)",
+            "name": "Deadly Reflexes (Ex) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Death Strike (Ex)"
+            "id": "Death Strike (Ex)",
+            "name": "Death Strike (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Debilitating Attack (Ex) (3rd)"
+            "id": "Debilitating Attack (Ex) (3rd)",
+            "name": "Debilitating Attack (Ex) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Debilitating Sniper (Ex)"
+            "id": "Debilitating Sniper (Ex)",
+            "name": "Debilitating Sniper (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Debilitating Trick (Ex)"
+            "id": "Debilitating Trick (Ex)",
+            "name": "Debilitating Trick (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Debug Spell (Ex)"
+            "id": "Debug Spell (Ex)",
+            "name": "Debug Spell (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Defense Matrix (Ex)"
+            "id": "Defense Matrix (Ex)",
+            "name": "Defense Matrix (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Defensive Cleave (Ex; Cleave)"
+            "id": "Defensive Cleave (Ex; Cleave)",
+            "name": "Defensive Cleave (Ex; Cleave)",
+            "language": "EN"
         },
         {
-            "id": "Defensive Lunge (Ex; Lunge)"
+            "id": "Defensive Lunge (Ex; Lunge)",
+            "name": "Defensive Lunge (Ex; Lunge)",
+            "language": "EN"
         },
         {
-            "id": "Defy Gravity (Su)"
+            "id": "Defy Gravity (Su)",
+            "name": "Defy Gravity (Su)",
+            "language": "EN"
         },
         {
-            "id": "Deny Death (Su)"
+            "id": "Deny Death (Su)",
+            "name": "Deny Death (Su)",
+            "language": "EN"
         },
         {
-            "id": "Desperate Defense (Ex)"
+            "id": "Desperate Defense (Ex)",
+            "name": "Desperate Defense (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Detective"
+            "id": "Detective",
+            "name": "Detective",
+            "language": "EN"
         },
         {
-            "id": "Devastator’s Cache"
+            "id": "Devastator’s Cache",
+            "name": "Devastator’s Cache",
+            "language": "EN"
         },
         {
-            "id": "Diminish Spell Runtime (Su)"
+            "id": "Diminish Spell Runtime (Su)",
+            "name": "Diminish Spell Runtime (Su)",
+            "language": "EN"
         },
         {
-            "id": "Direct Denial of Shapechanging (Su)"
+            "id": "Direct Denial of Shapechanging (Su)",
+            "name": "Direct Denial of Shapechanging (Su)",
+            "language": "EN"
         },
         {
-            "id": "Dirty Trick"
+            "id": "Dirty Trick",
+            "name": "Dirty Trick",
+            "language": "EN"
         },
         {
-            "id": "Discern Lies (Sp)"
+            "id": "Discern Lies (Sp)",
+            "name": "Discern Lies (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Dispiriting Taunt (Ex)"
+            "id": "Dispiriting Taunt (Ex)",
+            "name": "Dispiriting Taunt (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Disrupt Attack (Su)"
+            "id": "Disrupt Attack (Su)",
+            "name": "Disrupt Attack (Su)",
+            "language": "EN"
         },
         {
-            "id": "Disrupt Creature (Su)"
+            "id": "Disrupt Creature (Su)",
+            "name": "Disrupt Creature (Su)",
+            "language": "EN"
         },
         {
-            "id": "Disrupting Shot (Ex)"
+            "id": "Disrupting Shot (Ex)",
+            "name": "Disrupting Shot (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Distant Burst (Su)"
+            "id": "Distant Burst (Su)",
+            "name": "Distant Burst (Su)",
+            "language": "EN"
         },
         {
-            "id": "Distant Spell (Ex)"
+            "id": "Distant Spell (Ex)",
+            "name": "Distant Spell (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Distracting Blather"
+            "id": "Distracting Blather",
+            "name": "Distracting Blather",
+            "language": "EN"
         },
         {
-            "id": "Distracting Glare (Su)"
+            "id": "Distracting Glare (Su)",
+            "name": "Distracting Glare (Su)",
+            "language": "EN"
         },
         {
-            "id": "Distracting Hack (Ex)"
+            "id": "Distracting Hack (Ex)",
+            "name": "Distracting Hack (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Divine Protection (Su)"
+            "id": "Divine Protection (Su)",
+            "name": "Divine Protection (Su)",
+            "language": "EN"
         },
         {
-            "id": "Diviner's Tap (Su)"
+            "id": "Diviner's Tap (Su)",
+            "name": "Diviner's Tap (Su)",
+            "language": "EN"
         },
         {
-            "id": "Don't Quit (Ex)"
+            "id": "Don't Quit (Ex)",
+            "name": "Don't Quit (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Double Debilitation (Ex)"
+            "id": "Double Debilitation (Ex)",
+            "name": "Double Debilitation (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Double Draw (Ex) (1st)"
+            "id": "Double Draw (Ex) (1st)",
+            "name": "Double Draw (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Draining Agony (Su)"
+            "id": "Draining Agony (Su)",
+            "name": "Draining Agony (Su)",
+            "language": "EN"
         },
         {
-            "id": "Draw Fire (Ex) (Envoy)"
+            "id": "Draw Fire (Ex) (Envoy)",
+            "name": "Draw Fire (Ex) (Envoy)",
+            "language": "EN"
         },
         {
-            "id": "Draw Fire (Su) (Vanguard)"
+            "id": "Draw Fire (Su) (Vanguard)",
+            "name": "Draw Fire (Su) (Vanguard)",
+            "language": "EN"
         },
         {
-            "id": "Drone"
+            "id": "Drone",
+            "name": "Drone",
+            "language": "EN"
         },
         {
-            "id": "Drone Chassis"
+            "id": "Drone Chassis",
+            "name": "Drone Chassis",
+            "language": "EN"
         },
         {
-            "id": "Drone Meld (Ex)"
+            "id": "Drone Meld (Ex)",
+            "name": "Drone Meld (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Drone Summoner (Su)"
+            "id": "Drone Summoner (Su)",
+            "name": "Drone Summoner (Su)",
+            "language": "EN"
         },
         {
-            "id": "Dual Chambers (Ex)"
+            "id": "Dual Chambers (Ex)",
+            "name": "Dual Chambers (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Dual Specialization (Ex)"
+            "id": "Dual Specialization (Ex)",
+            "name": "Dual Specialization (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Duck and Weave (Ex) (3rd)"
+            "id": "Duck and Weave (Ex) (3rd)",
+            "name": "Duck and Weave (Ex) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Duck Under (Ex)"
+            "id": "Duck Under (Ex)",
+            "name": "Duck Under (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Echoes of Obedience (Su)"
+            "id": "Echoes of Obedience (Su)",
+            "name": "Echoes of Obedience (Su)",
+            "language": "EN"
         },
         {
-            "id": "Echolocators (Ex)"
+            "id": "Echolocators (Ex)",
+            "name": "Echolocators (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Efficient Cloaking Field (Ex)"
+            "id": "Efficient Cloaking Field (Ex)",
+            "name": "Efficient Cloaking Field (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Effortless Innuendo (Ex; Bluff)"
+            "id": "Effortless Innuendo (Ex; Bluff)",
+            "name": "Effortless Innuendo (Ex; Bluff)",
+            "language": "EN"
         },
         {
-            "id": "Eldritch Secret"
+            "id": "Eldritch Secret",
+            "name": "Eldritch Secret",
+            "language": "EN"
         },
         {
-            "id": "Electric Arc (Ex; 7th Level)"
+            "id": "Electric Arc (Ex; 7th Level)",
+            "name": "Electric Arc (Ex; 7th Level)",
+            "language": "EN"
         },
         {
-            "id": "Elusive Hacker (Ex)"
+            "id": "Elusive Hacker (Ex)",
+            "name": "Elusive Hacker (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Elusive Target (Ex) (4th)"
+            "id": "Elusive Target (Ex) (4th)",
+            "name": "Elusive Target (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Emotionsense (Su)"
+            "id": "Emotionsense (Su)",
+            "name": "Emotionsense (Su)",
+            "language": "EN"
         },
         {
-            "id": "Empath"
+            "id": "Empath",
+            "name": "Empath",
+            "language": "EN"
         },
         {
-            "id": "Empathic Mastery (Sp)"
+            "id": "Empathic Mastery (Sp)",
+            "name": "Empathic Mastery (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Empathy (Su)"
+            "id": "Empathy (Su)",
+            "name": "Empathy (Su)",
+            "language": "EN"
         },
         {
-            "id": "Empower Defenses (Ex) (5th)"
+            "id": "Empower Defenses (Ex) (5th)",
+            "name": "Empower Defenses (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Empowered Healing Touch (Su)"
+            "id": "Empowered Healing Touch (Su)",
+            "name": "Empowered Healing Touch (Su)",
+            "language": "EN"
         },
         {
-            "id": "Empowered Weapon (Su)"
+            "id": "Empowered Weapon (Su)",
+            "name": "Empowered Weapon (Su)",
+            "language": "EN"
         },
         {
-            "id": "Energetic Booster* (Ex)"
+            "id": "Energetic Booster* (Ex)",
+            "name": "Energetic Booster* (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Energize (Su)"
+            "id": "Energize (Su)",
+            "name": "Energize (Su)",
+            "language": "EN"
         },
         {
-            "id": "Energize Spell (Su)"
+            "id": "Energize Spell (Su)",
+            "name": "Energize Spell (Su)",
+            "language": "EN"
         },
         {
-            "id": "Energy Alteration (Su)"
+            "id": "Energy Alteration (Su)",
+            "name": "Energy Alteration (Su)",
+            "language": "EN"
         },
         {
-            "id": "Energy Shield (Ex; Drone)"
+            "id": "Energy Shield (Ex; Drone)",
+            "name": "Energy Shield (Ex; Drone)",
+            "language": "EN"
         },
         {
-            "id": "Energy Shield (Ex)"
+            "id": "Energy Shield (Ex)",
+            "name": "Energy Shield (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Energy Shield (Ex) (Armor)"
+            "id": "Energy Shield (Ex) (Armor)",
+            "name": "Energy Shield (Ex) (Armor)",
+            "language": "EN"
         },
         {
-            "id": "Engineer's Eye (Ex)"
+            "id": "Engineer's Eye (Ex)",
+            "name": "Engineer's Eye (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Engineering Adept (Ex; Engineering)"
+            "id": "Engineering Adept (Ex; Engineering)",
+            "name": "Engineering Adept (Ex; Engineering)",
+            "language": "EN"
         },
         {
-            "id": "Enhanced Armor (Ex)"
+            "id": "Enhanced Armor (Ex)",
+            "name": "Enhanced Armor (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Enhanced Prototype Proficiency (Ex)"
+            "id": "Enhanced Prototype Proficiency (Ex)",
+            "name": "Enhanced Prototype Proficiency (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Enhanced Senses (Ex; Drone)"
+            "id": "Enhanced Senses (Ex; Drone)",
+            "name": "Enhanced Senses (Ex; Drone)",
+            "language": "EN"
         },
         {
-            "id": "Enhanced Senses (Ex)"
+            "id": "Enhanced Senses (Ex)",
+            "name": "Enhanced Senses (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Enhanced Tank (Ex) (2nd)"
+            "id": "Enhanced Tank (Ex) (2nd)",
+            "name": "Enhanced Tank (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Enlightenment (Su)"
+            "id": "Enlightenment (Su)",
+            "name": "Enlightenment (Su)",
+            "language": "EN"
         },
         {
-            "id": "Enshrouding Gloom (Su)"
+            "id": "Enshrouding Gloom (Su)",
+            "name": "Enshrouding Gloom (Su)",
+            "language": "EN"
         },
         {
-            "id": "Entropic Attunement (Su)"
+            "id": "Entropic Attunement (Su)",
+            "name": "Entropic Attunement (Su)",
+            "language": "EN"
         },
         {
-            "id": "Entropic Charge (Su)"
+            "id": "Entropic Charge (Su)",
+            "name": "Entropic Charge (Su)",
+            "language": "EN"
         },
         {
-            "id": "Entropic Pool (Su)"
+            "id": "Entropic Pool (Su)",
+            "name": "Entropic Pool (Su)",
+            "language": "EN"
         },
         {
-            "id": "Entropic Strike (Su)"
+            "id": "Entropic Strike (Su)",
+            "name": "Entropic Strike (Su)",
+            "language": "EN"
         },
         {
-            "id": "Entropy Shield (Su)"
+            "id": "Entropy Shield (Su)",
+            "name": "Entropy Shield (Su)",
+            "language": "EN"
         },
         {
-            "id": "Envoy Improvisation"
+            "id": "Envoy Improvisation",
+            "name": "Envoy Improvisation",
+            "language": "EN"
         },
         {
-            "id": "Epiphanies"
+            "id": "Epiphanies",
+            "name": "Epiphanies",
+            "language": "EN"
         },
         {
-            "id": "Eternal Spell (Ex)"
+            "id": "Eternal Spell (Ex)",
+            "name": "Eternal Spell (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Evasion (Ex) (Operative)"
+            "id": "Evasion (Ex) (Operative)",
+            "name": "Evasion (Ex) (Operative)",
+            "language": "EN"
         },
         {
-            "id": "Evasion (Ex) (Vanguard)"
+            "id": "Evasion (Ex) (Vanguard)",
+            "name": "Evasion (Ex) (Vanguard)",
+            "language": "EN"
         },
         {
-            "id": "Ever Vigilant (Ex)"
+            "id": "Ever Vigilant (Ex)",
+            "name": "Ever Vigilant (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Excavator (Ex)"
+            "id": "Excavator (Ex)",
+            "name": "Excavator (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Exclusion Zone (Su)"
+            "id": "Exclusion Zone (Su)",
+            "name": "Exclusion Zone (Su)",
+            "language": "EN"
         },
         {
-            "id": "Exergy"
+            "id": "Exergy",
+            "name": "Exergy",
+            "language": "EN"
         },
         {
-            "id": "Exergy Catalyst (Su)"
+            "id": "Exergy Catalyst (Su)",
+            "name": "Exergy Catalyst (Su)",
+            "language": "EN"
         },
         {
-            "id": "Exergy Embodiment (Ex)"
+            "id": "Exergy Embodiment (Ex)",
+            "name": "Exergy Embodiment (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Exergy Finale (Su)"
+            "id": "Exergy Finale (Su)",
+            "name": "Exergy Finale (Su)",
+            "language": "EN"
         },
         {
-            "id": "Exergy Insight (Ex)"
+            "id": "Exergy Insight (Ex)",
+            "name": "Exergy Insight (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Exocortex"
+            "id": "Exocortex",
+            "name": "Exocortex",
+            "language": "EN"
         },
         {
-            "id": "Exocortex Mods (Ex)"
+            "id": "Exocortex Mods (Ex)",
+            "name": "Exocortex Mods (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Expanded Attunement (Ex)"
+            "id": "Expanded Attunement (Ex)",
+            "name": "Expanded Attunement (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Expanded Skill Channeling (Ex)"
+            "id": "Expanded Skill Channeling (Ex)",
+            "name": "Expanded Skill Channeling (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Experimental Armor Prototype"
+            "id": "Experimental Armor Prototype",
+            "name": "Experimental Armor Prototype",
+            "language": "EN"
         },
         {
-            "id": "Experimental Weapon Prototype (Ex)"
+            "id": "Experimental Weapon Prototype (Ex)",
+            "name": "Experimental Weapon Prototype (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Expert AI (Ex)"
+            "id": "Expert AI (Ex)",
+            "name": "Expert AI (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Expert Attack (Ex)"
+            "id": "Expert Attack (Ex)",
+            "name": "Expert Attack (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Expert Distraction (Ex; Bluff)"
+            "id": "Expert Distraction (Ex; Bluff)",
+            "name": "Expert Distraction (Ex; Bluff)",
+            "language": "EN"
         },
         {
-            "id": "Expert Forger (Ex; Computers)"
+            "id": "Expert Forger (Ex; Computers)",
+            "name": "Expert Forger (Ex; Computers)",
+            "language": "EN"
         },
         {
-            "id": "Expert Rig (Ex)"
+            "id": "Expert Rig (Ex)",
+            "name": "Expert Rig (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Expertise (Ex)"
+            "id": "Expertise (Ex)",
+            "name": "Expertise (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Expertise Talent"
+            "id": "Expertise Talent",
+            "name": "Expertise Talent",
+            "language": "EN"
         },
         {
-            "id": "Explode Head (Su)"
+            "id": "Explode Head (Su)",
+            "name": "Explode Head (Su)",
+            "language": "EN"
         },
         {
-            "id": "Exploit Cover (Ex) (4th)"
+            "id": "Exploit Cover (Ex) (4th)",
+            "name": "Exploit Cover (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Explorer"
+            "id": "Explorer",
+            "name": "Explorer",
+            "language": "EN"
         },
         {
-            "id": "Explosives Acumen (Ex) (4th)"
+            "id": "Explosives Acumen (Ex) (4th)",
+            "name": "Explosives Acumen (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Extend Runtime (Su)"
+            "id": "Extend Runtime (Su)",
+            "name": "Extend Runtime (Su)",
+            "language": "EN"
         },
         {
-            "id": "Extended Spell (Ex)"
+            "id": "Extended Spell (Ex)",
+            "name": "Extended Spell (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Extra Ammo (Ex)"
+            "id": "Extra Ammo (Ex)",
+            "name": "Extra Ammo (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Extra Manifestation"
+            "id": "Extra Manifestation",
+            "name": "Extra Manifestation",
+            "language": "EN"
         },
         {
-            "id": "Extra Mod (Ex)"
+            "id": "Extra Mod (Ex)",
+            "name": "Extra Mod (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Extra Upgrade (Ex)"
+            "id": "Extra Upgrade (Ex)",
+            "name": "Extra Upgrade (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Fabricate Arms (Su)"
+            "id": "Fabricate Arms (Su)",
+            "name": "Fabricate Arms (Su)",
+            "language": "EN"
         },
         {
-            "id": "Fabricate Tech (Sp)"
+            "id": "Fabricate Tech (Sp)",
+            "name": "Fabricate Tech (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Far Injection (Ex)"
+            "id": "Far Injection (Ex)",
+            "name": "Far Injection (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Farsight (Sp)"
+            "id": "Farsight (Sp)",
+            "name": "Farsight (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Fast Hack (Ex; Computers)"
+            "id": "Fast Hack (Ex; Computers)",
+            "name": "Fast Hack (Ex; Computers)",
+            "language": "EN"
         },
         {
-            "id": "Fast Hunting (Ex) (3rd)"
+            "id": "Fast Hunting (Ex) (3rd)",
+            "name": "Fast Hunting (Ex) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Feat Boosts"
+            "id": "Feat Boosts",
+            "name": "Feat Boosts",
+            "language": "EN"
         },
         {
-            "id": "Feign Death (Ex)"
+            "id": "Feign Death (Ex)",
+            "name": "Feign Death (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Feint and Strike (Ex) (2nd)"
+            "id": "Feint and Strike (Ex) (2nd)",
+            "name": "Feint and Strike (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Feinting Stunt"
+            "id": "Feinting Stunt",
+            "name": "Feinting Stunt",
+            "language": "EN"
         },
         {
-            "id": "Field Dressing (Ex)"
+            "id": "Field Dressing (Ex)",
+            "name": "Field Dressing (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Field Treatment (Ex)"
+            "id": "Field Treatment (Ex)",
+            "name": "Field Treatment (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Fighting Style"
+            "id": "Fighting Style",
+            "name": "Fighting Style",
+            "language": "EN"
         },
         {
-            "id": "Finesse Striker (Ex)"
+            "id": "Finesse Striker (Ex)",
+            "name": "Finesse Striker (Ex)",
+            "language": "EN"
         },
         {
-            "id": "First Vanguard Aspect"
+            "id": "First Vanguard Aspect",
+            "name": "First Vanguard Aspect",
+            "language": "EN"
         },
         {
-            "id": "Flare (Su)"
+            "id": "Flare (Su)",
+            "name": "Flare (Su)",
+            "language": "EN"
         },
         {
-            "id": "Flash Freeze (Ex; 7th Level)"
+            "id": "Flash Freeze (Ex; 7th Level)",
+            "name": "Flash Freeze (Ex; 7th Level)",
+            "language": "EN"
         },
         {
-            "id": "Flash Teleport (Sp)"
+            "id": "Flash Teleport (Sp)",
+            "name": "Flash Teleport (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Flash Teleport (Su)"
+            "id": "Flash Teleport (Su)",
+            "name": "Flash Teleport (Su)",
+            "language": "EN"
         },
         {
-            "id": "Flashing Strikes (Ex) (Solarian)"
+            "id": "Flashing Strikes (Ex) (Solarian)",
+            "name": "Flashing Strikes (Ex) (Solarian)",
+            "language": "EN"
         },
         {
-            "id": "Flashing Strikes (Ex) (Vanguard)"
+            "id": "Flashing Strikes (Ex) (Vanguard)",
+            "name": "Flashing Strikes (Ex) (Vanguard)",
+            "language": "EN"
         },
         {
-            "id": "Flatten Bullets (Su)"
+            "id": "Flatten Bullets (Su)",
+            "name": "Flatten Bullets (Su)",
+            "language": "EN"
         },
         {
-            "id": "Flight System (Ex)"
+            "id": "Flight System (Ex)",
+            "name": "Flight System (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Focus (Ex)"
+            "id": "Focus (Ex)",
+            "name": "Focus (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Focus Fire (Ex) (2nd)"
+            "id": "Focus Fire (Ex) (2nd)",
+            "name": "Focus Fire (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Focused Damage (Ex) (4th)"
+            "id": "Focused Damage (Ex) (4th)",
+            "name": "Focused Damage (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Forced Amity (Sp)"
+            "id": "Forced Amity (Sp)",
+            "name": "Forced Amity (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Forceful Commands (Su)"
+            "id": "Forceful Commands (Su)",
+            "name": "Forceful Commands (Su)",
+            "language": "EN"
         },
         {
-            "id": "Forceful Shield (Su)"
+            "id": "Forceful Shield (Su)",
+            "name": "Forceful Shield (Su)",
+            "language": "EN"
         },
         {
-            "id": "Fourfold Tactician"
+            "id": "Fourfold Tactician",
+            "name": "Fourfold Tactician",
+            "language": "EN"
         },
         {
-            "id": "Frenzied Fighting (Ex) (1st)"
+            "id": "Frenzied Fighting (Ex) (1st)",
+            "name": "Frenzied Fighting (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Friendly Fire (Su)"
+            "id": "Friendly Fire (Su)",
+            "name": "Friendly Fire (Su)",
+            "language": "EN"
         },
         {
-            "id": "Fuse Spells (Ex)"
+            "id": "Fuse Spells (Ex)",
+            "name": "Fuse Spells (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Gallant Rebuttal (Su)"
+            "id": "Gallant Rebuttal (Su)",
+            "name": "Gallant Rebuttal (Su)",
+            "language": "EN"
         },
         {
-            "id": "Gather Qi (Su) (2nd)"
+            "id": "Gather Qi (Su) (2nd)",
+            "name": "Gather Qi (Su) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Gear Boost"
+            "id": "Gear Boost",
+            "name": "Gear Boost",
+            "language": "EN"
         },
         {
-            "id": "Gene Therapy (Ex)"
+            "id": "Gene Therapy (Ex)",
+            "name": "Gene Therapy (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Genehacker’s Cache"
+            "id": "Genehacker’s Cache",
+            "name": "Genehacker’s Cache",
+            "language": "EN"
         },
         {
-            "id": "General’s Tactics (Su)"
+            "id": "General’s Tactics (Su)",
+            "name": "General’s Tactics (Su)",
+            "language": "EN"
         },
         {
-            "id": "Genetics"
+            "id": "Genetics",
+            "name": "Genetics",
+            "language": "EN"
         },
         {
-            "id": "Get 'Em (Ex)"
+            "id": "Get 'Em (Ex)",
+            "name": "Get 'Em (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Ghost"
+            "id": "Ghost",
+            "name": "Ghost",
+            "language": "EN"
         },
         {
-            "id": "Ghost in the Machine (Ex)"
+            "id": "Ghost in the Machine (Ex)",
+            "name": "Ghost in the Machine (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Ghost Intrusion (Ex)"
+            "id": "Ghost Intrusion (Ex)",
+            "name": "Ghost Intrusion (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Glean Spell (Su)"
+            "id": "Glean Spell (Su)",
+            "name": "Glean Spell (Su)",
+            "language": "EN"
         },
         {
-            "id": "Glimpse the Truth (Ex)"
+            "id": "Glimpse the Truth (Ex)",
+            "name": "Glimpse the Truth (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Glitch Step (Su)"
+            "id": "Glitch Step (Su)",
+            "name": "Glitch Step (Su)",
+            "language": "EN"
         },
         {
-            "id": "Glow of Life (Su)"
+            "id": "Glow of Life (Su)",
+            "name": "Glow of Life (Su)",
+            "language": "EN"
         },
         {
-            "id": "Grabbing Strike (Ex; Improved Combat Maneuver [Grapple])"
+            "id": "Grabbing Strike (Ex; Improved Combat Maneuver [Grapple])",
+            "name": "Grabbing Strike (Ex; Improved Combat Maneuver [Grapple])",
+            "language": "EN"
         },
         {
-            "id": "Grapple Equipment (Ex; Improved Combat Maneuver [Grapple])"
+            "id": "Grapple Equipment (Ex; Improved Combat Maneuver [Grapple])",
+            "name": "Grapple Equipment (Ex; Improved Combat Maneuver [Grapple])",
+            "language": "EN"
         },
         {
-            "id": "Grasping Vines (Su)"
+            "id": "Grasping Vines (Su)",
+            "name": "Grasping Vines (Su)",
+            "language": "EN"
         },
         {
-            "id": "Gravitic Calling (Su)"
+            "id": "Gravitic Calling (Su)",
+            "name": "Gravitic Calling (Su)",
+            "language": "EN"
         },
         {
-            "id": "Gravitic Reinforcement (Su)"
+            "id": "Gravitic Reinforcement (Su)",
+            "name": "Gravitic Reinforcement (Su)",
+            "language": "EN"
         },
         {
-            "id": "Gravity Anchor (Su)"
+            "id": "Gravity Anchor (Su)",
+            "name": "Gravity Anchor (Su)",
+            "language": "EN"
         },
         {
-            "id": "Gravity Boost (Su)"
+            "id": "Gravity Boost (Su)",
+            "name": "Gravity Boost (Su)",
+            "language": "EN"
         },
         {
-            "id": "Gravity Hold (Su)"
+            "id": "Gravity Hold (Su)",
+            "name": "Gravity Hold (Su)",
+            "language": "EN"
         },
         {
-            "id": "Gravity Pulse (Su)"
+            "id": "Gravity Pulse (Su)",
+            "name": "Gravity Pulse (Su)",
+            "language": "EN"
         },
         {
-            "id": "Gravity Shield (Su)"
+            "id": "Gravity Shield (Su)",
+            "name": "Gravity Shield (Su)",
+            "language": "EN"
         },
         {
-            "id": "Gravity Surge (Su)"
+            "id": "Gravity Surge (Su)",
+            "name": "Gravity Surge (Su)",
+            "language": "EN"
         },
         {
-            "id": "Gravity Well (Su)"
+            "id": "Gravity Well (Su)",
+            "name": "Gravity Well (Su)",
+            "language": "EN"
         },
         {
-            "id": "Greater Bestow Tactics (Su)"
+            "id": "Greater Bestow Tactics (Su)",
+            "name": "Greater Bestow Tactics (Su)",
+            "language": "EN"
         },
         {
-            "id": "Greater Emotionsense (Su)"
+            "id": "Greater Emotionsense (Su)",
+            "name": "Greater Emotionsense (Su)",
+            "language": "EN"
         },
         {
-            "id": "Greater Field Dressing (Ex)"
+            "id": "Greater Field Dressing (Ex)",
+            "name": "Greater Field Dressing (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Greater Forced Amity (Sp)"
+            "id": "Greater Forced Amity (Sp)",
+            "name": "Greater Forced Amity (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Greater Mindlink (Su)"
+            "id": "Greater Mindlink (Su)",
+            "name": "Greater Mindlink (Su)",
+            "language": "EN"
         },
         {
-            "id": "Greater Resistance (Ex)"
+            "id": "Greater Resistance (Ex)",
+            "name": "Greater Resistance (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Greater Secondary Connection"
+            "id": "Greater Secondary Connection",
+            "name": "Greater Secondary Connection",
+            "language": "EN"
         },
         {
-            "id": "Greater Treat Condition (Ex)"
+            "id": "Greater Treat Condition (Ex)",
+            "name": "Greater Treat Condition (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Gregarious Mien (Ex; Diplomacy)"
+            "id": "Gregarious Mien (Ex; Diplomacy)",
+            "name": "Gregarious Mien (Ex; Diplomacy)",
+            "language": "EN"
         },
         {
-            "id": "Grenade Expert (Ex) (1st)"
+            "id": "Grenade Expert (Ex) (1st)",
+            "name": "Grenade Expert (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Guard"
+            "id": "Guard",
+            "name": "Guard",
+            "language": "EN"
         },
         {
-            "id": "Guard's Protection (Ex) (2nd)"
+            "id": "Guard's Protection (Ex) (2nd)",
+            "name": "Guard's Protection (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Guarded Combatant (Ex)"
+            "id": "Guarded Combatant (Ex)",
+            "name": "Guarded Combatant (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Guardian Angel (Su)"
+            "id": "Guardian Angel (Su)",
+            "name": "Guardian Angel (Su)",
+            "language": "EN"
         },
         {
-            "id": "Guided Rebirth (Su)"
+            "id": "Guided Rebirth (Su)",
+            "name": "Guided Rebirth (Su)",
+            "language": "EN"
         },
         {
-            "id": "Guided Reincarnation (Sp)"
+            "id": "Guided Reincarnation (Sp)",
+            "name": "Guided Reincarnation (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Hack Capacitor (Su)"
+            "id": "Hack Capacitor (Su)",
+            "name": "Hack Capacitor (Su)",
+            "language": "EN"
         },
         {
-            "id": "Hack Directory (Ex)"
+            "id": "Hack Directory (Ex)",
+            "name": "Hack Directory (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Hacker"
+            "id": "Hacker",
+            "name": "Hacker",
+            "language": "EN"
         },
         {
-            "id": "Hammer Fist (Ex) (1st)"
+            "id": "Hammer Fist (Ex) (1st)",
+            "name": "Hammer Fist (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Hampering Inhibitor* (Ex)"
+            "id": "Hampering Inhibitor* (Ex)",
+            "name": "Hampering Inhibitor* (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Hampering Shot (Ex)"
+            "id": "Hampering Shot (Ex)",
+            "name": "Hampering Shot (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Hardened AI (Ex)"
+            "id": "Hardened AI (Ex)",
+            "name": "Hardened AI (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Harmful Spells (Ex)"
+            "id": "Harmful Spells (Ex)",
+            "name": "Harmful Spells (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Harrying Shot (Ex) (5th)"
+            "id": "Harrying Shot (Ex) (5th)",
+            "name": "Harrying Shot (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Heads Up (Ex)"
+            "id": "Heads Up (Ex)",
+            "name": "Heads Up (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Healer"
+            "id": "Healer",
+            "name": "Healer",
+            "language": "EN"
         },
         {
-            "id": "Healer’s Bond (Sp)"
+            "id": "Healer’s Bond (Sp)",
+            "name": "Healer’s Bond (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Healing Channel (Su)"
+            "id": "Healing Channel (Su)",
+            "name": "Healing Channel (Su)",
+            "language": "EN"
         },
         {
-            "id": "Healing Touch (Su)"
+            "id": "Healing Touch (Su)",
+            "name": "Healing Touch (Su)",
+            "language": "EN"
         },
         {
-            "id": "Heavy Fire (Ex) (2nd)"
+            "id": "Heavy Fire (Ex) (2nd)",
+            "name": "Heavy Fire (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Heavy Onslaught (Ex; 11th Level)"
+            "id": "Heavy Onslaught (Ex; 11th Level)",
+            "name": "Heavy Onslaught (Ex; 11th Level)",
+            "language": "EN"
         },
         {
-            "id": "Hidden Agenda (Ex)"
+            "id": "Hidden Agenda (Ex)",
+            "name": "Hidden Agenda (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Hidden Strike"
+            "id": "Hidden Strike",
+            "name": "Hidden Strike",
+            "language": "EN"
         },
         {
-            "id": "Hit-and-Run"
+            "id": "Hit-and-Run",
+            "name": "Hit-and-Run",
+            "language": "EN"
         },
         {
-            "id": "Hobble Creature (Su)"
+            "id": "Hobble Creature (Su)",
+            "name": "Hobble Creature (Su)",
+            "language": "EN"
         },
         {
-            "id": "Holographic Artist’s Cache"
+            "id": "Holographic Artist’s Cache",
+            "name": "Holographic Artist’s Cache",
+            "language": "EN"
         },
         {
-            "id": "Holographic Clone (Ex)"
+            "id": "Holographic Clone (Ex)",
+            "name": "Holographic Clone (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Holographic Distraction (Ex)"
+            "id": "Holographic Distraction (Ex)",
+            "name": "Holographic Distraction (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Holographic Projector (Ex)"
+            "id": "Holographic Projector (Ex)",
+            "name": "Holographic Projector (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Hover Drone"
+            "id": "Hover Drone",
+            "name": "Hover Drone",
+            "language": "EN"
         },
         {
-            "id": "Hunt Foe (Ex) (2nd)"
+            "id": "Hunt Foe (Ex) (2nd)",
+            "name": "Hunt Foe (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Hunter"
+            "id": "Hunter",
+            "name": "Hunter",
+            "language": "EN"
         },
         {
-            "id": "Hunter’s Expertise (Ex) (1st)"
+            "id": "Hunter’s Expertise (Ex) (1st)",
+            "name": "Hunter’s Expertise (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Hunting Party (Ex) (4th)"
+            "id": "Hunting Party (Ex) (4th)",
+            "name": "Hunting Party (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Hurry (Ex)"
+            "id": "Hurry (Ex)",
+            "name": "Hurry (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Hydrojets (Ex)"
+            "id": "Hydrojets (Ex)",
+            "name": "Hydrojets (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Hyperclocking (Ex)"
+            "id": "Hyperclocking (Ex)",
+            "name": "Hyperclocking (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Hypnotic Glow (Su)"
+            "id": "Hypnotic Glow (Su)",
+            "name": "Hypnotic Glow (Su)",
+            "language": "EN"
         },
         {
-            "id": "Ignore Pain (Ex) (2nd)"
+            "id": "Ignore Pain (Ex) (2nd)",
+            "name": "Ignore Pain (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Immunology"
+            "id": "Immunology",
+            "name": "Immunology",
+            "language": "EN"
         },
         {
-            "id": "Impactful Attack (Ex) (5th)"
+            "id": "Impactful Attack (Ex) (5th)",
+            "name": "Impactful Attack (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Impenetrable Defense (Ex) (5th)"
+            "id": "Impenetrable Defense (Ex) (5th)",
+            "name": "Impenetrable Defense (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Improved Evasion (Ex)"
+            "id": "Improved Evasion (Ex)",
+            "name": "Improved Evasion (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Improved Get 'Em (Ex)"
+            "id": "Improved Get 'Em (Ex)",
+            "name": "Improved Get 'Em (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Improved Hurry (Ex)"
+            "id": "Improved Hurry (Ex)",
+            "name": "Improved Hurry (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Improved Magazine (Ex)"
+            "id": "Improved Magazine (Ex)",
+            "name": "Improved Magazine (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Improved Overcharge (Ex)"
+            "id": "Improved Overcharge (Ex)",
+            "name": "Improved Overcharge (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Improved Resistant Energy (Ex)"
+            "id": "Improved Resistant Energy (Ex)",
+            "name": "Improved Resistant Energy (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Improved Secondary Connection"
+            "id": "Improved Secondary Connection",
+            "name": "Improved Secondary Connection",
+            "language": "EN"
         },
         {
-            "id": "Improved Treat Condition (Ex)"
+            "id": "Improved Treat Condition (Ex)",
+            "name": "Improved Treat Condition (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Improved Uncanny Mobility (Ex)"
+            "id": "Improved Uncanny Mobility (Ex)",
+            "name": "Improved Uncanny Mobility (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Improvise Surgery (Ex; Medicine)"
+            "id": "Improvise Surgery (Ex; Medicine)",
+            "name": "Improvise Surgery (Ex; Medicine)",
+            "language": "EN"
         },
         {
-            "id": "Inexplicable Commands (Su)"
+            "id": "Inexplicable Commands (Su)",
+            "name": "Inexplicable Commands (Su)",
+            "language": "EN"
         },
         {
-            "id": "Infinite Worlds (Su)"
+            "id": "Infinite Worlds (Su)",
+            "name": "Infinite Worlds (Su)",
+            "language": "EN"
         },
         {
-            "id": "Inhibit (Sp or Su)"
+            "id": "Inhibit (Sp or Su)",
+            "name": "Inhibit (Sp or Su)",
+            "language": "EN"
         },
         {
-            "id": "Injection Expert (Ex)"
+            "id": "Injection Expert (Ex)",
+            "name": "Injection Expert (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Inoculation (Ex)"
+            "id": "Inoculation (Ex)",
+            "name": "Inoculation (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Inspired Medic (Ex; Medicine)"
+            "id": "Inspired Medic (Ex; Medicine)",
+            "name": "Inspired Medic (Ex; Medicine)",
+            "language": "EN"
         },
         {
-            "id": "Inspiring Boost (Ex)"
+            "id": "Inspiring Boost (Ex)",
+            "name": "Inspiring Boost (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Inspiring Oration (Ex)"
+            "id": "Inspiring Oration (Ex)",
+            "name": "Inspiring Oration (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Instant Reload (Ex) (3rd)"
+            "id": "Instant Reload (Ex) (3rd)",
+            "name": "Instant Reload (Ex) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Instinctive Strike (Ex) (2nd)"
+            "id": "Instinctive Strike (Ex) (2nd)",
+            "name": "Instinctive Strike (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Intelligence Network (Ex)"
+            "id": "Intelligence Network (Ex)",
+            "name": "Intelligence Network (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Intense Focus (Ex) (3rd)"
+            "id": "Intense Focus (Ex) (3rd)",
+            "name": "Intense Focus (Ex) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Interfere (Su)"
+            "id": "Interfere (Su)",
+            "name": "Interfere (Su)",
+            "language": "EN"
         },
         {
-            "id": "Interfering Shot (Ex)"
+            "id": "Interfering Shot (Ex)",
+            "name": "Interfering Shot (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Internal Reservoir (Ex)"
+            "id": "Internal Reservoir (Ex)",
+            "name": "Internal Reservoir (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Interplanetary Teleport (Sp)"
+            "id": "Interplanetary Teleport (Sp)",
+            "name": "Interplanetary Teleport (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Intervene (Su)"
+            "id": "Intervene (Su)",
+            "name": "Intervene (Su)",
+            "language": "EN"
         },
         {
-            "id": "Inventive Engineer (Ex)"
+            "id": "Inventive Engineer (Ex)",
+            "name": "Inventive Engineer (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Inversion"
+            "id": "Inversion",
+            "name": "Inversion",
+            "language": "EN"
         },
         {
-            "id": "Inversion Catalyst (Su)"
+            "id": "Inversion Catalyst (Su)",
+            "name": "Inversion Catalyst (Su)",
+            "language": "EN"
         },
         {
-            "id": "Inversion Embodiment (Ex)"
+            "id": "Inversion Embodiment (Ex)",
+            "name": "Inversion Embodiment (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Inversion Finale (Ex)"
+            "id": "Inversion Finale (Ex)",
+            "name": "Inversion Finale (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Inversion Insight (Ex)"
+            "id": "Inversion Insight (Ex)",
+            "name": "Inversion Insight (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Invisibility Bypass Processor (Ex)"
+            "id": "Invisibility Bypass Processor (Ex)",
+            "name": "Invisibility Bypass Processor (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Invisibility Field (Ex)"
+            "id": "Invisibility Field (Ex)",
+            "name": "Invisibility Field (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Invisibility-Hampering Projector (Ex)"
+            "id": "Invisibility-Hampering Projector (Ex)",
+            "name": "Invisibility-Hampering Projector (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Invulnerability (Su)"
+            "id": "Invulnerability (Su)",
+            "name": "Invulnerability (Su)",
+            "language": "EN"
         },
         {
-            "id": "Jack of All Trades (Ex)"
+            "id": "Jack of All Trades (Ex)",
+            "name": "Jack of All Trades (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Jealous Overlord (Su)"
+            "id": "Jealous Overlord (Su)",
+            "name": "Jealous Overlord (Su)",
+            "language": "EN"
         },
         {
-            "id": "Jump Jets (Ex)"
+            "id": "Jump Jets (Ex)",
+            "name": "Jump Jets (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Junker’s Cache"
+            "id": "Junker’s Cache",
+            "name": "Junker’s Cache",
+            "language": "EN"
         },
         {
-            "id": "Keen Observer (Ex; Sense Motive)"
+            "id": "Keen Observer (Ex; Sense Motive)",
+            "name": "Keen Observer (Ex; Sense Motive)",
+            "language": "EN"
         },
         {
-            "id": "Keep Fighting (Ex) (3rd)"
+            "id": "Keep Fighting (Ex) (3rd)",
+            "name": "Keep Fighting (Ex) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Kick It Up (Ex)"
+            "id": "Kick It Up (Ex)",
+            "name": "Kick It Up (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Kill Shot (Ex)"
+            "id": "Kill Shot (Ex)",
+            "name": "Kill Shot (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Kinetic Resistance (Ex) (4th)"
+            "id": "Kinetic Resistance (Ex) (4th)",
+            "name": "Kinetic Resistance (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Knock Down"
+            "id": "Knock Down",
+            "name": "Knock Down",
+            "language": "EN"
         },
         {
-            "id": "Knockout Shot (Ex)"
+            "id": "Knockout Shot (Ex)",
+            "name": "Knockout Shot (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Laser Accuracy (Ex)"
+            "id": "Laser Accuracy (Ex)",
+            "name": "Laser Accuracy (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Lifelink (Su)"
+            "id": "Lifelink (Su)",
+            "name": "Lifelink (Su)",
+            "language": "EN"
         },
         {
-            "id": "Lightning Kip-Up (Ex; Kip-Up)"
+            "id": "Lightning Kip-Up (Ex; Kip-Up)",
+            "name": "Lightning Kip-Up (Ex; Kip-Up)",
+            "language": "EN"
         },
         {
-            "id": "Limited AI (Ex)"
+            "id": "Limited AI (Ex)",
+            "name": "Limited AI (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Lingering Spell (Ex)"
+            "id": "Lingering Spell (Ex)",
+            "name": "Lingering Spell (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Liquid Bravery (Ex)"
+            "id": "Liquid Bravery (Ex)",
+            "name": "Liquid Bravery (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Living Effigy (Su)"
+            "id": "Living Effigy (Su)",
+            "name": "Living Effigy (Su)",
+            "language": "EN"
         },
         {
-            "id": "Long-Range Improvisation (Ex)"
+            "id": "Long-Range Improvisation (Ex)",
+            "name": "Long-Range Improvisation (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Look Alive (Ex)"
+            "id": "Look Alive (Ex)",
+            "name": "Look Alive (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Luminescent Inquisition (Su)"
+            "id": "Luminescent Inquisition (Su)",
+            "name": "Luminescent Inquisition (Su)",
+            "language": "EN"
         },
         {
-            "id": "Magic Deletion (Su)"
+            "id": "Magic Deletion (Su)",
+            "name": "Magic Deletion (Su)",
+            "language": "EN"
         },
         {
-            "id": "Magic Hack"
+            "id": "Magic Hack",
+            "name": "Magic Hack",
+            "language": "EN"
         },
         {
-            "id": "Magic Negation (Sp)"
+            "id": "Magic Negation (Sp)",
+            "name": "Magic Negation (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Magic Trajectories (Su)"
+            "id": "Magic Trajectories (Su)",
+            "name": "Magic Trajectories (Su)",
+            "language": "EN"
         },
         {
-            "id": "Magical Expertise (Ex)"
+            "id": "Magical Expertise (Ex)",
+            "name": "Magical Expertise (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Maneuver Expertise (Ex; Combat Expertise)"
+            "id": "Maneuver Expertise (Ex; Combat Expertise)",
+            "name": "Maneuver Expertise (Ex; Combat Expertise)",
+            "language": "EN"
         },
         {
-            "id": "Manipulator Arms (Ex)"
+            "id": "Manipulator Arms (Ex)",
+            "name": "Manipulator Arms (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Marked for Death (Ex)"
+            "id": "Marked for Death (Ex)",
+            "name": "Marked for Death (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Martyr’s Improvisation (Ex)"
+            "id": "Martyr’s Improvisation (Ex)",
+            "name": "Martyr’s Improvisation (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Mass Suit Up (Sp)"
+            "id": "Mass Suit Up (Sp)",
+            "name": "Mass Suit Up (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Master Control (Ex)"
+            "id": "Master Control (Ex)",
+            "name": "Master Control (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Master of Disguise (Ex; Disguise)"
+            "id": "Master of Disguise (Ex; Disguise)",
+            "name": "Master of Disguise (Ex; Disguise)",
+            "language": "EN"
         },
         {
-            "id": "Master of Disguise (Ex) (Operative)"
+            "id": "Master of Disguise (Ex) (Operative)",
+            "name": "Master of Disguise (Ex) (Operative)",
+            "language": "EN"
         },
         {
-            "id": "Mechanic Trick"
+            "id": "Mechanic Trick",
+            "name": "Mechanic Trick",
+            "language": "EN"
         },
         {
-            "id": "Medical Subroutine (Ex)"
+            "id": "Medical Subroutine (Ex)",
+            "name": "Medical Subroutine (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Medication Mastery (Ex)"
+            "id": "Medication Mastery (Ex)",
+            "name": "Medication Mastery (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Melee Striker (Ex)"
+            "id": "Melee Striker (Ex)",
+            "name": "Melee Striker (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Melee Weapon Arm (Ex)"
+            "id": "Melee Weapon Arm (Ex)",
+            "name": "Melee Weapon Arm (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Melophile"
+            "id": "Melophile",
+            "name": "Melophile",
+            "language": "EN"
         },
         {
-            "id": "Memory Module (Ex)"
+            "id": "Memory Module (Ex)",
+            "name": "Memory Module (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Memory Palace (Su)"
+            "id": "Memory Palace (Su)",
+            "name": "Memory Palace (Su)",
+            "language": "EN"
         },
         {
-            "id": "Menacing Gaze (Ex; Intimidate)"
+            "id": "Menacing Gaze (Ex; Intimidate)",
+            "name": "Menacing Gaze (Ex; Intimidate)",
+            "language": "EN"
         },
         {
-            "id": "Mental Anguish (Su)"
+            "id": "Mental Anguish (Su)",
+            "name": "Mental Anguish (Su)",
+            "language": "EN"
         },
         {
-            "id": "Mental Mark (Su)"
+            "id": "Mental Mark (Su)",
+            "name": "Mental Mark (Su)",
+            "language": "EN"
         },
         {
-            "id": "Mentalist's Bane"
+            "id": "Mentalist's Bane",
+            "name": "Mentalist's Bane",
+            "language": "EN"
         },
         {
-            "id": "Metabolic Stability (Ex)"
+            "id": "Metabolic Stability (Ex)",
+            "name": "Metabolic Stability (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Meteor Shower (Su)"
+            "id": "Meteor Shower (Su)",
+            "name": "Meteor Shower (Su)",
+            "language": "EN"
         },
         {
-            "id": "Mighty Leap"
+            "id": "Mighty Leap",
+            "name": "Mighty Leap",
+            "language": "EN"
         },
         {
-            "id": "Mind Probe (Sp)"
+            "id": "Mind Probe (Sp)",
+            "name": "Mind Probe (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Mind Probe (Su)"
+            "id": "Mind Probe (Su)",
+            "name": "Mind Probe (Su)",
+            "language": "EN"
         },
         {
-            "id": "Mindbreaker"
+            "id": "Mindbreaker",
+            "name": "Mindbreaker",
+            "language": "EN"
         },
         {
-            "id": "Mindbreaking Link (Su)"
+            "id": "Mindbreaking Link (Su)",
+            "name": "Mindbreaking Link (Su)",
+            "language": "EN"
         },
         {
-            "id": "Mindkiller (Su)"
+            "id": "Mindkiller (Su)",
+            "name": "Mindkiller (Su)",
+            "language": "EN"
         },
         {
-            "id": "Mindlink (Sp)"
+            "id": "Mindlink (Sp)",
+            "name": "Mindlink (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Mindlink Bond (Su)"
+            "id": "Mindlink Bond (Su)",
+            "name": "Mindlink Bond (Su)",
+            "language": "EN"
         },
         {
-            "id": "Miniature Star (Su)"
+            "id": "Miniature Star (Su)",
+            "name": "Miniature Star (Su)",
+            "language": "EN"
         },
         {
-            "id": "Miracle Worker (Ex; Medicine)"
+            "id": "Miracle Worker (Ex; Medicine)",
+            "name": "Miracle Worker (Ex; Medicine)",
+            "language": "EN"
         },
         {
-            "id": "Miracle Worker (Ex)"
+            "id": "Miracle Worker (Ex)",
+            "name": "Miracle Worker (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Mitigate (Ex)"
+            "id": "Mitigate (Ex)",
+            "name": "Mitigate (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Mobile Army (Ex) (4th)"
+            "id": "Mobile Army (Ex) (4th)",
+            "name": "Mobile Army (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Mod Tinkerer (Ex)"
+            "id": "Mod Tinkerer (Ex)",
+            "name": "Mod Tinkerer (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Modify Memory (Sp)"
+            "id": "Modify Memory (Sp)",
+            "name": "Modify Memory (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Momentum"
+            "id": "Momentum",
+            "name": "Momentum",
+            "language": "EN"
         },
         {
-            "id": "Momentum Catalyst (Su)"
+            "id": "Momentum Catalyst (Su)",
+            "name": "Momentum Catalyst (Su)",
+            "language": "EN"
         },
         {
-            "id": "Momentum Embodiment (Ex)"
+            "id": "Momentum Embodiment (Ex)",
+            "name": "Momentum Embodiment (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Momentum Finale (Sp)"
+            "id": "Momentum Finale (Sp)",
+            "name": "Momentum Finale (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Momentum Insight (Ex)"
+            "id": "Momentum Insight (Ex)",
+            "name": "Momentum Insight (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Motivation Expertise (Ex)"
+            "id": "Motivation Expertise (Ex)",
+            "name": "Motivation Expertise (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Multi-Weapon Strike (Ex; Multi-Weapon Fighting)"
+            "id": "Multi-Weapon Strike (Ex; Multi-Weapon Fighting)",
+            "name": "Multi-Weapon Strike (Ex; Multi-Weapon Fighting)",
+            "language": "EN"
         },
         {
-            "id": "Multi-Weapon Versatility (Ex; Multi-Weapon Fighting)"
+            "id": "Multi-Weapon Versatility (Ex; Multi-Weapon Fighting)",
+            "name": "Multi-Weapon Versatility (Ex; Multi-Weapon Fighting)",
+            "language": "EN"
         },
         {
-            "id": "Multiattack Mastery (Ex)"
+            "id": "Multiattack Mastery (Ex)",
+            "name": "Multiattack Mastery (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Multitasking (Ex)"
+            "id": "Multitasking (Ex)",
+            "name": "Multitasking (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Mystic Reach (Su)"
+            "id": "Mystic Reach (Su)",
+            "name": "Mystic Reach (Su)",
+            "language": "EN"
         },
         {
-            "id": "Mystic Swap (Su) (3rd)"
+            "id": "Mystic Swap (Su) (3rd)",
+            "name": "Mystic Swap (Su) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Nebula Storm (Su)"
+            "id": "Nebula Storm (Su)",
+            "name": "Nebula Storm (Su)",
+            "language": "EN"
         },
         {
-            "id": "Neural Shunt (Ex)"
+            "id": "Neural Shunt (Ex)",
+            "name": "Neural Shunt (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Neurochemistry"
+            "id": "Neurochemistry",
+            "name": "Neurochemistry",
+            "language": "EN"
         },
         {
-            "id": "Nightvision (Ex)"
+            "id": "Nightvision (Ex)",
+            "name": "Nightvision (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Nightvision Processor (Ex)"
+            "id": "Nightvision Processor (Ex)",
+            "name": "Nightvision Processor (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Nimble Fusillade (Ex) (2nd)"
+            "id": "Nimble Fusillade (Ex) (2nd)",
+            "name": "Nimble Fusillade (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Nimble Juggernaut (Ex)"
+            "id": "Nimble Juggernaut (Ex)",
+            "name": "Nimble Juggernaut (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Nimble Stunt"
+            "id": "Nimble Stunt",
+            "name": "Nimble Stunt",
+            "language": "EN"
         },
         {
-            "id": "Not in the Face (Ex)"
+            "id": "Not in the Face (Ex)",
+            "name": "Not in the Face (Ex)",
+            "language": "EN"
         },
         {
-            "id": "On the Bounce (Ex) (5th)"
+            "id": "On the Bounce (Ex) (5th)",
+            "name": "On the Bounce (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Opening Volley (Ex) (1st)"
+            "id": "Opening Volley (Ex) (1st)",
+            "name": "Opening Volley (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Operations Specialist (Ex)"
+            "id": "Operations Specialist (Ex)",
+            "name": "Operations Specialist (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Operative Exploit"
+            "id": "Operative Exploit",
+            "name": "Operative Exploit",
+            "language": "EN"
         },
         {
-            "id": "Operative's Edge (Ex)"
+            "id": "Operative's Edge (Ex)",
+            "name": "Operative's Edge (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Operative’s Arsenal (Ex)"
+            "id": "Operative’s Arsenal (Ex)",
+            "name": "Operative’s Arsenal (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Operative’s Kip-Up"
+            "id": "Operative’s Kip-Up",
+            "name": "Operative’s Kip-Up",
+            "language": "EN"
         },
         {
-            "id": "Optimize (Sp or Su)"
+            "id": "Optimize (Sp or Su)",
+            "name": "Optimize (Sp or Su)",
+            "language": "EN"
         },
         {
-            "id": "Overbearing Stare (Su)"
+            "id": "Overbearing Stare (Su)",
+            "name": "Overbearing Stare (Su)",
+            "language": "EN"
         },
         {
-            "id": "Overcharge (Ex)"
+            "id": "Overcharge (Ex)",
+            "name": "Overcharge (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Overclocking (Ex)"
+            "id": "Overclocking (Ex)",
+            "name": "Overclocking (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Overkill (Ex) (5th)"
+            "id": "Overkill (Ex) (5th)",
+            "name": "Overkill (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Overlapping Forms (Su)"
+            "id": "Overlapping Forms (Su)",
+            "name": "Overlapping Forms (Su)",
+            "language": "EN"
         },
         {
-            "id": "Overload (Ex)"
+            "id": "Overload (Ex)",
+            "name": "Overload (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Overload Weapon (Ex)"
+            "id": "Overload Weapon (Ex)",
+            "name": "Overload Weapon (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Overlord"
+            "id": "Overlord",
+            "name": "Overlord",
+            "language": "EN"
         },
         {
-            "id": "Override (Ex)"
+            "id": "Override (Ex)",
+            "name": "Override (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Painful Injection (Ex)"
+            "id": "Painful Injection (Ex)",
+            "name": "Painful Injection (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Paradigm Shift"
+            "id": "Paradigm Shift",
+            "name": "Paradigm Shift",
+            "language": "EN"
         },
         {
-            "id": "Peer into the Future (Su)"
+            "id": "Peer into the Future (Su)",
+            "name": "Peer into the Future (Su)",
+            "language": "EN"
         },
         {
-            "id": "Peerless Hunter (Ex) (5th)"
+            "id": "Peerless Hunter (Ex) (5th)",
+            "name": "Peerless Hunter (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Perfect Opportunity (Ex) (4th)"
+            "id": "Perfect Opportunity (Ex) (4th)",
+            "name": "Perfect Opportunity (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Phalanx Fighting (Ex)"
+            "id": "Phalanx Fighting (Ex)",
+            "name": "Phalanx Fighting (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Phantom Colossus (Su)"
+            "id": "Phantom Colossus (Su)",
+            "name": "Phantom Colossus (Su)",
+            "language": "EN"
         },
         {
-            "id": "Pharmacology"
+            "id": "Pharmacology",
+            "name": "Pharmacology",
+            "language": "EN"
         },
         {
-            "id": "Phase Shot (Su)"
+            "id": "Phase Shot (Su)",
+            "name": "Phase Shot (Su)",
+            "language": "EN"
         },
         {
-            "id": "Plant Transport (Su)"
+            "id": "Plant Transport (Su)",
+            "name": "Plant Transport (Su)",
+            "language": "EN"
         },
         {
-            "id": "Plasma Immolation (Ex; 7th Level)"
+            "id": "Plasma Immolation (Ex; 7th Level)",
+            "name": "Plasma Immolation (Ex; 7th Level)",
+            "language": "EN"
         },
         {
-            "id": "Plasma Sheath (Su)"
+            "id": "Plasma Sheath (Su)",
+            "name": "Plasma Sheath (Su)",
+            "language": "EN"
         },
         {
-            "id": "Poison-Inured (Su)"
+            "id": "Poison-Inured (Su)",
+            "name": "Poison-Inured (Su)",
+            "language": "EN"
         },
         {
-            "id": "Polymorphic Disguise (Su)"
+            "id": "Polymorphic Disguise (Su)",
+            "name": "Polymorphic Disguise (Su)",
+            "language": "EN"
         },
         {
-            "id": "Portable Charging Station (Ex)"
+            "id": "Portable Charging Station (Ex)",
+            "name": "Portable Charging Station (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Portable Power (Ex)"
+            "id": "Portable Power (Ex)",
+            "name": "Portable Power (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Power Boost (Ex)"
+            "id": "Power Boost (Ex)",
+            "name": "Power Boost (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Power of Legend (Su) (3rd)"
+            "id": "Power of Legend (Su) (3rd)",
+            "name": "Power of Legend (Su) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Powerful Biohacks* (Ex)"
+            "id": "Powerful Biohacks* (Ex)",
+            "name": "Powerful Biohacks* (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Powerful Explosive (Ex; 7th Level)"
+            "id": "Powerful Explosive (Ex; 7th Level)",
+            "name": "Powerful Explosive (Ex; 7th Level)",
+            "language": "EN"
         },
         {
-            "id": "Precise Flanker (Ex) (4th)"
+            "id": "Precise Flanker (Ex) (4th)",
+            "name": "Precise Flanker (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Prepared Shot (Ex) (5th)"
+            "id": "Prepared Shot (Ex) (5th)",
+            "name": "Prepared Shot (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Prevent Wounds (Su)"
+            "id": "Prevent Wounds (Su)",
+            "name": "Prevent Wounds (Su)",
+            "language": "EN"
         },
         {
-            "id": "Primary Field Of Study (Ex)"
+            "id": "Primary Field Of Study (Ex)",
+            "name": "Primary Field Of Study (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Primary Style Technique"
+            "id": "Primary Style Technique",
+            "name": "Primary Style Technique",
+            "language": "EN"
         },
         {
-            "id": "Protective Programming (Ex)"
+            "id": "Protective Programming (Ex)",
+            "name": "Protective Programming (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Prototype Tinkerer (Ex)"
+            "id": "Prototype Tinkerer (Ex)",
+            "name": "Prototype Tinkerer (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Psychokinetic Skills (Sp)"
+            "id": "Psychokinetic Skills (Sp)",
+            "name": "Psychokinetic Skills (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Pummel Through"
+            "id": "Pummel Through",
+            "name": "Pummel Through",
+            "language": "EN"
         },
         {
-            "id": "Push Grenade (Su)"
+            "id": "Push Grenade (Su)",
+            "name": "Push Grenade (Su)",
+            "language": "EN"
         },
         {
-            "id": "Qi Adept"
+            "id": "Qi Adept",
+            "name": "Qi Adept",
+            "language": "EN"
         },
         {
-            "id": "Qi Overflow (Su) (4th)"
+            "id": "Qi Overflow (Su) (4th)",
+            "name": "Qi Overflow (Su) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Qi Strike (Su) (1st)"
+            "id": "Qi Strike (Su) (1st)",
+            "name": "Qi Strike (Su) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Quad Attack (Ex)"
+            "id": "Quad Attack (Ex)",
+            "name": "Quad Attack (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quad Tracking (Ex)"
+            "id": "Quad Tracking (Ex)",
+            "name": "Quad Tracking (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quick Backup (Ex) (2nd)"
+            "id": "Quick Backup (Ex) (2nd)",
+            "name": "Quick Backup (Ex) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Quick Boost (Ex)"
+            "id": "Quick Boost (Ex)",
+            "name": "Quick Boost (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quick Cover (Ex)"
+            "id": "Quick Cover (Ex)",
+            "name": "Quick Cover (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quick Disguise (Ex)"
+            "id": "Quick Disguise (Ex)",
+            "name": "Quick Disguise (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quick Dispiriting Taunt (Ex)"
+            "id": "Quick Dispiriting Taunt (Ex)",
+            "name": "Quick Dispiriting Taunt (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quick Inspiring Boost (Ex)"
+            "id": "Quick Inspiring Boost (Ex)",
+            "name": "Quick Inspiring Boost (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quick Movement (Ex)"
+            "id": "Quick Movement (Ex)",
+            "name": "Quick Movement (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quick Patch (Ex)"
+            "id": "Quick Patch (Ex)",
+            "name": "Quick Patch (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quick Repair (Ex)"
+            "id": "Quick Repair (Ex)",
+            "name": "Quick Repair (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quick Scan (Su)"
+            "id": "Quick Scan (Su)",
+            "name": "Quick Scan (Su)",
+            "language": "EN"
         },
         {
-            "id": "Quick Trick (Ex)"
+            "id": "Quick Trick (Ex)",
+            "name": "Quick Trick (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quick Zero-G Adaptation (Ex)"
+            "id": "Quick Zero-G Adaptation (Ex)",
+            "name": "Quick Zero-G Adaptation (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Quickened Spell (Ex)"
+            "id": "Quickened Spell (Ex)",
+            "name": "Quickened Spell (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Radiant Aura (Su)"
+            "id": "Radiant Aura (Su)",
+            "name": "Radiant Aura (Su)",
+            "language": "EN"
         },
         {
-            "id": "Radiation (Su)"
+            "id": "Radiation (Su)",
+            "name": "Radiation (Su)",
+            "language": "EN"
         },
         {
-            "id": "Rain of Fire (Su)"
+            "id": "Rain of Fire (Su)",
+            "name": "Rain of Fire (Su)",
+            "language": "EN"
         },
         {
-            "id": "Rapid Recovery (Ex) (3rd)"
+            "id": "Rapid Recovery (Ex) (3rd)",
+            "name": "Rapid Recovery (Ex) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Rapid Response (Ex) (1st)"
+            "id": "Rapid Response (Ex) (1st)",
+            "name": "Rapid Response (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Rattling Presence (Ex; Intimidate)"
+            "id": "Rattling Presence (Ex; Intimidate)",
+            "name": "Rattling Presence (Ex; Intimidate)",
+            "language": "EN"
         },
         {
-            "id": "Ray of Light (Su)"
+            "id": "Ray of Light (Su)",
+            "name": "Ray of Light (Su)",
+            "language": "EN"
         },
         {
-            "id": "Reaction"
+            "id": "Reaction",
+            "name": "Reaction",
+            "language": "EN"
         },
         {
-            "id": "Reaction Catalyst (Su)"
+            "id": "Reaction Catalyst (Su)",
+            "name": "Reaction Catalyst (Su)",
+            "language": "EN"
         },
         {
-            "id": "Reaction Embodiment (Su)"
+            "id": "Reaction Embodiment (Su)",
+            "name": "Reaction Embodiment (Su)",
+            "language": "EN"
         },
         {
-            "id": "Reaction Finale (Su)"
+            "id": "Reaction Finale (Su)",
+            "name": "Reaction Finale (Su)",
+            "language": "EN"
         },
         {
-            "id": "Reaction Insight (Ex)"
+            "id": "Reaction Insight (Ex)",
+            "name": "Reaction Insight (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Reactive (Ex)"
+            "id": "Reactive (Ex)",
+            "name": "Reactive (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Reactive Camouflage (Ex)"
+            "id": "Reactive Camouflage (Ex)",
+            "name": "Reactive Camouflage (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Reactive Counter (Su)"
+            "id": "Reactive Counter (Su)",
+            "name": "Reactive Counter (Su)",
+            "language": "EN"
         },
         {
-            "id": "Reactive Resistance (Ex) (3rd)"
+            "id": "Reactive Resistance (Ex) (3rd)",
+            "name": "Reactive Resistance (Ex) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Reactive Resistance (Su)"
+            "id": "Reactive Resistance (Su)",
+            "name": "Reactive Resistance (Su)",
+            "language": "EN"
         },
         {
-            "id": "Reality Stutter (Su)"
+            "id": "Reality Stutter (Su)",
+            "name": "Reality Stutter (Su)",
+            "language": "EN"
         },
         {
-            "id": "Reboot Mind (Su)"
+            "id": "Reboot Mind (Su)",
+            "name": "Reboot Mind (Su)",
+            "language": "EN"
         },
         {
-            "id": "Reductive Plating (Ex)"
+            "id": "Reductive Plating (Ex)",
+            "name": "Reductive Plating (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Reflection (Su)"
+            "id": "Reflection (Su)",
+            "name": "Reflection (Su)",
+            "language": "EN"
         },
         {
-            "id": "Reinvigorating Song (Su)"
+            "id": "Reinvigorating Song (Su)",
+            "name": "Reinvigorating Song (Su)",
+            "language": "EN"
         },
         {
-            "id": "Remote Hack (Ex)"
+            "id": "Remote Hack (Ex)",
+            "name": "Remote Hack (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Repair Drone (Ex)"
+            "id": "Repair Drone (Ex)",
+            "name": "Repair Drone (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Resilient Song (Su)"
+            "id": "Resilient Song (Su)",
+            "name": "Resilient Song (Su)",
+            "language": "EN"
         },
         {
-            "id": "Resist Elements (Su)"
+            "id": "Resist Elements (Su)",
+            "name": "Resist Elements (Su)",
+            "language": "EN"
         },
         {
-            "id": "Resistance (Ex)"
+            "id": "Resistance (Ex)",
+            "name": "Resistance (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Resistant Energy (Ex)"
+            "id": "Resistant Energy (Ex)",
+            "name": "Resistant Energy (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Resolve Analysis (Ex)"
+            "id": "Resolve Analysis (Ex)",
+            "name": "Resolve Analysis (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Resolve Attunement (Ex)"
+            "id": "Resolve Attunement (Ex)",
+            "name": "Resolve Attunement (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Retrocognition (Sp)"
+            "id": "Retrocognition (Sp)",
+            "name": "Retrocognition (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Rewrite the Spheres (Su)"
+            "id": "Rewrite the Spheres (Su)",
+            "name": "Rewrite the Spheres (Su)",
+            "language": "EN"
         },
         {
-            "id": "Riding Saddle (Ex)"
+            "id": "Riding Saddle (Ex)",
+            "name": "Riding Saddle (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Road Hazard (Su)"
+            "id": "Road Hazard (Su)",
+            "name": "Road Hazard (Su)",
+            "language": "EN"
         },
         {
-            "id": "Robot Influence (Ex)"
+            "id": "Robot Influence (Ex)",
+            "name": "Robot Influence (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Robotic Beatdown"
+            "id": "Robotic Beatdown",
+            "name": "Robotic Beatdown",
+            "language": "EN"
         },
         {
-            "id": "Run and Gun (Ex) (4th)"
+            "id": "Run and Gun (Ex) (4th)",
+            "name": "Run and Gun (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Rune of the Eldritch Knight (Su) (1st)"
+            "id": "Rune of the Eldritch Knight (Su) (1st)",
+            "name": "Rune of the Eldritch Knight (Su) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Saboteur (Ex)"
+            "id": "Saboteur (Ex)",
+            "name": "Saboteur (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Sacred Weapon (Su)"
+            "id": "Sacred Weapon (Su)",
+            "name": "Sacred Weapon (Su)",
+            "language": "EN"
         },
         {
-            "id": "Saving Expertise (Ex; Special)"
+            "id": "Saving Expertise (Ex; Special)",
+            "name": "Saving Expertise (Ex; Special)",
+            "language": "EN"
         },
         {
-            "id": "Scientific Method (Ex)"
+            "id": "Scientific Method (Ex)",
+            "name": "Scientific Method (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Scoutbot (Ex)"
+            "id": "Scoutbot (Ex)",
+            "name": "Scoutbot (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Second Vanguard Aspect"
+            "id": "Second Vanguard Aspect",
+            "name": "Second Vanguard Aspect",
+            "language": "EN"
         },
         {
-            "id": "Secondary Connection"
+            "id": "Secondary Connection",
+            "name": "Secondary Connection",
+            "language": "EN"
         },
         {
-            "id": "Secondary Field Of Study (Ex)"
+            "id": "Secondary Field Of Study (Ex)",
+            "name": "Secondary Field Of Study (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Secondary Style Technique"
+            "id": "Secondary Style Technique",
+            "name": "Secondary Style Technique",
+            "language": "EN"
         },
         {
-            "id": "Secret of the Archmagi (Su) (4th)"
+            "id": "Secret of the Archmagi (Su) (4th)",
+            "name": "Secret of the Archmagi (Su) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Secret of the Magi (Su) (2nd)"
+            "id": "Secret of the Magi (Su) (2nd)",
+            "name": "Secret of the Magi (Su) (2nd)",
+            "language": "EN"
         },
         {
-            "id": "Seeking Shot (Su)"
+            "id": "Seeking Shot (Su)",
+            "name": "Seeking Shot (Su)",
+            "language": "EN"
         },
         {
-            "id": "Seize the Advantage (Ex)"
+            "id": "Seize the Advantage (Ex)",
+            "name": "Seize the Advantage (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Selective Explosions"
+            "id": "Selective Explosions",
+            "name": "Selective Explosions",
+            "language": "EN"
         },
         {
-            "id": "Selective Targeting (Ex)"
+            "id": "Selective Targeting (Ex)",
+            "name": "Selective Targeting (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Set-Up"
+            "id": "Set-Up",
+            "name": "Set-Up",
+            "language": "EN"
         },
         {
-            "id": "Shadow Grenade (Su)"
+            "id": "Shadow Grenade (Su)",
+            "name": "Shadow Grenade (Su)",
+            "language": "EN"
         },
         {
-            "id": "Shadow Slide (Sp)"
+            "id": "Shadow Slide (Sp)",
+            "name": "Shadow Slide (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Shaped Infinities (Su)"
+            "id": "Shaped Infinities (Su)",
+            "name": "Shaped Infinities (Su)",
+            "language": "EN"
         },
         {
-            "id": "Share Pain (Su)"
+            "id": "Share Pain (Su)",
+            "name": "Share Pain (Su)",
+            "language": "EN"
         },
         {
-            "id": "Share Resistance (Su)"
+            "id": "Share Resistance (Su)",
+            "name": "Share Resistance (Su)",
+            "language": "EN"
         },
         {
-            "id": "Share Training (Ex) (5th)"
+            "id": "Share Training (Ex) (5th)",
+            "name": "Share Training (Ex) (5th)",
+            "language": "EN"
         },
         {
-            "id": "Sharpshoot"
+            "id": "Sharpshoot",
+            "name": "Sharpshoot",
+            "language": "EN"
         },
         {
-            "id": "Shift Resistance (Su)"
+            "id": "Shift Resistance (Su)",
+            "name": "Shift Resistance (Su)",
+            "language": "EN"
         },
         {
-            "id": "Shifting Immunity (Su)"
+            "id": "Shifting Immunity (Su)",
+            "name": "Shifting Immunity (Su)",
+            "language": "EN"
         },
         {
-            "id": "Shifting Offensive (Su)"
+            "id": "Shifting Offensive (Su)",
+            "name": "Shifting Offensive (Su)",
+            "language": "EN"
         },
         {
-            "id": "Shimmer Guard (Su)"
+            "id": "Shimmer Guard (Su)",
+            "name": "Shimmer Guard (Su)",
+            "language": "EN"
         },
         {
-            "id": "Shock Wave (Ex)"
+            "id": "Shock Wave (Ex)",
+            "name": "Shock Wave (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Shocking Overload (Ex)"
+            "id": "Shocking Overload (Ex)",
+            "name": "Shocking Overload (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Shrug Off the Pain (Ex) (4th)"
+            "id": "Shrug Off the Pain (Ex) (4th)",
+            "name": "Shrug Off the Pain (Ex) (4th)",
+            "language": "EN"
         },
         {
-            "id": "Shuriken Assassin (Ex)"
+            "id": "Shuriken Assassin (Ex)",
+            "name": "Shuriken Assassin (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Sidereal Influence (Su)"
+            "id": "Sidereal Influence (Su)",
+            "name": "Sidereal Influence (Su)",
+            "language": "EN"
         },
         {
-            "id": "Situational Awareness (Ex)"
+            "id": "Situational Awareness (Ex)",
+            "name": "Situational Awareness (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Skill Adept"
+            "id": "Skill Adept",
+            "name": "Skill Adept",
+            "language": "EN"
         },
         {
-            "id": "Skill Expertise (Ex)"
+            "id": "Skill Expertise (Ex)",
+            "name": "Skill Expertise (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Skill Subroutines (Ex)"
+            "id": "Skill Subroutines (Ex)",
+            "name": "Skill Subroutines (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Skill Unit (Ex)"
+            "id": "Skill Unit (Ex)",
+            "name": "Skill Unit (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Skilled Linguist (Ex; Culture)"
+            "id": "Skilled Linguist (Ex; Culture)",
+            "name": "Skilled Linguist (Ex; Culture)",
+            "language": "EN"
         },
         {
-            "id": "Slick Customer (Ex; Diplomacy)"
+            "id": "Slick Customer (Ex; Diplomacy)",
+            "name": "Slick Customer (Ex; Diplomacy)",
+            "language": "EN"
         },
         {
-            "id": "Sliding Disarm (Ex; Improved Combat Maneuver [Disarm])"
+            "id": "Sliding Disarm (Ex; Improved Combat Maneuver [Disarm])",
+            "name": "Sliding Disarm (Ex; Improved Combat Maneuver [Disarm])",
+            "language": "EN"
         },
         {
-            "id": "Smash Through (Ex) (3rd)"
+            "id": "Smash Through (Ex) (3rd)",
+            "name": "Smash Through (Ex) (3rd)",
+            "language": "EN"
         },
         {
-            "id": "Smite Evil (Su)"
+            "id": "Smite Evil (Su)",
+            "name": "Smite Evil (Su)",
+            "language": "EN"
         },
         {
-            "id": "Smuggler's Compartment (Ex)"
+            "id": "Smuggler's Compartment (Ex)",
+            "name": "Smuggler's Compartment (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Sniper's Aim (Ex) (1st)"
+            "id": "Sniper's Aim (Ex) (1st)",
+            "name": "Sniper's Aim (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Sniper’s Stunt"
+            "id": "Sniper’s Stunt",
+            "name": "Sniper’s Stunt",
+            "language": "EN"
         },
         {
-            "id": "Soft Movement (Ex)"
+            "id": "Soft Movement (Ex)",
+            "name": "Soft Movement (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Solar Acceleration (Su)"
+            "id": "Solar Acceleration (Su)",
+            "name": "Solar Acceleration (Su)",
+            "language": "EN"
         },
         {
-            "id": "Solar Armor"
+            "id": "Solar Armor",
+            "name": "Solar Armor",
+            "language": "EN"
         },
         {
-            "id": "Solar Connection (Su)"
+            "id": "Solar Connection (Su)",
+            "name": "Solar Connection (Su)",
+            "language": "EN"
         },
         {
-            "id": "Solar Flare"
+            "id": "Solar Flare",
+            "name": "Solar Flare",
+            "language": "EN"
         },
         {
-            "id": "Solar Incursion (Su)"
+            "id": "Solar Incursion (Su)",
+            "name": "Solar Incursion (Su)",
+            "language": "EN"
         },
         {
-            "id": "Solar Inferno (Su)"
+            "id": "Solar Inferno (Su)",
+            "name": "Solar Inferno (Su)",
+            "language": "EN"
         },
         {
-            "id": "Solar Manifestation (Su)"
+            "id": "Solar Manifestation (Su)",
+            "name": "Solar Manifestation (Su)",
+            "language": "EN"
         },
         {
-            "id": "Solar Shield"
+            "id": "Solar Shield",
+            "name": "Solar Shield",
+            "language": "EN"
         },
         {
-            "id": "Solar Weapon"
+            "id": "Solar Weapon",
+            "name": "Solar Weapon",
+            "language": "EN"
         },
         {
-            "id": "Solarian's Onslaught (Ex)"
+            "id": "Solarian's Onslaught (Ex)",
+            "name": "Solarian's Onslaught (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Soldier's Onslaught (Ex)"
+            "id": "Soldier's Onslaught (Ex)",
+            "name": "Soldier's Onslaught (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Soldier’s Adaptability (Ex; Adaptive Fighting)"
+            "id": "Soldier’s Adaptability (Ex; Adaptive Fighting)",
+            "name": "Soldier’s Adaptability (Ex; Adaptive Fighting)",
+            "language": "EN"
         },
         {
-            "id": "Song of the Celestial Dance (Su)"
+            "id": "Song of the Celestial Dance (Su)",
+            "name": "Song of the Celestial Dance (Su)",
+            "language": "EN"
         },
         {
-            "id": "Song of the Spheres (Su)"
+            "id": "Song of the Spheres (Su)",
+            "name": "Song of the Spheres (Su)",
+            "language": "EN"
         },
         {
-            "id": "Sonic Resonance (Ex; 7th Level)"
+            "id": "Sonic Resonance (Ex; 7th Level)",
+            "name": "Sonic Resonance (Ex; 7th Level)",
+            "language": "EN"
         },
         {
-            "id": "Soul Furnace (Su)"
+            "id": "Soul Furnace (Su)",
+            "name": "Soul Furnace (Su)",
+            "language": "EN"
         },
         {
-            "id": "Sow Doubt (Su)"
+            "id": "Sow Doubt (Su)",
+            "name": "Sow Doubt (Su)",
+            "language": "EN"
         },
         {
-            "id": "Spark Of Ingenuity (Ex)"
+            "id": "Spark Of Ingenuity (Ex)",
+            "name": "Spark Of Ingenuity (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Speak with Animals (Su)"
+            "id": "Speak with Animals (Su)",
+            "name": "Speak with Animals (Su)",
+            "language": "EN"
         },
         {
-            "id": "Special Ops Trainings"
+            "id": "Special Ops Trainings",
+            "name": "Special Ops Trainings",
+            "language": "EN"
         },
         {
-            "id": "Specialization"
+            "id": "Specialization",
+            "name": "Specialization",
+            "language": "EN"
         },
         {
-            "id": "Speed (Ex)"
+            "id": "Speed (Ex)",
+            "name": "Speed (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Speed Hacker (Ex)"
+            "id": "Speed Hacker (Ex)",
+            "name": "Speed Hacker (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Speedy Serums (Ex)"
+            "id": "Speedy Serums (Ex)",
+            "name": "Speedy Serums (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Spell Bond (Su)"
+            "id": "Spell Bond (Su)",
+            "name": "Spell Bond (Su)",
+            "language": "EN"
         },
         {
             "id": "Spell Cache (Su)",
@@ -2010,145 +3342,239 @@
             "description": "<p>&gt; @Compendium[sfrpg.classes.IvLuq2pxKkHJJpae]{Tecnomante}</p><p>Come coronamento dei primi studi condotti sulle forze fondamentali della galassia, si &egrave; creata una cache in cui conservare gli Incantesimi per accedervi in un secondo momento. Questa cache di incantesimi personale potrebbe essere un congegno come un computer portatile o un impianto tecnologico, un oggetto come un anello o un bastone, oppure un simbolo come un marchio, un tatuaggio o un'altra modifica permanente del proprio corpo. Sebbene non si abbia bisogno della cache per lanciare i propri Incantesimi, &egrave; possibile attivarla una volta al giorno per lanciare un qualsiasi incantesimo che si conosca e si sia in grado di lanciare, anche se si sono consumati tutti i propri slot incantesimo per quel livello di Incantesimi.</p><p>Se la cache di incantesimi subisce danni, viene ripristinata al massimo dei Punti Ferita nella successiva occasione in cui si recuperano gli slot incantesimo giornalieri. Se la cache va perduta o viene distrutta, &egrave; possibile sostituirla dopo 1 settimana eseguendo un rituale speciale che richiede 8 ore per essere completato.</p>"
         },
         {
-            "id": "Spell Countermeasures (Ex)"
+            "id": "Spell Countermeasures (Ex)",
+            "name": "Spell Countermeasures (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Spell Focus"
+            "id": "Spell Focus",
+            "name": "Spell Focus",
+            "language": "EN"
         },
         {
-            "id": "Spell Gem Understanding (Su)"
+            "id": "Spell Gem Understanding (Su)",
+            "name": "Spell Gem Understanding (Su)",
+            "language": "EN"
         },
         {
-            "id": "Spell Grenade (Sp)"
+            "id": "Spell Grenade (Sp)",
+            "name": "Spell Grenade (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Spell Library (Ex)"
+            "id": "Spell Library (Ex)",
+            "name": "Spell Library (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Spells (Mystic)"
+            "id": "Spells (Mystic)",
+            "name": "Spells (Mystic)",
+            "language": "EN"
         },
         {
-            "id": "Spells (Technomancer)"
+            "id": "Spells (Technomancer)",
+            "name": "Spells (Technomancer)",
+            "language": "EN"
         },
         {
-            "id": "Spells (Witchwarper)"
+            "id": "Spells (Witchwarper)",
+            "name": "Spells (Witchwarper)",
+            "language": "EN"
         },
         {
-            "id": "Spellshot (Sp)"
+            "id": "Spellshot (Sp)",
+            "name": "Spellshot (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Spider Climber (Su)"
+            "id": "Spider Climber (Su)",
+            "name": "Spider Climber (Su)",
+            "language": "EN"
         },
         {
-            "id": "Spinning Cleave (Ex; Cleave)"
+            "id": "Spinning Cleave (Ex; Cleave)",
+            "name": "Spinning Cleave (Ex; Cleave)",
+            "language": "EN"
         },
         {
-            "id": "Springing Onslaught (Ex; Spring Attack)"
+            "id": "Springing Onslaught (Ex; Spring Attack)",
+            "name": "Springing Onslaught (Ex; Spring Attack)",
+            "language": "EN"
         },
         {
-            "id": "Springing Shot (Ex; Shot on the Run)"
+            "id": "Springing Shot (Ex; Shot on the Run)",
+            "name": "Springing Shot (Ex; Shot on the Run)",
+            "language": "EN"
         },
         {
-            "id": "Spy"
+            "id": "Spy",
+            "name": "Spy",
+            "language": "EN"
         },
         {
-            "id": "Squad"
+            "id": "Squad",
+            "name": "Squad",
+            "language": "EN"
         },
         {
-            "id": "Stable Biohacks (Ex)"
+            "id": "Stable Biohacks (Ex)",
+            "name": "Stable Biohacks (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Staggering Shot (Ex)"
+            "id": "Staggering Shot (Ex)",
+            "name": "Staggering Shot (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Stalwart (Ex)"
+            "id": "Stalwart (Ex)",
+            "name": "Stalwart (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Stalwart Shield (Su)"
+            "id": "Stalwart Shield (Su)",
+            "name": "Stalwart Shield (Su)",
+            "language": "EN"
         },
         {
-            "id": "Star Shaman"
+            "id": "Star Shaman",
+            "name": "Star Shaman",
+            "language": "EN"
         },
         {
-            "id": "Starflight (Su)"
+            "id": "Starflight (Su)",
+            "name": "Starflight (Su)",
+            "language": "EN"
         },
         {
-            "id": "Stargazer (Su)"
+            "id": "Stargazer (Su)",
+            "name": "Stargazer (Su)",
+            "language": "EN"
         },
         {
-            "id": "Starlight Form (Su)"
+            "id": "Starlight Form (Su)",
+            "name": "Starlight Form (Su)",
+            "language": "EN"
         },
         {
-            "id": "Starquake (Su)"
+            "id": "Starquake (Su)",
+            "name": "Starquake (Su)",
+            "language": "EN"
         },
         {
-            "id": "Starry Bond (Su)"
+            "id": "Starry Bond (Su)",
+            "name": "Starry Bond (Su)",
+            "language": "EN"
         },
         {
-            "id": "Steal Life (Su)"
+            "id": "Steal Life (Su)",
+            "name": "Steal Life (Su)",
+            "language": "EN"
         },
         {
-            "id": "Stealth Drone"
+            "id": "Stealth Drone",
+            "name": "Stealth Drone",
+            "language": "EN"
         },
         {
-            "id": "Stealth Warp (Su)"
+            "id": "Stealth Warp (Su)",
+            "name": "Stealth Warp (Su)",
+            "language": "EN"
         },
         {
-            "id": "Stellar Mode (Su)"
+            "id": "Stellar Mode (Su)",
+            "name": "Stellar Mode (Su)",
+            "language": "EN"
         },
         {
-            "id": "Stellar Paragon (Su)"
+            "id": "Stellar Paragon (Su)",
+            "name": "Stellar Paragon (Su)",
+            "language": "EN"
         },
         {
-            "id": "Stellar Revelation"
+            "id": "Stellar Revelation",
+            "name": "Stellar Revelation",
+            "language": "EN"
         },
         {
-            "id": "Stellar Rush (Su)"
+            "id": "Stellar Rush (Su)",
+            "name": "Stellar Rush (Su)",
+            "language": "EN"
         },
         {
-            "id": "Student of Technology (Ex; Engineering)"
+            "id": "Student of Technology (Ex; Engineering)",
+            "name": "Student of Technology (Ex; Engineering)",
+            "language": "EN"
         },
         {
-            "id": "Stunning Shot (Ex)"
+            "id": "Stunning Shot (Ex)",
+            "name": "Stunning Shot (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Stunt and Strike (Ex)"
+            "id": "Stunt and Strike (Ex)",
+            "name": "Stunt and Strike (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Substitute Mind (Su)"
+            "id": "Substitute Mind (Su)",
+            "name": "Substitute Mind (Su)",
+            "language": "EN"
         },
         {
-            "id": "Sudden Shift (Ex)"
+            "id": "Sudden Shift (Ex)",
+            "name": "Sudden Shift (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Suit Up (Su)"
+            "id": "Suit Up (Su)",
+            "name": "Suit Up (Su)",
+            "language": "EN"
         },
         {
-            "id": "Summon Reinforcements (Su)"
+            "id": "Summon Reinforcements (Su)",
+            "name": "Summon Reinforcements (Su)",
+            "language": "EN"
         },
         {
-            "id": "Sunbolt (Su)"
+            "id": "Sunbolt (Su)",
+            "name": "Sunbolt (Su)",
+            "language": "EN"
         },
         {
-            "id": "Superior Covering Fire (Ex)"
+            "id": "Superior Covering Fire (Ex)",
+            "name": "Superior Covering Fire (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Superior Firepower (Ex)"
+            "id": "Superior Firepower (Ex)",
+            "name": "Superior Firepower (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Superior Overcharge (Ex)"
+            "id": "Superior Overcharge (Ex)",
+            "name": "Superior Overcharge (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Superior Rig (Ex)"
+            "id": "Superior Rig (Ex)",
+            "name": "Superior Rig (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Superior Science Officer (Ex)"
+            "id": "Superior Science Officer (Ex)",
+            "name": "Superior Science Officer (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Superlative Constellation (Su)"
+            "id": "Superlative Constellation (Su)",
+            "name": "Superlative Constellation (Su)",
+            "language": "EN"
         },
         {
-            "id": "Superlative Nebula (Su)"
+            "id": "Superlative Nebula (Su)",
+            "name": "Superlative Nebula (Su)",
+            "language": "EN"
         },
         {
             "id": "Supernova (Su)",
@@ -2156,292 +3582,484 @@
             "description": "<p>&gt;@Compendium[sfrpg.class-features.G7p2YIGFTAU6uGjL]{Rivelazione Stellare}</p><p>Quando si &egrave; pienamente armonizzati con i fotoni, come Azione Standard &egrave; possibile infliggere 1d6 danni da fuoco pi&ugrave; 1d6 danni da fuoco aggiuntivi per livello da solarian a tutte le creature entro 3 metri da s&eacute;. Le creature che superano un Tiro Salvezza su Riflessi dimezzano i danni. Al 9&deg; livello si pu&ograve; aumentare il raggio a 4,5 metri, mentre al 17&deg; lo si pu&ograve; incrementare fino a 6 metri. Dopo aver utilizzato questa rivelazione si diviene immediatamente non armonizzati. Supernova funziona come Rivelazione dello Zenit ai fini delle capacit&agrave; che vi fanno riferimento.</p>"
         },
         {
-            "id": "Superserum (Su)"
+            "id": "Superserum (Su)",
+            "name": "Superserum (Su)",
+            "language": "EN"
         },
         {
-            "id": "Suppress Disease (Ex)"
+            "id": "Suppress Disease (Ex)",
+            "name": "Suppress Disease (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Suppress Poison (Ex)"
+            "id": "Suppress Poison (Ex)",
+            "name": "Suppress Poison (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Supreme Operative (Ex)"
+            "id": "Supreme Operative (Ex)",
+            "name": "Supreme Operative (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Sure-Footed (Ex)"
+            "id": "Sure-Footed (Ex)",
+            "name": "Sure-Footed (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Surgeon (Ex; Medicine)"
+            "id": "Surgeon (Ex; Medicine)",
+            "name": "Surgeon (Ex; Medicine)",
+            "language": "EN"
         },
         {
-            "id": "Sustained Determination (Ex)"
+            "id": "Sustained Determination (Ex)",
+            "name": "Sustained Determination (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Swapping Step (Su)"
+            "id": "Swapping Step (Su)",
+            "name": "Swapping Step (Su)",
+            "language": "EN"
         },
         {
-            "id": "Swift Antagonize (Ex)"
+            "id": "Swift Antagonize (Ex)",
+            "name": "Swift Antagonize (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Swift Toss"
+            "id": "Swift Toss",
+            "name": "Swift Toss",
+            "language": "EN"
         },
         {
-            "id": "Swipe"
+            "id": "Swipe",
+            "name": "Swipe",
+            "language": "EN"
         },
         {
-            "id": "Sworn Protector (Su)"
+            "id": "Sworn Protector (Su)",
+            "name": "Sworn Protector (Su)",
+            "language": "EN"
         },
         {
-            "id": "Target-Rich Environment (Ex)"
+            "id": "Target-Rich Environment (Ex)",
+            "name": "Target-Rich Environment (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Tech Countermeasures (Su)"
+            "id": "Tech Countermeasures (Su)",
+            "name": "Tech Countermeasures (Su)",
+            "language": "EN"
         },
         {
-            "id": "Tech Master (Ex)"
+            "id": "Tech Master (Ex)",
+            "name": "Tech Master (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Techlore (Ex)"
+            "id": "Techlore (Ex)",
+            "name": "Techlore (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Technological Medic (Ex)"
+            "id": "Technological Medic (Ex)",
+            "name": "Technological Medic (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Technomantic Proficiency (Ex)"
+            "id": "Technomantic Proficiency (Ex)",
+            "name": "Technomantic Proficiency (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Telepathic Bond (Sp)"
+            "id": "Telepathic Bond (Sp)",
+            "name": "Telepathic Bond (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Telepathic Memories (Su)"
+            "id": "Telepathic Memories (Su)",
+            "name": "Telepathic Memories (Su)",
+            "language": "EN"
         },
         {
-            "id": "Tertiary Field Of Study (Ex)"
+            "id": "Tertiary Field Of Study (Ex)",
+            "name": "Tertiary Field Of Study (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Theorem (Ex)"
+            "id": "Theorem (Ex)",
+            "name": "Theorem (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Thief"
+            "id": "Thief",
+            "name": "Thief",
+            "language": "EN"
         },
         {
-            "id": "Thwart Ability (Su)"
+            "id": "Thwart Ability (Su)",
+            "name": "Thwart Ability (Su)",
+            "language": "EN"
         },
         {
-            "id": "Time Dilation (Su)"
+            "id": "Time Dilation (Su)",
+            "name": "Time Dilation (Su)",
+            "language": "EN"
         },
         {
-            "id": "Tool Arm (Ex)"
+            "id": "Tool Arm (Ex)",
+            "name": "Tool Arm (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Toxic Skin (Ex)"
+            "id": "Toxic Skin (Ex)",
+            "name": "Toxic Skin (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Toxicology"
+            "id": "Toxicology",
+            "name": "Toxicology",
+            "language": "EN"
         },
         {
-            "id": "Tranq Dart (Ex)"
+            "id": "Tranq Dart (Ex)",
+            "name": "Tranq Dart (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Transcendence (Sp)"
+            "id": "Transcendence (Sp)",
+            "name": "Transcendence (Sp)",
+            "language": "EN"
         },
         {
-            "id": "Translocational Recall (Su)"
+            "id": "Translocational Recall (Su)",
+            "name": "Translocational Recall (Su)",
+            "language": "EN"
         },
         {
-            "id": "Treat Condition (Ex)"
+            "id": "Treat Condition (Ex)",
+            "name": "Treat Condition (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Treatment Mastery (Ex)"
+            "id": "Treatment Mastery (Ex)",
+            "name": "Treatment Mastery (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Trick Attack (Ex)"
+            "id": "Trick Attack (Ex)",
+            "name": "Trick Attack (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Triple Attack (Ex)"
+            "id": "Triple Attack (Ex)",
+            "name": "Triple Attack (Ex)",
+            "language": "EN"
         },
         {
-            "id": "True AI (Ex)"
+            "id": "True AI (Ex)",
+            "name": "True AI (Ex)",
+            "language": "EN"
         },
         {
-            "id": "True Expertise (Ex)"
+            "id": "True Expertise (Ex)",
+            "name": "True Expertise (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Twin Tracking (Ex)"
+            "id": "Twin Tracking (Ex)",
+            "name": "Twin Tracking (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Ultimate Graviton (Su)"
+            "id": "Ultimate Graviton (Su)",
+            "name": "Ultimate Graviton (Su)",
+            "language": "EN"
         },
         {
-            "id": "Ultimate Photon (Su)"
+            "id": "Ultimate Photon (Su)",
+            "name": "Ultimate Photon (Su)",
+            "language": "EN"
         },
         {
-            "id": "Ultraclocking (Ex)"
+            "id": "Ultraclocking (Ex)",
+            "name": "Ultraclocking (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Ultraviolet Pulse (Su)"
+            "id": "Ultraviolet Pulse (Su)",
+            "name": "Ultraviolet Pulse (Su)",
+            "language": "EN"
         },
         {
-            "id": "Unburdened Shield (Ex)"
+            "id": "Unburdened Shield (Ex)",
+            "name": "Unburdened Shield (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Uncanny Agility (Ex) (Operative)"
+            "id": "Uncanny Agility (Ex) (Operative)",
+            "name": "Uncanny Agility (Ex) (Operative)",
+            "language": "EN"
         },
         {
-            "id": "Uncanny Agility (Ex) (Vanguard)"
+            "id": "Uncanny Agility (Ex) (Vanguard)",
+            "name": "Uncanny Agility (Ex) (Vanguard)",
+            "language": "EN"
         },
         {
-            "id": "Uncanny Mobility (Ex)"
+            "id": "Uncanny Mobility (Ex)",
+            "name": "Uncanny Mobility (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Uncanny Pilot (Ex)"
+            "id": "Uncanny Pilot (Ex)",
+            "name": "Uncanny Pilot (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Uncanny Senses (Ex)"
+            "id": "Uncanny Senses (Ex)",
+            "name": "Uncanny Senses (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Uncanny Shooter (Ex)"
+            "id": "Uncanny Shooter (Ex)",
+            "name": "Uncanny Shooter (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Uncanny Speed (Ex)"
+            "id": "Uncanny Speed (Ex)",
+            "name": "Uncanny Speed (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Unfold Existences (Su)"
+            "id": "Unfold Existences (Su)",
+            "name": "Unfold Existences (Su)",
+            "language": "EN"
         },
         {
-            "id": "Universal Choir (Su)"
+            "id": "Universal Choir (Su)",
+            "name": "Universal Choir (Su)",
+            "language": "EN"
         },
         {
-            "id": "Universal Diplomat (Ex; Diplomacy)"
+            "id": "Universal Diplomat (Ex; Diplomacy)",
+            "name": "Universal Diplomat (Ex; Diplomacy)",
+            "language": "EN"
         },
         {
-            "id": "Universal Expression (Ex)"
+            "id": "Universal Expression (Ex)",
+            "name": "Universal Expression (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Unveil Reality (Su)"
+            "id": "Unveil Reality (Su)",
+            "name": "Unveil Reality (Su)",
+            "language": "EN"
         },
         {
-            "id": "Upgraded Power Core (Ex)"
+            "id": "Upgraded Power Core (Ex)",
+            "name": "Upgraded Power Core (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Vanguard Discipline"
+            "id": "Vanguard Discipline",
+            "name": "Vanguard Discipline",
+            "language": "EN"
         },
         {
-            "id": "Versatile Design (Ex) (Armor)"
+            "id": "Versatile Design (Ex) (Armor)",
+            "name": "Versatile Design (Ex) (Armor)",
+            "language": "EN"
         },
         {
-            "id": "Versatile Design (Su) (Weapon)"
+            "id": "Versatile Design (Su) (Weapon)",
+            "name": "Versatile Design (Su) (Weapon)",
+            "language": "EN"
         },
         {
-            "id": "Versatile Movement (Ex)"
+            "id": "Versatile Movement (Ex)",
+            "name": "Versatile Movement (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Vigilance (Ex) (1st)"
+            "id": "Vigilance (Ex) (1st)",
+            "name": "Vigilance (Ex) (1st)",
+            "language": "EN"
         },
         {
-            "id": "Visual Data Processor (Ex)"
+            "id": "Visual Data Processor (Ex)",
+            "name": "Visual Data Processor (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Vital Reinforcement (Su)"
+            "id": "Vital Reinforcement (Su)",
+            "name": "Vital Reinforcement (Su)",
+            "language": "EN"
         },
         {
-            "id": "Volleying Bombardment (Ex; Opening Volley)"
+            "id": "Volleying Bombardment (Ex; Opening Volley)",
+            "name": "Volleying Bombardment (Ex; Opening Volley)",
+            "language": "EN"
         },
         {
-            "id": "Walk the Void (Su)"
+            "id": "Walk the Void (Su)",
+            "name": "Walk the Void (Su)",
+            "language": "EN"
         },
         {
-            "id": "Wall Dasher"
+            "id": "Wall Dasher",
+            "name": "Wall Dasher",
+            "language": "EN"
         },
         {
-            "id": "Warmonger"
+            "id": "Warmonger",
+            "name": "Warmonger",
+            "language": "EN"
         },
         {
-            "id": "Watch Out (Ex)"
+            "id": "Watch Out (Ex)",
+            "name": "Watch Out (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Watch Your Step (Ex)"
+            "id": "Watch Your Step (Ex)",
+            "name": "Watch Your Step (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Mount (Ex)"
+            "id": "Weapon Mount (Ex)",
+            "name": "Weapon Mount (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Proficiency (Ex)"
+            "id": "Weapon Proficiency (Ex)",
+            "name": "Weapon Proficiency (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Proficiency (Ex) (Mystic)"
+            "id": "Weapon Proficiency (Ex) (Mystic)",
+            "name": "Weapon Proficiency (Ex) (Mystic)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Prototype Proficiency (Ex)"
+            "id": "Weapon Prototype Proficiency (Ex)",
+            "name": "Weapon Prototype Proficiency (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Specialization (Ex) (Biohacker)"
+            "id": "Weapon Specialization (Ex) (Biohacker)",
+            "name": "Weapon Specialization (Ex) (Biohacker)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Specialization (Ex) (Envoy)"
+            "id": "Weapon Specialization (Ex) (Envoy)",
+            "name": "Weapon Specialization (Ex) (Envoy)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Specialization (Ex) (Mechanic)"
+            "id": "Weapon Specialization (Ex) (Mechanic)",
+            "name": "Weapon Specialization (Ex) (Mechanic)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Specialization (Ex) (Mystic)"
+            "id": "Weapon Specialization (Ex) (Mystic)",
+            "name": "Weapon Specialization (Ex) (Mystic)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Specialization (Ex) (Operative)"
+            "id": "Weapon Specialization (Ex) (Operative)",
+            "name": "Weapon Specialization (Ex) (Operative)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Specialization (Ex) (Solarian)"
+            "id": "Weapon Specialization (Ex) (Solarian)",
+            "name": "Weapon Specialization (Ex) (Solarian)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Specialization (Ex) (Soldier)"
+            "id": "Weapon Specialization (Ex) (Soldier)",
+            "name": "Weapon Specialization (Ex) (Soldier)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Specialization (Ex) (Technomancer)"
+            "id": "Weapon Specialization (Ex) (Technomancer)",
+            "name": "Weapon Specialization (Ex) (Technomancer)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Specialization (Ex) (Vanguard)"
+            "id": "Weapon Specialization (Ex) (Vanguard)",
+            "name": "Weapon Specialization (Ex) (Vanguard)",
+            "language": "EN"
         },
         {
-            "id": "Weapon Specialization (Ex) (Witchwarper)"
+            "id": "Weapon Specialization (Ex) (Witchwarper)",
+            "name": "Weapon Specialization (Ex) (Witchwarper)",
+            "language": "EN"
         },
         {
-            "id": "Weapons of War (Su)"
+            "id": "Weapons of War (Su)",
+            "name": "Weapons of War (Su)",
+            "language": "EN"
         },
         {
-            "id": "Well Informed (Ex; Diplomacy)"
+            "id": "Well Informed (Ex; Diplomacy)",
+            "name": "Well Informed (Ex; Diplomacy)",
+            "language": "EN"
         },
         {
-            "id": "Widened Spell (Ex)"
+            "id": "Widened Spell (Ex)",
+            "name": "Widened Spell (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Wireless Hack (Ex)"
+            "id": "Wireless Hack (Ex)",
+            "name": "Wireless Hack (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Without a Trace (Ex)"
+            "id": "Without a Trace (Ex)",
+            "name": "Without a Trace (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Wordless Pidgin"
+            "id": "Wordless Pidgin",
+            "name": "Wordless Pidgin",
+            "language": "EN"
         },
         {
-            "id": "Wormholes (Su)"
+            "id": "Wormholes (Su)",
+            "name": "Wormholes (Su)",
+            "language": "EN"
         },
         {
-            "id": "Wrathful Warrior"
+            "id": "Wrathful Warrior",
+            "name": "Wrathful Warrior",
+            "language": "EN"
         },
         {
-            "id": "Wrecking Fists (Su)"
+            "id": "Wrecking Fists (Su)",
+            "name": "Wrecking Fists (Su)",
+            "language": "EN"
         },
         {
-            "id": "Wrecking Spells (Ex)"
+            "id": "Wrecking Spells (Ex)",
+            "name": "Wrecking Spells (Ex)",
+            "language": "EN"
         },
         {
-            "id": "Xenodruid"
+            "id": "Xenodruid",
+            "name": "Xenodruid",
+            "language": "EN"
         },
         {
-            "id": "Zenith Revelation"
+            "id": "Zenith Revelation",
+            "name": "Zenith Revelation",
+            "language": "EN"
         },
         {
-            "id": "Zero-Gravity Scuffler (Su)"
+            "id": "Zero-Gravity Scuffler (Su)",
+            "name": "Zero-Gravity Scuffler (Su)",
+            "language": "EN"
         }
     ]
 }
