@@ -1,0 +1,57 @@
+.system-sfrpg .token-sheet .window-content nav.sheet-tabs a.item {
+    display: block;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.sfrpg label.checkbox, .system-sfrpg .spell-action, .system-sfrpg .form-group button {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.system-sfrpg h4.attribute-name.box-title {
+    letter-spacing: -1px;
+}
+
+.system-sfrpg .settings h3, .sfrpg.sheet.item .sheet-header .summary li.wide, .sfrpg.sheet.item .sheet-header .summary li.short {
+    flex: auto;
+}
+
+.system-sfrpg .spellbook-header .item-controls {
+    white-space: nowrap;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.system-sfrpg .spell-action {
+    padding-left: 5px;
+}
+
+.sfrpg label.checkbox input[type="checkbox"] {
+    margin-right: 0px;
+}
+
+.sfrpg.sheet.actor.starship .sheet-body .attributes .attribute .attribute-value label.notInstalled {
+    white-space: nowrap;
+    padding-right: 2px;
+}
+
+.sfrpg.sheet.actor .traits label {
+    flex: 0 0 167px;
+}
+
+.sfrpg.sheet.actor.character .sheet-header .attributes .attribute .attribute-name {
+    white-space: nowrap;
+}
+
+.system-sfrpg #combat #combat-round .encounters>div {
+    height: 64px;
+}
+
+.system-sfrpg #combat #combat-round .encounters>div h4 {
+    position: absolute;
+    width: 100%;
+    left: 0;
+}
