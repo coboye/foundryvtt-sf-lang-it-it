@@ -13,6 +13,15 @@
   }],
 
   "author": "Coboye",
+  "authors": [
+      {
+          "name": "Coboye",
+          "discord": "Coboye#4996"
+      }
+  ],
+  "systems": [
+      "sfrpg"
+  ],
   "esmodules": ["babele-register.js"],
   "scripts": [],
   "styles": [
