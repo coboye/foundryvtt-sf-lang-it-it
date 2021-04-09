@@ -5,10 +5,27 @@
     overflow: hidden;
 }
 
-.system-sfrpg a.item-control.item-create, .sfrpg label.checkbox, .system-sfrpg .spell-action, .system-sfrpg .form-group button {
+.system-sfrpg a.item-control.item-create, .sfrpg label.checkbox, .system-sfrpg .spell-action {
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
+}
+
+.system-sfrpg .form-group button {
+    text-overflow: ellipsis;
+}
+
+.sfrpg.sheet.actor.drone .attributes .initiative .attribute-footer input, .sfrpg.sheet.actor.drone .attributes .save .attribute-footer input {
+    width: 28px;
+}
+
+.sfrpg.sheet.actor ul.attributes li.attribute .attribute-footer {
+    font-size: 11px;
+}
+
+.system-sfrpg #client-settings nav.tabs .item {
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .system-sfrpg h4.attribute-name.box-title {
@@ -25,8 +42,6 @@
 
 .system-sfrpg .spellbook-header .item-controls {
     white-space: nowrap;
-    padding-left: 4px;
-    padding-right: 4px;
 }
 
 .system-sfrpg .spell-action {
