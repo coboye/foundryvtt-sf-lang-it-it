@@ -1,4 +1,525 @@
 {
-    "label": "Talenti",
-    "entries": []
+  "label": "Talenti",
+  "entries": [
+    {
+      "id": "Adaptive Fighting (Combat)",
+      "name": "Combattente Versatile (Combattimento)",
+      "description": "<p>Si può modificare il proprio stile di combattimento per adattarlo a condizioni specifiche che si verificano durante lo scontro.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Adaptive Fighting (Combat) --"
+    },
+    {
+      "id": "Advanced Melee Weapon Proficiency (Combat)",
+      "name": "Competenza nelle Armi da Mischia Avanzate (Combattimento)",
+      "description": "<p>Si è capaci di utilizzare le armi da mischia avanzate.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Advanced Melee Weapon Proficiency (Combat) --"
+    },
+    {
+      "id": "Agile Casting",
+      "name": "Incantare Agile",
+      "description": "<p>È possibile muoversi, lanciare un incantesimo e muoversi di nuovo prima che i nemici reagiscano.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Agile Casting --"
+    },
+    {
+      "id": "Amplified Glitch (Combat)",
+      "name": "Glitch Amplificato (Combattimento)",
+      "description": "<p>Si creano improvvise distrazioni sfruttando congegni tecnologici.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Amplified Glitch (Combat) --"
+    },
+    {
+      "id": "Antagonize",
+      "name": "Inimicare",
+      "description": "<p>Si sa come rendere i nemici estremamente furiosi nei propri confronti.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Antagonize --"
+    },
+    {
+      "id": "Barricade (Combat)",
+      "name": "Barricate (Combattimento)",
+      "description": "<p>Si è esperti nell’allestire rapidamente coperture temporanee.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Barricade (Combat) --"
+    },
+    {
+      "id": "Basic Melee Weapon Proficiency (Combat)",
+      "name": "Competenza nelle Armi da Mischia Base (Combattimento)",
+      "description": "<p>Si sa come utilizzare le armi da mischia base.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Basic Melee Weapon Proficiency (Combat) --"
+    },
+    {
+      "id": "Blind-Fight (Combat)",
+      "name": "Combattere alla Cieca (Combattimento)",
+      "description": "<p>Si è abili nell’attaccare gli avversari che non si riescono a vedere chiaramente.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Blind-Fight (Combat) --"
+    },
+    {
+      "id": "Bodyguard (Combat)",
+      "name": "Guardia del Corpo (Combattimento)",
+      "description": "<p>Si può tentare di prevenire gli attacchi diretti contro alleati nelle proprie vicinanze.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Bodyguard (Combat) --"
+    },
+    {
+      "id": "Cleave (Combat)",
+      "name": "Incalzare (Combattimento)",
+      "description": "<p>Si possono colpire due nemici adiacenti con un singolo colpo.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Cleave (Combat) --"
+    },
+    {
+      "id": "Climbing Master",
+      "name": "Maestro Scalatore",
+      "description": "<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Climbing Master --"
+    },
+    {
+      "id": "Close Combat (Combat)",
+      "name": "Corpo a Corpo (Combattimento)",
+      "description": "<p>Quando <a href=\"https://starfinder.altervista.org/wiki//Attacchi_in_Mischia\" class=\"mw-redirect\" title=\"Attacchi in Mischia\">Attacchi in Mischia</a> un avversario, sai come posizionarti in modo che i tuoi nemici trovino più difficile prenderti di mira.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Close Combat (Combat) --"
+    },
+    {
+      "id": "Combat Casting (Combat)",
+      "name": "Incantare in Combattimento (Combattimento)",
+      "description": "<p>Si presta meno il fianco ai nemici quando si lancia un incantesimo.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Combat Casting (Combat) --"
+    },
+    {
+      "id": "Connection Inkling",
+      "name": "Barlume di Connessione",
+      "description": "<p>Si ottiene un briciolo di potere mistico.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Connection Inkling --"
+    },
+    {
+      "id": "Coordinated Shot (Combat)",
+      "name": "Tiro Coordinato (Combattimento)",
+      "description": "<p>Si può far muovere un nemico in modo che si trovi direttamente sulla linea di tiro di un alleato.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Coordinated Shot (Combat) --"
+    },
+    {
+      "id": "Deadly Aim (Combat)",
+      "name": "Mira Letale (Combattimento)",
+      "description": "<p>Si riesce a colpire i punti deboli dei nemici e infliggere più danni.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Deadly Aim (Combat) --"
+    },
+    {
+      "id": "Deflect Projectiles (Combat)",
+      "name": "Deviare Proiettili (Combattimento)",
+      "description": "<p>Si possono utilizzare le proprie armi da mischia per deviare gli attacchi.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Deflect Projectiles (Combat) --"
+    },
+    {
+      "id": "Diehard",
+      "name": "Duro a Morire",
+      "description": "<p>Si è particolarmente difficili da uccidere. Nel caso si subiscano ferite gravi, esse si stabilizzano rapidamente.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Diehard --"
+    },
+    {
+      "id": "Dive for Cover (Combat)",
+      "name": "Gettarsi in Copertura (Combattimento)",
+      "description": "<p>Ci si sa tuffare per evitare l’area di un effetto.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Dive for Cover (Combat) --"
+    },
+    {
+      "id": "Diversion",
+      "name": "Diversione",
+      "description": "<p>Si attira l’attenzione per permettere agli alleati di sgattaiolare via.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Diversion --"
+    },
+    {
+      "id": "Divine Blessing",
+      "name": "Benedizione Divina",
+      "description": "<p>Trai potere dalla <a href=\"https://starfinder.altervista.org/wiki//Religione\" title=\"Religione\">Divinità</a> di cui sei un fedele devoto.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Divine Blessing --"
+    },
+    {
+      "id": "Drag Down (Combat)",
+      "name": "Trascinare a Terra (Combattimento)",
+      "description": "<p>Si è abili nel trascinarsi dietro l’avversario quando si viene fatti cadere <a href=\"https://starfinder.altervista.org/wiki//Prono\" title=\"Prono\">Proni</a>.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Drag Down (Combat) --"
+    },
+    {
+      "id": "Enhanced Resistance",
+      "name": "Resistenza Migliorata",
+      "description": "<p>Ci si è addestrati per resistere a un particolare tipo di danni.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Enhanced Resistance --"
+    },
+    {
+      "id": "Extended Telepathy",
+      "name": "Telepatia Estesa",
+      "description": "<p>Hai potenziato i tuoi poteri telepatici latenti.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Extended Telepathy --"
+    },
+    {
+      "id": "Extra Resolve",
+      "name": "Risolutezza Extra",
+      "description": "<p>La propria risolutezza è più salda della norma.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Extra Resolve --"
+    },
+    {
+      "id": "Far Shot (Combat)",
+      "name": "Tiro Lontano (Combattimento)",
+      "description": "<p>Si mantiene la propria accuratezza a gittate maggiori.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Far Shot (Combat) --"
+    },
+    {
+      "id": "Fast Talk",
+      "name": "Loquace",
+      "description": "<p>Si riesce a confondere un nemico con le chiacchiere per mascherare l’inizio della battaglia.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Fast Talk --"
+    },
+    {
+      "id": "Fleet (Combat)",
+      "name": "Agile (Combattimento)",
+      "description": "<p>Si è più veloci della norma.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Fleet (Combat) --"
+    },
+    {
+      "id": "Focused Spellcaster (Combat)",
+      "name": "Incantare Concentrato (Combattimento)",
+      "description": "<p>Hai imparato a ignorare le ferite che interferirebbero con la concentrazione richiesta per lanciare un incantesimo.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Focused Spellcaster (Combat) --"
+    },
+    {
+      "id": "Fusillade (Combat)",
+      "name": "Raffica (Combattimento)",
+      "description": "<p>Si utilizzano i numerosi arti di cui si dispone per scatenare una gragnuola di proiettili.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Fusillade (Combat) --"
+    },
+    {
+      "id": "Great Cleave (Combat)",
+      "name": "Incalzare Potenziato (Combattimento)",
+      "description": "<p>Si possono colpire molti nemici adiacenti con un colpo solo.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Great Cleave (Combat) --"
+    },
+    {
+      "id": "Great Fortitude",
+      "name": "Tempra Possente",
+      "description": "<p>Si diviene più resistenti a malattie, veleni e altre afflizioni.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Great Fortitude --"
+    },
+    {
+      "id": "Greater Feint (Combat)",
+      "name": "Fintare Superiore (Combattimento)",
+      "description": "<p>Si è abili nel trarre in inganno i propri nemici in combattimento.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Greater Feint (Combat) --"
+    },
+    {
+      "id": "Greater Spell Penetration",
+      "name": "Incantesimi Inarrestabili Superiore",
+      "description": "<p>I propri incantesimi penetrano la resistenza agli incantesimi molto più facilmente del normale.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Greater Spell Penetration --"
+    },
+    {
+      "id": "Grenade Proficiency (Combat)",
+      "name": "Competenza nelle Granate (Combattimento)",
+      "description": "<p>Si è esperti nell’utilizzo delle granate.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Grenade Proficiency (Combat) --"
+    },
+    {
+      "id": "Harm Undead",
+      "name": "Ferire Non Morti",
+      "description": "<p>Si può utilizzare incanalare guarigione per ferire i <a href=\"https://starfinder.altervista.org/wiki//Tipo_Non_Morto\" title=\"Tipo Non Morto\">Non Morti</a>.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Harm Undead --"
+    },
+    {
+      "id": "Heavy Armor Proficiency (Combat)",
+      "name": "Competenza nelle Armature Pesanti (Combattimento)",
+      "description": "<p>Si è capaci di utilizzare le armature pesanti.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Heavy Armor Proficiency (Combat) --"
+    },
+    {
+      "id": "Heavy Weapon Proficiency (Combat)",
+      "name": "Competenza nelle Armi Pesanti (Combattimento)",
+      "description": "<p>Si sa come utilizzare le armi pesanti.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Heavy Weapon Proficiency (Combat) --"
+    },
+    {
+      "id": "Improved Combat Maneuver (Combat)",
+      "name": "Manovra di Combattimento Migliorata (Combattimento)",
+      "description": "<p>Si è particolarmente abili in una specifica <a href=\"https://starfinder.altervista.org/wiki//Manovra_di_Combattimento\" class=\"mw-redirect\" title=\"Manovra di Combattimento\">Manovra di Combattimento</a>.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Improved Combat Maneuver (Combat) --"
+    },
+    {
+      "id": "Improved Critical (Combat)",
+      "name": "Critico Migliorato (Combattimento)",
+      "description": "<p>Gli attacchi effettuati con l’arma prescelta risultano più difficili da ignorare.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Improved Critical (Combat) --"
+    },
+    {
+      "id": "Improved Feint (Combat)",
+      "name": "Fintare Migliorato (Combattimento)",
+      "description": "<p>Si è esperti nel trarre in inganno gli avversari durante il combattimento.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Improved Feint (Combat) --"
+    },
+    {
+      "id": "Improved Great Fortitude",
+      "name": "Tempra Possente Migliorata",
+      "description": "<p>Si è più resistenti a malattie, veleni e pericoli.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Improved Great Fortitude --"
+    },
+    {
+      "id": "Improved Initiative (Combat)",
+      "name": "Iniziativa Migliorata (Combattimento)",
+      "description": "<p>Grazie ai propri riflessi scattanti si reagisce velocemente ai pericoli.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Improved Initiative (Combat) --"
+    },
+    {
+      "id": "Improved Iron Will",
+      "name": "Volontà di Ferro Migliorata",
+      "description": "<p>La propria lucidità di pensiero permette di resistere agli attacchi mentali.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Improved Iron Will --"
+    },
+    {
+      "id": "Improved Lightning Reflexes",
+      "name": "Riflessi Fulminei Migliorati",
+      "description": "<p>Si è abili nell'evitare i pericoli.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Improved Lightning Reflexes --"
+    },
+    {
+      "id": "Improved Sidestep (Combat)",
+      "name": "Passo Laterale Migliorato (Combattimento)",
+      "description": "<p>Si mantiene la propria mobilità quando si effettua un passo laterale per sottrarsi agli attacchi in mischia dei nemici.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Improved Sidestep (Combat) --"
+    },
+    {
+      "id": "Improved Stand Still (Combat)",
+      "name": "Immobile Migliorato (Combattimento)",
+      "description": "<p>Si è particolarmente abili nel fermare i nemici sul posto.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Improved Stand Still (Combat) --"
+    },
+    {
+      "id": "Improved Unarmed Strike (Combat)",
+      "name": "Colpo Senz'Armi Migliorato (Combattimento)",
+      "description": "<p>Ci si è addestrati per rendere letali i propri colpi senz’armi e attaccare con calci, testate e attacchi similari.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Improved Unarmed Strike (Combat) --"
+    },
+    {
+      "id": "In Harm’s Way (Combat)",
+      "name": "Davanti al Pericolo (Combattimento)",
+      "description": "<p>Per salvare i propri alleati ci si frappone tra loro e il pericolo.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- In Harm’s Way (Combat) --"
+    },
+    {
+      "id": "Iron Will",
+      "name": "Volontà di Ferro",
+      "description": "<p>Si è più resistenti agli effetti mentali.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Iron Will --"
+    },
+    {
+      "id": "Jet Dash",
+      "name": "Corsa Veloce",
+      "description": "<p>Si è rapidi di gambe e si riescono a compiere balzi enormi.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Jet Dash --"
+    },
+    {
+      "id": "Kasathan Battle Dance (Combat)",
+      "name": "Danza di Combattimento Kasathana (Combattimento)",
+      "description": "<p>Hai studiato le leggendarie danze di combattimento kasathane. Ti muovi con grazia, guidando il corpo e le braccia in fluidi movimenti che confondono i tuoi nemici.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Kasathan Battle Dance (Combat) --"
+    },
+    {
+      "id": "Kip Up (Combat)",
+      "name": "Saltare in Piedi (Combattimento)",
+      "description": "<p>Ci si alza da <a href=\"https://starfinder.altervista.org/wiki//Prono\" title=\"Prono\">Prono</a> in men che non si dica.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Kip Up (Combat) --"
+    },
+    {
+      "id": "Light Armor Proficiency (Combat)",
+      "name": "Competenza nelle Armature Leggere (Combattimento)",
+      "description": "<p>Si è in grado di utilizzare le armature leggere.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Light Armor Proficiency (Combat) --"
+    },
+    {
+      "id": "Lightning Reflexes",
+      "name": "Riflessi Fulminei",
+      "description": "<p>Si hanno tempi di reazione più veloci del normale.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Lightning Reflexes --"
+    },
+    {
+      "id": "Longarm Proficiency (Combat)",
+      "name": "Competenza nelle Armi Lunghe (Combattimento)",
+      "description": "<p>Si è competenti nell’utilizzo delle armi lunghe.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Longarm Proficiency (Combat) --"
+    },
+    {
+      "id": "Lunge (Combat)",
+      "name": "Stoccata (Combattimento)",
+      "description": "<p>Si possono attaccare nemici che normalmente sarebbero fuori <a href=\"https://starfinder.altervista.org/wiki//Movimento_e_Posizione#Portata_e_Quadretti_Minacciati\" title=\"Movimento e Posizione\">Portata</a>.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Lunge (Combat) --"
+    },
+    {
+      "id": "Major Psychic Power",
+      "name": "Potere Psichico Maggiore",
+      "description": "<p>Si possiede una significativa capacità psichica innata.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Major Psychic Power --"
+    },
+    {
+      "id": "Major Stage Magic",
+      "name": "Magia da Palcoscenico Maggiore",
+      "description": "<p>Crei illusioni che hanno il potere di distrarre, ingannare o intrattenere il pubblico.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Major Stage Magic --"
+    },
+    {
+      "id": "Master Crafter",
+      "name": "Mastro Artigiano",
+      "description": "<p>Si riesce a costruire gli oggetti più rapidamente del normale.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Master Crafter --"
+    },
+    {
+      "id": "Medical Expert",
+      "name": "Medico Esperto",
+      "description": "<p>Si è esperti nelle scienze mediche e nella cura dei malati.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Medical Expert --"
+    },
+    {
+      "id": "Minor Psychic Power",
+      "name": "Potere Psichico Minore",
+      "description": "<p>Si possiede una capacità psichica minore innata.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Minor Psychic Power --"
+    },
+    {
+      "id": "Minor Stage Magic",
+      "name": "Magia da Palcoscenico Minore",
+      "description": "<p>Personalità dello spettacolo e icone provenienti da case di intrattenimento come lo <a href=\"https://starfinder.altervista.org/wiki//Stadiatro_Hamisfore\" title=\"Stadiatro Hamisfore\">Stadiatro Hamisfore</a> sulla <a href=\"https://starfinder.altervista.org/wiki//Stazione_Absalom\" title=\"Stazione Absalom\">Stazione Absalom</a> e le <a href=\"https://starfinder.altervista.org/wiki//Sale_dei_Viventi\" title=\"Sale dei Viventi\">Sale dei Viventi</a> su <a href=\"https://starfinder.altervista.org/wiki//Eox\" title=\"Eox\">Eox</a>, comprendono bene l'importanza della performance. Che sia merito di un famoso mentore o della tua creatività, hai sviluppato un trucco magico minore che ha il potere di distrarre o intrattenere il tuo pubblico.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Minor Stage Magic --"
+    },
+    {
+      "id": "Mobility (Combat)",
+      "name": "Mobilità (Combattimento)",
+      "description": "<p>Si riesce a oltrepassare nemici pericolosi con facilità.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Mobility (Combat) --"
+    },
+    {
+      "id": "Multi-Weapon Fighting (Combat)",
+      "name": "Combattere con Più Armi (Combattimento)",
+      "description": "<p>Si è in grado di combattere con diverse armi leggere alla volta e si sa come sfruttare gli attacchi multipli.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Multi-Weapon Fighting (Combat) --"
+    },
+    {
+      "id": "Mystic Strike (Combat)",
+      "name": "Colpo Mistico (Combattimento)",
+      "description": "<p>Si infonde il proprio potere arcano nelle armi che si utilizzano.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Mystic Strike (Combat) --"
+    },
+    {
+      "id": "Nimble Moves (Combat)",
+      "name": "Passo Leggero (Combattimento)",
+      "description": "<p>Si riesce a superare con facilità un singolo ostacolo.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Nimble Moves (Combat) --"
+    },
+    {
+      "id": "Opening Volley (Combat)",
+      "name": "Salva Iniziale (Combattimento)",
+      "description": "<p>Si attacca a distanza, lasciando il nemico disorientato e vulnerabile al proprio prossimo <a href=\"https://starfinder.altervista.org/wiki//Attacchi_in_Mischia\" class=\"mw-redirect\" title=\"Attacchi in Mischia\">Attacco in Mischia</a>.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Opening Volley (Combat) --"
+    },
+    {
+      "id": "Parting Shot (Combat)",
+      "name": "Tirare Allontanandosi (Combattimento)",
+      "description": "<p>Grazie alla propria esperienza nelle schermaglie si può sparare un ultimo colpo mentre si batte in ritirata.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Parting Shot (Combat) --"
+    },
+    {
+      "id": "Penetrating Attack (Combat)",
+      "name": "Attacco Penetrante (Combattimento)",
+      "description": "<p>Si sa come angolare i propri attacchi per penetrare le difese dell’avversario.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Penetrating Attack (Combat) --"
+    },
+    {
+      "id": "Penetrating Spell",
+      "name": "Incantesimo Penetrante",
+      "description": "<p>Si sa come lanciare incantesimi in modo da penetrare le difese del proprio avversario.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Penetrating Spell --"
+    },
+    {
+      "id": "Powered Armored Proficiency (Combat)",
+      "name": "Competenza nelle Armature Potenziate (Combattimento)",
+      "description": "<p>Si è capaci di utilizzare le armature potenziate.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Powered Armored Proficiency (Combat) --"
+    },
+    {
+      "id": "Psychic Power",
+      "name": "Potere Psichico",
+      "description": "<p>Si possiede una capacità psichica innata.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Psychic Power --"
+    },
+    {
+      "id": "Pull the Pin (Combat)",
+      "name": "Estrarre la Spoletta (Combattimento)",
+      "description": "<p>Si riesce ad attivare la granata di un nemico.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Pull the Pin (Combat) --"
+    },
+    {
+      "id": "Quick Draw (Combat)",
+      "name": "Estrazione Rapida (Combattimento)",
+      "description": "<p>Si riescono a estrarre le armi più velocemente degli altri.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Quick Draw (Combat) --"
+    },
+    {
+      "id": "Reflect Projectiles (Combat)",
+      "name": "Riflettere Proiettili (Combattimento)",
+      "description": "<p>Si può utilizzare la propria arma da mischia per ridirigere gli attacchi.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Reflect Projectiles (Combat) --"
+    },
+    {
+      "id": "Shot on the Run (Combat)",
+      "name": "Tirare in Movimento (Combattimento)",
+      "description": "<p>È possibile muoversi, fare fuoco con un’arma a distanza e muoversi di nuovo prima che i nemici riescano a reagire.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Shot on the Run (Combat) --"
+    },
+    {
+      "id": "Sidestep (Combat)",
+      "name": "Passo Laterale (Combattimento)",
+      "description": "<p>Ci si può riposizionare dopo il colpo non andato a segno di un nemico.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Sidestep (Combat) --"
+    },
+    {
+      "id": "Skill Focus",
+      "name": "Abilità Focalizzata",
+      "description": "<p>Si è particolarmente esperti in una certa <a href=\"https://starfinder.altervista.org/wiki//Abilit%C3%A0\" title=\"Abilità\">Abilità</a>.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Skill Focus --"
+    },
+    {
+      "id": "Skill Synergy",
+      "name": "Sinergia dell'Abilità",
+      "description": "<p>Si comprende come far funzionare bene due abilità in combinazione.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Skill Synergy --"
+    },
+    {
+      "id": "Sky Jockey",
+      "name": "Fantino dei Cieli",
+      "description": "<p>Si riesce a sfruttare al massimo la tecnologia per il volo.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Sky Jockey --"
+    },
+    {
+      "id": "Slippery Shooter (Combat)",
+      "name": "Tiratore Sfuggente (Combattimento)",
+      "description": "<p>Quando si effettua un <a href=\"https://starfinder.altervista.org/wiki//Attacchi_a_Distanza\" class=\"mw-redirect\" title=\"Attacchi a Distanza\">Attacco a Distanza</a> si lasciano meno varchi nelle proprie difese.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Slippery Shooter (Combat) --"
+    },
+    {
+      "id": "Small Arm Proficiency (Combat)",
+      "name": "Competenza nelle Armi Piccole (Combattimento)",
+      "description": "<p>Si è competenti nell’utilizzo delle armi piccole.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Small Arm Proficiency (Combat) --"
+    },
+    {
+      "id": "Sniper Weapon Proficiency (Combat)",
+      "name": "Competenza nelle Armi di Precisione (Combattimento)",
+      "description": "<p>Si è capaci di utilizzare le armi di precisione.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Sniper Weapon Proficiency (Combat) --"
+    },
+    {
+      "id": "Special Weapon Proficiency (Combat)",
+      "name": "Competenza nelle Armi Speciali (Combattimento)",
+      "description": "<p>Si sa come utilizzare un’arma speciale.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Special Weapon Proficiency (Combat) --"
+    },
+    {
+      "id": "Spell Focus",
+      "name": "Incantesimi Focalizzati",
+      "description": "<p>Grazie allo studio si sono resi i propri incantesimi più difficili da contrastare.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Spell Focus --"
+    },
+    {
+      "id": "Spell Penetration",
+      "name": "Incantesimi Inarrestabili",
+      "description": "<p>I propri incantesimi penetrano la resistenza agli incantesimi più facilmente di quelli degli altri incantatori.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Spell Penetration --"
+    },
+    {
+      "id": "Spellbane",
+      "name": "Anatema degli Incantesimi",
+      "description": "<p>Mente e corpo sono resistenti alla magia.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Spellbane --"
+    },
+    {
+      "id": "Spry Cover (Combat)",
+      "name": "Copertura al Movimento (Combattimento)",
+      "description": "<p>Si può fare fuoco di copertura per facilitare il movimento degli alleati.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Spry Cover (Combat) --"
+    },
+    {
+      "id": "Stage Magic",
+      "name": "Magia da Palcoscenico",
+      "description": "<p>Hai imparato nuovi giochi di prestigio con cui distrarre o intrattenere.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Stage Magic --"
+    },
+    {
+      "id": "Stand Still (Combat)",
+      "name": "Immobile (Combattimento)",
+      "description": "<p>Si possono fermare i nemici che tentano di passare oltre.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Stand Still (Combat) --"
+    },
+    {
+      "id": "Step Up (Combat)",
+      "name": "Inseguire (Combattimento)",
+      "description": "<p>Si riduce la distanza da un nemico che tenta di allontanarsi.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Step Up (Combat) --"
+    },
+    {
+      "id": "Step Up and Strike (Combat)",
+      "name": "Inseguire e Colpire (Combattimento)",
+      "description": "<p>Quando un nemico tenta di allontanarsi, è possibile inseguirlo ed effettuare un <a href=\"https://starfinder.altervista.org/wiki//Attacco_d%27Opportunit%C3%A0\" class=\"mw-redirect\" title=\"Attacco d'Opportunità\">Attacco d'Opportunità</a>.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Step Up and Strike (Combat) --"
+    },
+    {
+      "id": "Strike Back (Combat)",
+      "name": "Colpo di Ritorno (Combattimento)",
+      "description": "<p>Si possono colpire gli avversari che sfruttano la loro maggiore <a href=\"https://starfinder.altervista.org/wiki//Movimento_e_Posizione#Portata_e_Quadretti_Minacciati\" title=\"Movimento e Posizione\">Portata</a> per attaccare, mirando alle loro membra quando partono all’assalto.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Strike Back (Combat) --"
+    },
+    {
+      "id": "Suppressive Fire (Combat)",
+      "name": "Fuoco di Soppressione (Combattimento)",
+      "description": "<p>Si possono usare armi automatiche per creare un <a href=\"https://starfinder.altervista.org/wiki//Effetti_Caratteristici#Cono\" title=\"Effetti Caratteristici\">Cono</a> di fuoco di copertura o di disturbo.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Suppressive Fire (Combat) --"
+    },
+    {
+      "id": "Swimming Master",
+      "name": "Maestro Nuotatore",
+      "description": "<p>Si sa nuotare come un pesce.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Swimming Master --"
+    },
+    {
+      "id": "Technomantic Dabbler",
+      "name": "Tecnomante Dilettante",
+      "description": "<p>Ci si diletta a programmare nel linguaggio della magia.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Technomantic Dabbler --"
+    },
+    {
+      "id": "Toughness",
+      "name": "Robustezza",
+      "description": "<p>Si ha una capacità di recupero fisico straordinaria: non ci si stanca facilmente anche in condizioni difficili o durante sforzi prolungati.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Toughness --"
+    },
+    {
+      "id": "Unfriendly Fire (Combat)",
+      "name": "Fuoco Nemico (Combattimento)",
+      "description": "<p>Si possono ingannare i nemici perché facciano fuoco contro un bersaglio diverso da quello designato.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Unfriendly Fire (Combat) --"
+    },
+    {
+      "id": "Veiled Threat",
+      "name": "Minaccia Velata",
+      "description": "<p>Si riesce a essere talmente scaltri che neppure i bersagli delle proprie intimidazioni sono sicuri di essere stati intimiditi.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_Generali#Tabella_dei_Talenti_Generali\" title=\"Talenti Generali\">Tabella dei Talenti Generali</a>\n</p>\n\n\n -- Veiled Threat --"
+    },
+    {
+      "id": "Versatile Focus (Combat)",
+      "name": "Focalizzazione Versatile (Combattimento)",
+      "description": "<p>La propria accuratezza si applica a tutte le armi in cui si ha competenza.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Versatile Focus (Combat) --"
+    },
+    {
+      "id": "Versatile Specialization (Combat)",
+      "name": "Specializzazione Versatile (Combattimento)",
+      "description": "<p>Si sanno sfruttare al massimo le armi normalmente non impiegate dalla propria classe.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Versatile Specialization (Combat) --"
+    },
+    {
+      "id": "Weapon Focus (Combat)",
+      "name": "Arma Focalizzata (Combattimento)",
+      "description": "<p>Ci si è addestrati a lungo con un tipo di arma, e ciò rende più semplice colpire il bersaglio.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Weapon Focus (Combat) --"
+    },
+    {
+      "id": "Weapon Specialization (Combat)",
+      "name": "Arma Specializzata (Combattimento)",
+      "description": "<p>Si è in grado di infliggere molti danni con un tipo di arma che di solito non è impiegata dalla propria classe.\n</p>\n<p><a href=\"https://starfinder.altervista.org/wiki//Talenti_di_Combattimento#Tabella_dei_Talenti_di_Combattimento\" title=\"Talenti di Combattimento\">Tabella dei Talenti di Combattimento</a>\n</p>\n\n\n -- Weapon Specialization (Combat) --"
+    }
+  ]
 }
