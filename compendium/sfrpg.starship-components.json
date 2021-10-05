@@ -42,6 +42,11 @@
       "description": "-- Gyrolaser --"
     },
     {
+      "id": "Heavy EMP cannon",
+      "name": "Cannone IEM Pesante",
+      "description": "-- Heavy EMP cannon --"
+    },
+    {
       "id": "Heavy antimatter missile launcher",
       "name": "Lanciamissili Pesanti ad Antimateria",
       "description": "-- Heavy antimatter missile launcher --"
@@ -50,11 +55,6 @@
       "id": "Heavy cytoplasm launcher",
       "name": "Lanciacitoplasma Pesante",
       "description": "-- Heavy cytoplasm launcher --"
-    },
-    {
-      "id": "Heavy EMP cannon",
-      "name": "Cannone IEM Pesante",
-      "description": "-- Heavy EMP cannon --"
     },
     {
       "id": "Heavy laser array",
@@ -90,11 +90,6 @@
       "id": "Heavy torpedo launcher",
       "name": "Lanciasiluri Pesanti",
       "description": "-- Heavy torpedo launcher --"
-    },
-    {
-      "id": "Hellfire mines (4)",
-      "name": "Lanciasiluri Fuoco Infernale",
-      "description": "-- Hellfire mines (4) --"
     },
     {
       "id": "High explosive missile launcher",
@@ -207,14 +202,14 @@
       "description": "-- Super EMP cannon --"
     },
     {
-      "id": "Super plasma cannon",
-      "name": "Super Cannone Plasma",
-      "description": "-- Super plasma cannon --"
-    },
-    {
       "id": "Super X-laser cannon",
       "name": "Super Cannone Laser a Raggi X",
       "description": "-- Super X-laser cannon --"
+    },
+    {
+      "id": "Super plasma cannon",
+      "name": "Super Cannone Plasma",
+      "description": "-- Super plasma cannon --"
     },
     {
       "id": "Supergraser",
