@@ -1,5 +1,5 @@
 {
-  "label": "Componenti Astronavi",
+  "label": "Starship Components",
   "entries": [
     {
       "id": "Antimatter mega-missile launcher",
@@ -37,14 +37,14 @@
       "description": "-- Gravity gun --"
     },
     {
+      "id": "Gravity twister launcher",
+      "name": "Lanciatore a Torsione Gravitazionale",
+      "description": "-- Gravity twister launcher --"
+    },
+    {
       "id": "Gyrolaser",
       "name": "Laser Giroscopico",
       "description": "-- Gyrolaser --"
-    },
-    {
-      "id": "Heavy EMP cannon",
-      "name": "Cannone IEM Pesante",
-      "description": "-- Heavy EMP cannon --"
     },
     {
       "id": "Heavy antimatter missile launcher",
@@ -55,6 +55,11 @@
       "id": "Heavy cytoplasm launcher",
       "name": "Lanciacitoplasma Pesante",
       "description": "-- Heavy cytoplasm launcher --"
+    },
+    {
+      "id": "Heavy EMP cannon",
+      "name": "Cannone IEM Pesante",
+      "description": "-- Heavy EMP cannon --"
     },
     {
       "id": "Heavy laser array",
@@ -82,6 +87,11 @@
       "description": "-- Heavy plasma torpedo launcher --"
     },
     {
+      "id": "Heavy ramming prow",
+      "name": "Rostro Pesante",
+      "description": "-- Heavy ramming prow --"
+    },
+    {
       "id": "Heavy spore torpedo launcher",
       "name": "Laser Sporiferi Pesante",
       "description": "-- Heavy spore torpedo launcher --"
@@ -90,6 +100,11 @@
       "id": "Heavy torpedo launcher",
       "name": "Lanciasiluri Pesanti",
       "description": "-- Heavy torpedo launcher --"
+    },
+    {
+      "id": "Hellfire torpedo launcher",
+      "name": "Lanciasiluri Fuoco Infernale",
+      "description": "-- Hellfire torpedo launcher --"
     },
     {
       "id": "High explosive missile launcher",
@@ -122,6 +137,11 @@
       "description": "-- Light plasma torpedo launcher --"
     },
     {
+      "id": "Light ramming prow",
+      "name": "Rostro Leggero",
+      "description": "-- Light ramming prow --"
+    },
+    {
       "id": "Light spore torpedo launcher",
       "name": "Laser Sporiferi Leggero",
       "description": "-- Light spore torpedo launcher --"
@@ -142,6 +162,11 @@
       "description": "-- Mass driver --"
     },
     {
+      "id": "Massive ramming prow",
+      "name": "Rostro Massiccio",
+      "description": "-- Massive ramming prow --"
+    },
+    {
       "id": "Micromissile battery",
       "name": "Batteria di Micromissili",
       "description": "-- Micromissile battery --"
@@ -150,6 +175,16 @@
       "id": "Mining laser",
       "name": "Laser Minatore",
       "description": "-- Mining laser --"
+    },
+    {
+      "id": "Minor ramming prow",
+      "name": "Rostro Minore",
+      "description": "-- Minor ramming prow --"
+    },
+    {
+      "id": "Missile blocker",
+      "name": "Bloccamissili",
+      "description": "-- Missile blocker --"
     },
     {
       "id": "Nuclear mega-missile launcher",
@@ -182,14 +217,29 @@
       "description": "-- Plasma cannon --"
     },
     {
+      "id": "Pulsed gyrolaser",
+      "name": "Laser Giroscopico Pulsato",
+      "description": "-- Pulsed gyrolaser --"
+    },
+    {
       "id": "Quantum missile launcher",
       "name": "Lanciamissili Quantistici",
       "description": "-- Quantum missile launcher --"
     },
     {
-      "id": "Railgun",
-      "name": "Cannone a Rotaia",
-      "description": "-- Railgun --"
+      "id": "Scrambler (+5)",
+      "name": "Scrambler",
+      "description": "-- Scrambler (+5) --"
+    },
+    {
+      "id": "Slow burn heavy missile launcher (4d8)",
+      "name": "Lanciamissili Pesanti a Combustione Lenta",
+      "description": "-- Slow burn heavy missile launcher (4d8) --"
+    },
+    {
+      "id": "Slow burn missile launcher (2d6)",
+      "name": "Lanciamissili a Combustione Lenta",
+      "description": "-- Slow burn missile launcher (2d6) --"
     },
     {
       "id": "Solar torpedo launcher",
@@ -202,14 +252,14 @@
       "description": "-- Super EMP cannon --"
     },
     {
-      "id": "Super X-laser cannon",
-      "name": "Super Cannone Laser a Raggi X",
-      "description": "-- Super X-laser cannon --"
-    },
-    {
       "id": "Super plasma cannon",
       "name": "Super Cannone Plasma",
       "description": "-- Super plasma cannon --"
+    },
+    {
+      "id": "Super X-laser cannon",
+      "name": "Super Cannone Laser a Raggi X",
+      "description": "-- Super X-laser cannon --"
     },
     {
       "id": "Supergraser",
@@ -227,9 +277,24 @@
       "description": "-- Supermaser --"
     },
     {
+      "id": "Superscrambler (+10)",
+      "name": "Superscrambler",
+      "description": "-- Superscrambler (+10) --"
+    },
+    {
       "id": "Tactical nuclear missile launcher",
       "name": "Lanciamissili Nucleari Tattici",
       "description": "-- Tactical nuclear missile launcher --"
+    },
+    {
+      "id": "Torpedo blocker",
+      "name": "Bloccasiluri",
+      "description": "-- Torpedo blocker --"
+    },
+    {
+      "id": "Tracer",
+      "name": "Tracciatore",
+      "description": "-- Tracer --"
     },
     {
       "id": "Twin laser",
