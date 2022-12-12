@@ -1,7 +1,7 @@
-# foundryvtt-sf-lang-it-it
-FoundryVTT SF lang it-it 
+## Module Manifest
 https://raw.githubusercontent.com/coboye/foundryvtt-sf-lang-it-it/main/module.json
 
+```
 TODO fix undefined from procedural scrapper
 info: universal-creature-rules DONE! translated 52/58; skipped 1  {"service":"user-service"}
 info: spells 513 DONE! translated 285/285; skipped 228  {"service":"user-service"}
@@ -19,3 +19,4 @@ info: hybrid-items DONE! translated 84/86 {"service":"user-service"}
 info: starship-weapons DONE! translated 62/64 {"service":"user-service"}
 
 info: =========================================================> END {"service":"user-service"}
+```
